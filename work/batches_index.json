@@ -1,0 +1,296 @@
+[
+ {
+  "batch": 1,
+  "file": "work/batches/batch_001.json",
+  "count": 80,
+  "first": "/Forms/ControlView/Caption",
+  "last": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/LoopShift/Caption"
+ },
+ {
+  "batch": 2,
+  "file": "work/batches/batch_002.json",
+  "count": 80,
+  "first": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/Caption",
+  "last": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/1"
+ },
+ {
+  "batch": 3,
+  "file": "work/batches/batch_003.json",
+  "count": 80,
+  "first": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/2",
+  "last": "/Forms/EqualizerForm/Band4/Label"
+ },
+ {
+  "batch": 4,
+  "file": "work/batches/batch_004.json",
+  "count": 80,
+  "first": "/Forms/EqualizerForm/Band4Label/Caption",
+  "last": "/Forms/MultibandEffectForm/Sync/Caption"
+ },
+ {
+  "batch": 5,
+  "file": "work/batches/batch_005.json",
+  "count": 80,
+  "first": "/Forms/NoiseGateForm/Caption",
+  "last": "/Forms/SmootherForm/Caption"
+ },
+ {
+  "batch": 6,
+  "file": "work/batches/batch_006.json",
+  "count": 80,
+  "first": "/Forms/SmootherForm/Length/Caption",
+  "last": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartMemoryHow/Items.Strings/1"
+ },
+ {
+  "batch": 7,
+  "file": "work/batches/batch_007.json",
+  "count": 80,
+  "first": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartMemoryHow/Items.Strings/2",
+  "last": "/Forms/AmplitudeStatisticsForm/List/Columns/8/Caption"
+ },
+ {
+  "batch": 8,
+  "file": "work/batches/batch_008.json",
+  "count": 80,
+  "first": "/Forms/AmplitudeStatisticsForm/List/Columns/9/Caption",
+  "last": "/Forms/BatchForm/PageControl/Information/InfoMode/Items.Strings/4"
+ },
+ {
+  "batch": 9,
+  "file": "work/batches/batch_009.json",
+  "count": 80,
+  "first": "/Forms/BatchForm/Minimize/Caption",
+  "last": "/Forms/CDReaderForm/DeviceLabel/Caption"
+ },
+ {
+  "batch": 10,
+  "file": "work/batches/batch_010.json",
+  "count": 80,
+  "first": "/Forms/CDReaderForm/ActionList/SaveTracksAction/Hint",
+  "last": "/Forms/CompareForm/PageControl/Settings/Mode/Items.Strings/2"
+ },
+ {
+  "batch": 11,
+  "file": "work/batches/batch_011.json",
+  "count": 80,
+  "first": "/Forms/CompareForm/PageControl/Settings/Instructions/Caption",
+  "last": "/Forms/AddEvalPreset/GroupLabel/Caption"
+ },
+ {
+  "batch": 12,
+  "file": "work/batches/batch_012.json",
+  "count": 80,
+  "first": "/Forms/AddEvalPreset/PresetLabel/Caption",
+  "last": "/Forms/InformationForm/Paste/Caption"
+ },
+ {
+  "batch": 13,
+  "file": "work/batches/batch_013.json",
+  "count": 80,
+  "first": "/Forms/InformationForm/Clear/Hint",
+  "last": "/Forms/NewSoundForm/SettingsBox/Channel/Text"
+ },
+ {
+  "batch": 14,
+  "file": "work/batches/batch_014.json",
+  "count": 80,
+  "first": "/Forms/NewSoundForm/SettingsBox/Channel/Items.Strings/0",
+  "last": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/40"
+ },
+ {
+  "batch": 15,
+  "file": "work/batches/batch_015.json",
+  "count": 80,
+  "first": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/41",
+  "last": "/Forms/PageForm/ActionList/ApplyAction/Hint"
+ },
+ {
+  "batch": 16,
+  "file": "work/batches/batch_016.json",
+  "count": 80,
+  "first": "/Forms/TestPlaybackForm/Caption",
+  "last": "/Forms/SpeechForm/ActionManager/Dictate/Hint"
+ },
+ {
+  "batch": 17,
+  "file": "work/batches/batch_017.json",
+  "count": 80,
+  "first": "/Forms/SpeechForm/ActionManager/Halt/Hint",
+  "last": "/Forms/ToolBarForm/PageControl/EffectPage/EffectConfig/Text"
+ },
+ {
+  "batch": 18,
+  "file": "work/batches/batch_018.json",
+  "count": 80,
+  "first": "/Forms/ToolBarForm/PageControl/ControlTab/ControlVisible/Caption",
+  "last": "/Forms/WindowOptionsForm/ZoomBox/Preset/Label"
+ },
+ {
+  "batch": 19,
+  "file": "work/batches/batch_019.json",
+  "count": 80,
+  "first": "/Forms/WindowOptionsForm/ZoomBox/ZoomPresetLabel/Caption",
+  "last": "/Forms/Multiband/Band/Gain/Caption"
+ },
+ {
+  "batch": 20,
+  "file": "work/batches/batch_020.json",
+  "count": 80,
+  "first": "/Forms/Multiband/Band/Mode/Items.Strings/2",
+  "last": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectPluginMenu/Caption"
+ },
+ {
+  "batch": 21,
+  "file": "work/batches/batch_021.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectPluginMenu/Hint",
+  "last": "/Forms/GWMainForm/ActionList/FileRecentK/Caption"
+ },
+ {
+  "batch": 22,
+  "file": "work/batches/batch_022.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/FileRecentL/Caption",
+  "last": "/Forms/GWMainForm/ActionList/EditOverwrite/Caption"
+ },
+ {
+  "batch": 23,
+  "file": "work/batches/batch_023.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/EditOverwrite/Hint",
+  "last": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToBeginning/Hint"
+ },
+ {
+  "batch": 24,
+  "file": "work/batches/batch_024.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToBeginning/ToolCaption",
+  "last": "/Forms/GWMainForm/ActionList/View1Minute/Hint"
+ },
+ {
+  "batch": 25,
+  "file": "work/batches/batch_025.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/View1Minute/ToolCaption",
+  "last": "/Forms/GWMainForm/ActionList/EffectVolumeFadeIn/Hint"
+ },
+ {
+  "batch": 26,
+  "file": "work/batches/batch_026.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/EffectVolumeFadeOut/Caption",
+  "last": "/Forms/GWMainForm/ActionList/OptionWindow/ToolCaption"
+ },
+ {
+  "batch": 27,
+  "file": "work/batches/batch_027.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/WindowCascade/Caption",
+  "last": "/Forms/GWMainForm/ActionList/ViewZoomInSelection/Caption"
+ },
+ {
+  "batch": 28,
+  "file": "work/batches/batch_028.json",
+  "count": 80,
+  "first": "/Forms/GWMainForm/ActionList/ViewZoomInSelection/Hint",
+  "last": "/Forms/BulgePage/SlowFade/Caption"
+ },
+ {
+  "batch": 29,
+  "file": "work/batches/batch_029.json",
+  "count": 80,
+  "first": "/Forms/ColourScalePage/Caption",
+  "last": "/Forms/WaveformPage/Caption"
+ },
+ {
+  "batch": 30,
+  "file": "work/batches/batch_030.json",
+  "count": 80,
+  "first": "/Forms/WaveformPage/DrawMode/Caption",
+  "last": "/Internal/sControlLevelNil"
+ },
+ {
+  "batch": 31,
+  "file": "work/batches/batch_031.json",
+  "count": 80,
+  "first": "/Internal/sDeviceStatusBad",
+  "last": "/Internal/segCannotReplaceFile"
+ },
+ {
+  "batch": 32,
+  "file": "work/batches/batch_032.json",
+  "count": 80,
+  "first": "/Internal/segCannotDeleteFile",
+  "last": "/Internal/sSpeechNoSelection"
+ },
+ {
+  "batch": 33,
+  "file": "work/batches/batch_033.json",
+  "count": 80,
+  "first": "/Internal/sSpeechDictationUnavailable",
+  "last": "/Internal/sLanguageNotSet"
+ },
+ {
+  "batch": 34,
+  "file": "work/batches/batch_034.json",
+  "count": 80,
+  "first": "/Internal/sHelpCannotOpen",
+  "last": "/Internal/sException/7"
+ },
+ {
+  "batch": 35,
+  "file": "work/batches/batch_035.json",
+  "count": 80,
+  "first": "/Internal/sException/8",
+  "last": "/Internal/sEditInvalid"
+ },
+ {
+  "batch": 36,
+  "file": "work/batches/batch_036.json",
+  "count": 80,
+  "first": "/Internal/sTimeBadSeparator",
+  "last": "/Visual/Time and Status"
+ },
+ {
+  "batch": 37,
+  "file": "work/batches/batch_037.json",
+  "count": 80,
+  "first": "/Visual/Tone Meter",
+  "last": "/Preset/2:1, hard"
+ },
+ {
+  "batch": 38,
+  "file": "work/batches/batch_038.json",
+  "count": 80,
+  "first": "/Preset/2:1, soft",
+  "last": "/Preset/Chorus 3"
+ },
+ {
+  "batch": 39,
+  "file": "work/batches/batch_039.json",
+  "count": 80,
+  "first": "/Preset/Chorus 2",
+  "last": "/Preset/Notch at 1000Hz, 50Hz wide"
+ },
+ {
+  "batch": 40,
+  "file": "work/batches/batch_040.json",
+  "count": 80,
+  "first": "/Preset/Bandpass 1000Hz to 2000Hz",
+  "last": "/Preset/Cavern echo"
+ },
+ {
+  "batch": 41,
+  "file": "work/batches/batch_041.json",
+  "count": 80,
+  "first": "/Preset/Echoes and bass boosted",
+  "last": "/Preset/Sonar2"
+ },
+ {
+  "batch": 42,
+  "file": "work/batches/batch_042.json",
+  "count": 24,
+  "first": "/Preset/Square, f = Hz",
+  "last": "/Preset/Leave 1 second at -40db, trailing"
+ }
+]
