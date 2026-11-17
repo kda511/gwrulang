@@ -2,8 +2,8 @@
     "Language": {
         "ISO Code": "en",
         "Display Name": "English",
-        "Date": "2024-01-22",
-        "Copyright": "Original English Text © 2024 GoldWave Inc.  All rights reserved.",
+        "Date": "2026-09-29",
+        "Copyright": "Original English Text © 2026 GoldWave Inc.  All rights reserved.",
         "Revision": "Original"
     },
     "Forms": {
@@ -158,7 +158,7 @@
                         "LoopCountPlay1": {
                             "Hint": "Set the number of loops",
                             "Label": "Green Loop",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "LoopPlay1": {
                             "Hint": "Enable or disable looping",
@@ -185,7 +185,7 @@
                         "LoopCountPlay2": {
                             "Hint": "Set the number of loops",
                             "Label": "Yellow Loop",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "LoopPlay2": {
                             "Hint": "Enable or disable looping",
@@ -212,7 +212,7 @@
                         "LoopCountPlay3": {
                             "Hint": "Set the number of loops",
                             "Label": "Yellow Loop",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "LoopPlay3": {
                             "Hint": "Enable or disable looping",
@@ -239,7 +239,7 @@
                         "RewindEdit": {
                             "Hint": "Set the rewind speed",
                             "Label": "Rewind",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "RewindLabel": {
                             "Caption": "&Rewind:"
@@ -247,7 +247,7 @@
                         "FastEdit": {
                             "Hint": "Set the fast forward speed",
                             "Label": "Fast",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "FastLabel": {
                             "Caption": "&Fast:"
@@ -271,19 +271,22 @@
                         "SkipForward": {
                             "Hint": "Set the skip forward time",
                             "Label": "Forward",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "ForwardLabel": {
-                            "Caption": "Fo&ward:"
+                            "Caption": "For&ward:"
                         },
                         "SkipBackward": {
                             "Hint": "Set the skip backward time",
                             "Label": "Backward",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "BackLabel": {
                             "Caption": "&Backward:"
                         }
+                    },
+                    "LoopShift": {
+                        "Caption": "Change loop mode when Shift key is down"
                     }
                 },
                 "RecordSheet": {
@@ -324,8 +327,7 @@
                                 "2:00:00",
                                 "5:00:00"
                             ],
-                            "Text": "00:10:00",
-                            "Caption": "00:10:00"
+                            "Text": "00:10:00"
                         },
                         "RecordUseDuration": {
                             "Caption": "Use new file duration:"
@@ -341,7 +343,7 @@
                         },
                         "RecordTimeEdit": {
                             "Label": "Time",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "RecordTimeLabel": {
                             "Caption": "T&ime:"
@@ -368,21 +370,21 @@
                         },
                         "RecordThresholdEdit": {
                             "Label": "Threshold",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "RecordThresholdLabel": {
                             "Caption": "Thres&hold (dB):"
                         },
                         "RecordDurationEdit": {
                             "Label": "Level Duration",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "RecordDurationLabel": {
                             "Caption": "Minimum &duration (s):"
                         },
                         "RecordPrebufferEdit": {
                             "Label": "Prebuffer",
-                            "Caption": "1"
+                            "Text": "1"
                         },
                         "RecordPrebufferLabel": {
                             "Caption": "&Prebuffer (s):"
@@ -414,7 +416,7 @@
                     },
                     "VolumeMasterNum": {
                         "Label": "Master control",
-                        "Caption": "0"
+                        "Text": "0"
                     },
                     "VolumeMasterLabel": {
                         "Caption": "Master control:"
@@ -699,8 +701,7 @@
                     "2.0",
                     "5.0"
                 ],
-                "Text": "1.00",
-                "Caption": "1.00"
+                "Text": "1.00"
             },
             "DurationLabel": {
                 "Caption": "Duration for offset calculation (s):"
@@ -844,49 +845,49 @@
             },
             "Band1": {
                 "Label": "60Hz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band1Label": {
                 "Caption": "60Hz"
             },
             "Band2": {
                 "Label": "150Hz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band2Label": {
                 "Caption": "150Hz"
             },
             "Band3": {
                 "Label": "400Hz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band3Label": {
                 "Caption": "400Hz"
             },
             "Band4": {
                 "Label": "1kHz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band4Label": {
                 "Caption": "1000Hz"
             },
             "Band5": {
                 "Label": "2.4kHz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band5Label": {
                 "Caption": "2400Hz"
             },
             "Band6": {
                 "Label": "6kHz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band6Label": {
                 "Caption": "6000Hz"
             },
             "Band7": {
                 "Label": "15kHz band",
-                "Caption": "0.0"
+                "Text": "0.0"
             },
             "Band7Label": {
                 "Caption": "15kHz"
@@ -991,7 +992,7 @@
                 },
                 "Feedback": {
                     "Label": "Feedback volume",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "FeedbackFader": {
                     "Hint": " (0%)"
@@ -1001,7 +1002,7 @@
                 },
                 "Flanger": {
                     "Label": "Flanger volume",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "FlangerFader": {
                     "Hint": " (0%)"
@@ -1011,7 +1012,7 @@
                 },
                 "Source": {
                     "Label": "Source volume",
-                    "Caption": "100"
+                    "Text": "100"
                 },
                 "SourceLabel": {
                     "Caption": "Source (%):"
@@ -1113,6 +1114,9 @@
                     }
                 }
             },
+            "IndependentChannels": {
+                "Caption": "Independent channels"
+            },
             "PopupMenu": {
                 "MenuCopyTime": {
                     "Caption": "Copy &Time"
@@ -1152,7 +1156,7 @@
             },
             "Time": {
                 "Label": "Time index",
-                "Caption": "00:00:00.00000"
+                "Text": "00:00:00.00000"
             },
             "Low": {
                 "Caption": "Band 2  (Hz):"
@@ -1235,14 +1239,14 @@
                 "Caption": " Settings ",
                 "FFTSize": {
                     "Label": "FFT size",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "FFTSizeLabel": {
                     "Caption": "&FFT size:"
                 },
                 "Scale": {
                     "Label": "Scale",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "ScaleLabel": {
                     "Caption": "Scale (%):"
@@ -1267,7 +1271,7 @@
             },
             "Time": {
                 "Label": "Time index",
-                "Caption": "00:00:00.00000"
+                "Text": "00:00:00.00000"
             },
             "TimeLabel": {
                 "Caption": "Time:"
@@ -1332,7 +1336,7 @@
             "Caption": "Parametric EQ",
             "Band": {
                 "Label": "Band",
-                "Caption": "1"
+                "Text": "1"
             },
             "BandLabel": {
                 "Caption": "Band"
@@ -1347,7 +1351,7 @@
             },
             "Time": {
                 "Label": "Time",
-                "Caption": "00:00:00.000"
+                "Text": "00:00:00.000"
             },
             "Gain": {
                 "Caption": "Gain (dB):"
@@ -1405,21 +1409,21 @@
                 },
                 "Scale": {
                     "Label": "Scale",
-                    "Caption": "100.00"
+                    "Text": "100.00"
                 },
                 "SemitoneFader": {
                     "Hint": " (0%)"
                 },
                 "Semitone": {
                     "Label": "Semitone",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "FinetuneFader": {
                     "Hint": " (0%)"
                 },
                 "Finetune": {
                     "Label": "Fine tune",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "FinetuneLabel": {
                     "Caption": "Fine tune:"
@@ -1429,7 +1433,7 @@
                 "Caption": " ",
                 "FFTSize": {
                     "Label": "FFT size",
-                    "Caption": "8"
+                    "Text": "1"
                 },
                 "FFTSizeLabel": {
                     "Caption": "&FFT size:"
@@ -1508,7 +1512,7 @@
                 },
                 "Point": {
                     "Label": "Point",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "RemovePoint": {
                     "Hint": "Remove the current point",
@@ -1516,11 +1520,11 @@
                 },
                 "X": {
                     "Label": "X",
-                    "Caption": "0.0000"
+                    "Text": "0.0000"
                 },
                 "Y": {
                     "Label": "Y",
-                    "Caption": "0.0000"
+                    "Text": "0.0000"
                 }
             }
         },
@@ -1613,7 +1617,7 @@
                 "Caption": " FFT Settings ",
                 "FFTSize": {
                     "Label": "FFT size",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "FFTSizeLabel": {
                     "Caption": "&FFT size:"
@@ -1639,7 +1643,7 @@
                 },
                 "Time": {
                     "Label": "Time index",
-                    "Caption": "00:00:00.00000"
+                    "Text": "00:00:00.00000"
                 },
                 "TimeLabel": {
                     "Caption": "&Time:"
@@ -1659,7 +1663,7 @@
                 "Panel1": {
                     "KeyFrame": {
                         "Label": "Point",
-                        "Caption": "1"
+                        "Text": "1"
                     },
                     "KeyFrameRemove": {
                         "Hint": "Remove the current keyframe",
@@ -1667,7 +1671,7 @@
                     },
                     "KeyFrameTime": {
                         "Label": "Time index",
-                        "Caption": "00:00:00.00000"
+                        "Text": "00:00:00.00000"
                     },
                     "LabelKeyFrame": {
                         "Caption": "Keyframe:"
@@ -1695,7 +1699,7 @@
                 },
                 "FFTSize": {
                     "Label": "FFT size",
-                    "Caption": "8"
+                    "Text": "1"
                 },
                 "FFTSizeLabel": {
                     "Caption": "&FFT size:"
@@ -1735,11 +1739,11 @@
                 },
                 "Speed": {
                     "Label": "Change",
-                    "Caption": "100.00"
+                    "Text": "100"
                 },
                 "Time": {
                     "Label": "Length",
-                    "Caption": "50.00000"
+                    "Text": "100"
                 },
                 "ByTempo": {
                     "Caption": "Tempo (BPM):"
@@ -1796,6 +1800,9 @@
                         },
                         "FFTSize": {
                             "Caption": "&FFT size:"
+                        },
+                        "STN": {
+                            "Caption": "Advanced STN modeling"
                         }
                     }
                 }
@@ -1916,7 +1923,7 @@
                             },
                             "StartTimeEdit": {
                                 "Label": "Time",
-                                "Caption": "0"
+                                "Text": "0"
                             },
                             "StartPercentEdit": {
                                 "Label": "Percent",
@@ -1970,7 +1977,7 @@
                             },
                             "FinishTimeEdit": {
                                 "Label": "Time",
-                                "Caption": "0"
+                                "Text": "0"
                             },
                             "FinishPercentEdit": {
                                 "Label": "Percent",
@@ -2056,8 +2063,7 @@
                                 "10.0",
                                 "30.0"
                             ],
-                            "Text": "1.0",
-                            "Caption": "1.0"
+                            "Text": "1.0"
                         },
                         "DurationLabel": {
                             "Caption": "Duration (s):"
@@ -2153,6 +2159,7 @@
                                 "64000",
                                 "88200",
                                 "96000",
+                                "176400",
                                 "192000",
                                 "352800",
                                 "384000",
@@ -2254,7 +2261,7 @@
             },
             "Parameter": {
                 "Label": "Parameter",
-                "Caption": "0",
+                "Text": "0",
                 "TextHint": "number or time"
             }
         },
@@ -2353,8 +2360,7 @@
                                 "5:00",
                                 "10:00"
                             ],
-                            "Text": "0.100",
-                            "Caption": "0.100"
+                            "Text": "0.100"
                         },
                         "PlacementLabel": {
                             "Caption": "Cue placement within area (%):"
@@ -2384,7 +2390,7 @@
                         },
                         "Start": {
                             "Label": "Starting Time",
-                            "Caption": "0.00"
+                            "Text": "0.00"
                         },
                         "IntervalLabel": {
                             "Caption": "Interval (s):"
@@ -2404,8 +2410,7 @@
                                 "30:00.0",
                                 "1:00:00.0"
                             ],
-                            "Text": "5:00.00",
-                            "Caption": "5:00.00"
+                            "Text": "5:00.00"
                         },
                         "CalculateInterval": {
                             "Caption": "Calculate..."
@@ -2554,6 +2559,7 @@
                                 "64000",
                                 "88200",
                                 "96000",
+                                "176400",
                                 "192000",
                                 "352800",
                                 "384000",
@@ -2703,7 +2709,7 @@
             "Caption": "Calculate",
             "SplitsEdit": {
                 "Label": "Number of cues",
-                "Caption": "1"
+                "Text": "1"
             },
             "SplitsPrompt": {
                 "Caption": "Maximum number of cue points to be created:"
@@ -2807,13 +2813,11 @@
                     },
                     "From": {
                         "Label": "From",
-                        "Text": "0:00.000",
-                        "Caption": "0:00.000"
+                        "Text": "0:00.000"
                     },
                     "To": {
                         "Label": "To",
-                        "Text": "0:00.000",
-                        "Caption": "0:00.000"
+                        "Text": "0:00.000"
                     },
                     "PreviewFrom": {
                         "Hint": "Previews \"From\" setting",
@@ -2958,6 +2962,12 @@
             },
             "RemoveAll": {
                 "Caption": "Clear"
+            },
+            "MoveDown": {
+                "Caption": "Move Down"
+            },
+            "MoveUp": {
+                "Caption": "Move Up"
             }
         },
         "AddChainForm": {
@@ -3365,7 +3375,7 @@
             },
             "Position": {
                 "Label": "Position",
-                "Caption": "00:00:00.000000"
+                "Text": "0"
             },
             "PositionLabel": {
                 "Caption": "Position:"
@@ -3384,6 +3394,15 @@
             },
             "AddSub": {
                 "Caption": "+"
+            },
+            "Actual": {
+                "Caption": "00:00:00.00000"
+            },
+            "Equals": {
+                "Caption": "="
+            },
+            "AutoSetName": {
+                "Caption": "Set name to position"
             },
             "ActionList": {
                 "OK": {
@@ -3515,7 +3534,7 @@
                 },
                 "t": {
                     "Label": "t",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "tLabel": {
                     "Caption": "Initial t ="
@@ -3525,21 +3544,21 @@
                 "Caption": " User constants ",
                 "x": {
                     "Label": "x",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "xLabel": {
                     "Caption": "x ="
                 },
                 "y": {
                     "Label": "y",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "yLabel": {
                     "Caption": "y ="
                 },
                 "f": {
                     "Label": "f",
-                    "Caption": "0"
+                    "Text": "0"
                 },
                 "fLabel": {
                     "Caption": "f ="
@@ -3821,6 +3840,16 @@
             "NowButton": {
                 "Caption": "Now"
             },
+            "Lyrics": {
+                "Hint": "Removes the artwork",
+                "Caption": "Lyrics"
+            },
+            "Performer": {
+                "Caption": "Performer:"
+            },
+            "BPM": {
+                "Caption": "BPM:"
+            },
             "ActionList": {
                 "ActionCopy": {
                     "Caption": "Copy",
@@ -3861,8 +3890,7 @@
                     "30:00",
                     "1:00:00"
                 ],
-                "Text": "1.000000",
-                "Caption": "1.000000"
+                "Text": "1.000000"
             },
             "TimeLabel": {
                 "Caption": "Duration (s):"
@@ -3993,8 +4021,7 @@
         "MarkersForm": {
             "Caption": "Markers",
             "Start": {
-                "Text": "00:00:00.000",
-                "Caption": "00:00:00.000"
+                "Text": "00:00:00.000"
             },
             "SetStart": {
                 "Caption": "Set"
@@ -4006,8 +4033,7 @@
                 "Caption": "Finish:"
             },
             "Finish": {
-                "Text": "00:00:00.000",
-                "Caption": "00:00:00.000"
+                "Text": "00:00:00.000"
             },
             "SetFinish": {
                 "Caption": "Set"
@@ -4016,8 +4042,7 @@
                 "Caption": "Selection range:"
             },
             "Range": {
-                "Text": "00:00:00.000",
-                "Caption": "00:00:00.000"
+                "Text": "00:00:00.000"
             },
             "SetRange": {
                 "Caption": "Set"
@@ -4026,8 +4051,7 @@
                 "Caption": "Playback marker:"
             },
             "Playback": {
-                "Text": "00:00:00.000",
-                "Caption": "00:00:00.000"
+                "Text": "00:00:00.000"
             },
             "SetPlayback": {
                 "Caption": "Set"
@@ -4128,12 +4152,14 @@
             "Invert": {
                 "Caption": "Invert"
             },
+            "Loop": {
+                "Caption": "Trim or loop clipboard to match selection"
+            },
             "VolumeFrame": {
                 "Caption": "Volume (dB):"
             },
             "Start": {
-                "Label": "Start",
-                "Caption": "1"
+                "Label": "Start"
             },
             "TimeLabel": {
                 "Caption": "Time where mix will begin:"
@@ -4207,8 +4233,7 @@
                         "10:00:00.0",
                         "24:00:00.0"
                     ],
-                    "Text": "1:00.000",
-                    "Caption": "1:00.000"
+                    "Text": "1:00.000"
                 },
                 "LengthLabel": {
                     "Caption": "Initial file length (HH:MM:SS.T):"
@@ -4229,6 +4254,7 @@
                         "64000",
                         "88200",
                         "96000",
+                        "176400",
                         "192000",
                         "352800",
                         "384000",
@@ -4252,6 +4278,9 @@
                 "ChannelsLabel": {
                     "Caption": "Number of channels:"
                 }
+            },
+            "RecordingSource": {
+                "Caption": "Set Recording Source..."
             }
         },
         "OkCancelForm": {
@@ -4422,6 +4451,162 @@
                 }
             }
         },
+        "TranscribeOptionsForm": {
+            "Caption": "Transcribe Settings",
+            "Panel2": {
+                "LanguageLabel": {
+                    "Caption": "Language:"
+                },
+                "Language": {
+                    "Items.Strings": [
+                        "Auto",
+                        "English",
+                        "Chinese",
+                        "German",
+                        "Spanish",
+                        "Russian",
+                        "Korean",
+                        "French",
+                        "Japanese",
+                        "Portuguese",
+                        "Turkish",
+                        "Polish",
+                        "Catalan",
+                        "Dutch",
+                        "Arabic",
+                        "Swedish",
+                        "Italian",
+                        "Indonesian",
+                        "Hindi",
+                        "Finnish",
+                        "Vietnamese",
+                        "Hebrew",
+                        "Ukrainian",
+                        "Greek",
+                        "Malay",
+                        "Czech",
+                        "Romanian",
+                        "Danish",
+                        "Hungarian",
+                        "Tamil",
+                        "Norwegian",
+                        "Thai",
+                        "Urdu",
+                        "Croatian",
+                        "Bulgarian",
+                        "Lithuanian",
+                        "Latin",
+                        "Maori",
+                        "Malayalam",
+                        "Welsh",
+                        "Slovak",
+                        "Telugu",
+                        "Persian",
+                        "Latvian",
+                        "Bengali",
+                        "Serbian",
+                        "Azerbaijani",
+                        "Slovenian",
+                        "Kannada",
+                        "Estonian",
+                        "Macedonian",
+                        "Breton",
+                        "Basque",
+                        "Icelandic",
+                        "Armenian",
+                        "Nepali",
+                        "Mongolian",
+                        "Bosnian",
+                        "Kazakh",
+                        "Albanian",
+                        "Swahili",
+                        "Galician",
+                        "Marathi",
+                        "Punjabi",
+                        "Sinhala",
+                        "Khmer",
+                        "Shona",
+                        "Yoruba",
+                        "Somali",
+                        "Afrikaans",
+                        "Occitan",
+                        "Georgian",
+                        "Belarusian",
+                        "Tajik",
+                        "Sindhi",
+                        "Gujarati",
+                        "Amharic",
+                        "Yiddish",
+                        "Lao",
+                        "Uzbek",
+                        "Faroese",
+                        "Haitian Creole",
+                        "Pashto",
+                        "Turkmen",
+                        "Nynorsk",
+                        "Maltese",
+                        "Sanskrit",
+                        "Luxembourgish",
+                        "Myanmar",
+                        "Tibetan",
+                        "Tagalog",
+                        "Malagasy",
+                        "Assamese",
+                        "Tatar",
+                        "Hawaiian",
+                        "Lingala",
+                        "Hausa",
+                        "Bashkir",
+                        "Javanese",
+                        "Sundanese"
+                    ]
+                }
+            },
+            "Panel1": {
+                "Model": {
+                    "Text": "Whisper Tiny, 75 MB (English Only)",
+                    "Items.Strings": [
+                        "Whisper Tiny, 75 MB (English Only)",
+                        "Whisper Tiny, 75 MB",
+                        "Whisper Base, 142 MB (English Only)",
+                        "Whisper Base, 142 MB",
+                        "Whisper Small, 466 MB (English Only)",
+                        "Whisper Small, 466 MB",
+                        "Whisper Medium, 1500 MB (English Only)",
+                        "Whisper Medium, 1500 MB",
+                        "Whisper Large, 2900 MB",
+                        "Whisper Large Turbo, 1600 MB"
+                    ]
+                },
+                "AIModelLabel": {
+                    "Caption": "AI model:"
+                },
+                "ButtonDelete": {
+                    "Hint": "Deletes the model to free storage or redownload",
+                    "Caption": "Delete Model"
+                }
+            },
+            "Panel3": {
+                "Colour": {
+                    "Caption": "Confidence colours"
+                },
+                "Translate": {
+                    "Caption": "Translate to English"
+                },
+                "Timestamp": {
+                    "Caption": "Timestamp"
+                }
+            },
+            "FontSize": {
+                "Caption": "Font size:"
+            },
+            "Progress": {
+                "Caption": "0%"
+            },
+            "DisableBar": {
+                "Caption": "Show transcription bar in Sound windows"
+            }
+        },
         "PageForm": {
             "Caption": "Properties",
             "ActionList": {
@@ -4481,6 +4666,7 @@
                     "64000",
                     "88200",
                     "96000",
+                    "176400",
                     "192000",
                     "352800"
                 ],
@@ -4548,12 +4734,13 @@
                     "64000",
                     "88200",
                     "96000",
+                    "176400",
                     "192000",
                     "352800",
                     "384000",
                     "768000"
                 ],
-                "Text": "0"
+                "Text": "44100"
             },
             "RateLabel": {
                 "Caption": "Rate (Hz):"
@@ -4584,8 +4771,7 @@
                     "10:00:00.0",
                     "24:00:00.0"
                 ],
-                "Text": "5:00.0",
-                "Caption": "5:00.0"
+                "Text": "5:00.0"
             },
             "LengthLabel": {
                 "Caption": "Recording duration (HH:MM:SS.T):"
@@ -4654,6 +4840,7 @@
                     "64000",
                     "88200",
                     "96000",
+                    "176400",
                     "192000",
                     "352800",
                     "384000",
@@ -4733,8 +4920,7 @@
             },
             "Time": {
                 "Label": "Location",
-                "Text": "1.0",
-                "Caption": "1.0"
+                "Text": "1.0"
             },
             "Mode": {
                 "Text": "Absolute",
@@ -4750,14 +4936,14 @@
             "SampleGroup": {
                 "SampleStart": {
                     "Label": "Start",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "SampleStartLabel": {
                     "Caption": "Start:"
                 },
                 "SampleFinish": {
                     "Label": "Finish",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "SampleEndBox": {
                     "Text": "Finish:",
@@ -4770,14 +4956,14 @@
             "TimeGroup": {
                 "TimeStart": {
                     "Label": "Start",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "TimeStartLabel": {
                     "Caption": "Start:"
                 },
                 "TimeFinish": {
                     "Label": "Finish",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "TimeEndBox": {
                     "Text": "Finish:",
@@ -4838,7 +5024,7 @@
             "Caption": "Specify View",
             "Start": {
                 "Label": "Start time",
-                "Caption": "00:00:00.000000"
+                "Text": "00:00:00.000000"
             },
             "StartLabel": {
                 "Caption": "Start time:"
@@ -4886,8 +5072,7 @@
                     "30:00.0",
                     "1:00:00.0"
                 ],
-                "Text": "00:00:00.000000",
-                "Caption": "00:00:00.000000"
+                "Text": "00:00:00.000000"
             }
         },
         "SpeechForm": {
@@ -4970,8 +5155,8 @@
             }
         },
         "SplashForm": {
-            "Celebrating": {
-                "Caption": "Celebrating 30 Years!"
+            "Years": {
+                "Caption": "Audio Editing For ## Years!"
             }
         },
         "SplitFileForm": {
@@ -4988,7 +5173,7 @@
                 "Caption": " Split filenames ",
                 "Number": {
                     "Label": "First number",
-                    "Caption": "1"
+                    "Text": "1"
                 },
                 "BaseNumberLabel": {
                     "Caption": "First number:"
@@ -5266,6 +5451,77 @@
                 }
             }
         },
+        "TranscribeForm": {
+            "Caption": "Transcribe",
+            "ButtonCancel": {
+                "Caption": "Close"
+            },
+            "Panel1": {
+                "SourceLabel": {
+                    "Caption": "Audio Source:"
+                }
+            },
+            "File": {
+                "Caption": "File"
+            },
+            "ProgressText": {
+                "Caption": "0%"
+            },
+            "ActionManager": {
+                "EditCopy": {
+                    "Caption": "Copy",
+                    "Hint": "Copy|Copies the selection and puts it on the Clipboard"
+                },
+                "EditCut": {
+                    "Caption": "Cut",
+                    "Hint": "Cut|Cuts the selection and puts it on the Clipboard"
+                },
+                "EditPaste": {
+                    "Caption": "Paste",
+                    "Hint": "Paste|Inserts Clipboard contents"
+                },
+                "EditSelectAll": {
+                    "Caption": "Select All",
+                    "Hint": "Select All|Selects the entire document"
+                },
+                "TranscribeStop": {
+                    "Caption": "Stop",
+                    "Hint": "Stop|Stops transcription"
+                },
+                "FileTextSaveAs": {
+                    "Caption": "Save Text As...",
+                    "Hint": "Save As|Saves the text to a file"
+                },
+                "FileNew": {
+                    "Caption": "&New"
+                },
+                "TranscribeStart": {
+                    "Caption": "Start",
+                    "Hint": "Start|Starts transcription"
+                },
+                "TranscribeSettings": {
+                    "Caption": "&Settings..."
+                }
+            },
+            "MainMenu": {
+                "MenuFile": {
+                    "Caption": "&File"
+                },
+                "MenuEdit": {
+                    "Caption": "&Edit"
+                },
+                "MenuTranscribe": {
+                    "Caption": "&Transcribe"
+                }
+            },
+            "FileSaveDialog": {
+                "FileTypes": {
+                    "0": {
+                        "DisplayName": "Text"
+                    }
+                }
+            }
+        },
         "TrimSilenceForm": {
             "Caption": "Trim Silence",
             "Volume": {
@@ -5427,6 +5683,12 @@
                 },
                 "HideDragIcons": {
                     "Caption": "Hide drag-and-drop selection icons "
+                },
+                "Transcription": {
+                    "Caption": "Show transcription bar"
+                },
+                "TranscriptionSettings": {
+                    "Caption": "Transcribe Settings..."
                 }
             },
             "Mouse": {
@@ -5510,8 +5772,7 @@
                         "2:00:00",
                         "5:00:00"
                     ],
-                    "Text": "00:00:01.00000",
-                    "Caption": "00:00:01.00000"
+                    "Text": "00:00:01.00000"
                 },
                 "ZoomPresetLabel": {
                     "Caption": "Time shown for the View Preset command:"
@@ -5545,13 +5806,15 @@
                 }
             },
             "SoundWindow": {
-                "Caption": " Sound windows  layout ",
+                "Caption": " Sound windows layout ",
                 "Items.Strings": [
                     "Cascade",
                     "Maximized",
-                    "Auto-tile",
-                    "Tabs"
+                    "Auto-tile"
                 ]
+            },
+            "Tabs": {
+                "Caption": "Show tabs"
             }
         },
         "WinStoreRegForm": {
@@ -5656,6 +5919,7 @@
                         "64000 Hz",
                         "88200 Hz",
                         "96000 Hz",
+                        "176400 Hz",
                         "192000 Hz",
                         "352800 Hz",
                         "384000 Hz",
@@ -5714,8 +5978,7 @@
                     "7.5",
                     "10"
                 ],
-                "Text": "5.00",
-                "Caption": "5.00"
+                "Text": "5.00"
             },
             "LengthFader": {
                 "Caption": "Length"
@@ -5827,7 +6090,7 @@
             },
             "Gain": {
                 "Label": "Gain",
-                "Caption": "0"
+                "Text": "0"
             }
         },
         "InstallWebViewFrame": {
@@ -5845,6 +6108,18 @@
             }
         },
         "ListButtons": {
+            "MoveUp": {
+                "Caption": "&Up"
+            },
+            "MoveDown": {
+                "Caption": "&Down"
+            },
+            "Remove": {
+                "Caption": "&Remove"
+            },
+            "RemoveAll": {
+                "Caption": "C&lear"
+            },
             "ListButtonActions": {
                 "ListActionsRemove": {
                     "Caption": "&Remove",
@@ -5861,6 +6136,9 @@
                 "ListActionsMoveDown": {
                     "Caption": "&Down",
                     "Hint": "Move down in the list"
+                },
+                "ListActionsSelectAll": {
+                    "Caption": "ListActionsSelectAll"
                 }
             }
         },
@@ -5970,6 +6248,7 @@
                     "64000",
                     "88200",
                     "96000",
+                    "176400",
                     "192000",
                     "352800",
                     "384000",
@@ -6171,11 +6450,6 @@
                 },
                 "MainToolBar": {
                     "Caption": "File"
-                }
-            },
-            "NotificationPanel": {
-                "NotificationClose": {
-                    "Caption": "X"
                 }
             },
             "MainMenu": {
@@ -6381,7 +6655,7 @@
                     "Hint": "Stops recording"
                 },
                 "ControlProperties": {
-                    "Caption": "Properties",
+                    "Caption": "Properties...",
                     "Hint": "Sets control related properties"
                 },
                 "ControlUndock": {
@@ -6459,11 +6733,6 @@
                 "OptionPluginVisual": {
                     "Caption": "Visual",
                     "Hint": "Displays menus for installed visual plug-ins"
-                },
-                "OptionApps": {
-                    "Caption": "&Apps...",
-                    "Hint": "Configures, enables, or disables Apps",
-                    "ToolCaption": "AppOp"
                 },
                 "ViewViewAll": {
                     "Caption": "&View All",
@@ -7474,6 +7743,9 @@
                 "SoundWindow1": {
                     "Caption": "Sound 1",
                     "Hint": "Activates Sound window 1"
+                },
+                "ToolTranscribe": {
+                    "Caption": "Transcribe Audio..."
                 }
             },
             "FileOpenDialog": {
@@ -7648,14 +7920,14 @@
             },
             "Rate": {
                 "Label": "Sampling rate",
-                "Caption": "1"
+                "Text": "1"
             },
             "RateLabel": {
                 "Caption": "Sampling rate:"
             },
             "SkipBytes": {
                 "Label": "Skip bytes",
-                "Caption": "1"
+                "Text": "1"
             },
             "SkipBytesLabel": {
                 "Caption": "Skip bytes:"
@@ -7687,7 +7959,7 @@
         },
         "NumUpDownFrame": {
             "Edit": {
-                "Caption": "1"
+                "Text": "1"
             }
         },
         "VolFrame": {
@@ -7865,14 +8137,14 @@
             },
             "Maximum": {
                 "Label": "To",
-                "Caption": "1"
+                "Text": "1"
             },
             "MaximumLabel": {
                 "Caption": "To (Hz):"
             },
             "Minimum": {
                 "Label": "From",
-                "Caption": "1"
+                "Text": "1"
             },
             "MinimumLabel": {
                 "Caption": "From (Hz):"
@@ -7906,14 +8178,14 @@
             },
             "Maximum": {
                 "Label": "To",
-                "Caption": "1"
+                "Text": "1"
             },
             "MaximumLabel": {
                 "Caption": "To (Hz):"
             },
             "Minimum": {
                 "Label": "From",
-                "Caption": "1"
+                "Text": "1"
             },
             "MinimumLabel": {
                 "Caption": "From (Hz):"
@@ -7929,7 +8201,7 @@
             },
             "Alpha": {
                 "Label": "Alpha",
-                "Caption": "0.990"
+                "Text": "0.990"
             },
             "AlphaLabel": {
                 "Caption": "Alpha:"
@@ -7942,35 +8214,35 @@
             },
             "BPM": {
                 "Label": "BPM",
-                "Caption": "1"
+                "Text": "1"
             },
             "DivisionsLabel": {
                 "Caption": "Divisions:"
             },
             "Divisions": {
                 "Label": "Divisions",
-                "Caption": "1"
+                "Text": "1"
             },
             "RangeLable": {
                 "Caption": "Range from (Hz):"
             },
             "RangeFrom": {
                 "Label": "Range",
-                "Caption": "1"
+                "Text": "1"
             },
             "ToLabel": {
                 "Caption": "To (Hz):"
             },
             "RangeTo": {
                 "Label": "Range",
-                "Caption": "1"
+                "Text": "1"
             },
             "ThresholdLabel": {
                 "Caption": "Threshold (dB):"
             },
             "Threshold": {
                 "Label": "Divisions",
-                "Caption": "1"
+                "Text": "1"
             },
             "ModeLabel": {
                 "Caption": "Mode:"
@@ -8060,14 +8332,14 @@
             },
             "Minimum": {
                 "Label": "From",
-                "Caption": "1"
+                "Text": "1"
             },
             "MaximumLabel": {
                 "Caption": "To (Hz):"
             },
             "Maximum": {
                 "Label": "To",
-                "Caption": "1"
+                "Text": "1"
             },
             "AutomaticRadio": {
                 "Caption": "Automatic full frequency range"
@@ -8303,7 +8575,7 @@
         "sUnitSamples": " smp",
         "sUnitBytes": " B",
         "sUnitBeatsPerMinute": " BPM",
-        "sOpenAllDroppedFiles": "Open all %0% dragged files?",
+        "sOpenAllDroppedFiles": "Open all %0% dragged files?|Opening too many files can cause Windows to run out of resources and make the system unstable.",
         "sSaveConfirm": "Save confirmation required.  Please choose OK to save changes.",
         "sSaveConfirmAll": "Save all modified files?",
         "sSaveReduced": "Save with a reduced sampling rate or channels?|The current attributes have a lower sampling rate or fewer channels than the current file.|Use the \"Attributes\" button on the Save window to change the attributes.",
@@ -8371,6 +8643,7 @@
         "segFloatingPointError": "A floating point math error occurred.|Try using \"GoldWave Setup\" from the Windows Start menu and check \"Ignore floating point errors\".",
         "segRestartGoldWave": "Please restart GoldWave to use the new settings.",
         "segDecodersNotFound": "Decoders cannot be found.",
+        "segDecodersOld": "Decoders need to be downloaded for update.",
         "segFileAttributesError": "File attributes for plugin %0% cannot be listed.|This plugin needs to be updated or removed.  Refer to File Plug-in Precedence in the help or use GoldWave Setup from the Windows Start menu to disable all file plug-ins.",
         "sLinkCouldNotEstablish": "Could not establish a link: %0%|Link Code may be incorrect or try clearing the code to create a new one.",
         "sLinkCannotConnectToServer": "Cannot connect to server.  Please check network and firewall settings.",
@@ -8416,6 +8689,19 @@
         "sSpeechMicrophoneSetup": "Microphone Setup",
         "sSpeechMicrophoneSetupUnavailable": "Microphone setup is not available.",
         "sSpeechCueNameText": "Text",
+        "sTranscribeCurrentSelection": "Current Selection",
+        "sTranscribeAudioFile": "Audio Files...",
+        "sTranscribeEnglish": "English",
+        "sTranscribeTranslate": "Translate",
+        "sTranscribeColour": "Colour",
+        "sTranscribeTimestamp": "Timestamp",
+        "sTranscribeSettings": "Settings: ",
+        "sTranscribeLoading": "Loading: ",
+        "sTranscribeZoomIn": "Zoom in closer for transcription...",
+        "sTranscribeNotSetup": "Please select transcription model and other settings in Window Options or click here.",
+        "sTranscribeClose": "Close transcription without saving?",
+        "sTranscribeDownloadFail": "Unable to download the AI model.  Try again later or check your firewall settings.",
+        "sTranscribeFailed": "Transcription failed.  Try selecting a smaller model.|If a smaller model does not work, try deleting the model in the settings so that it will be downloaded again.",
         "sKeyboardShortCutInvalid": "'%0%' is not a valid shortcut.",
         "sKeyboardReplaceShortCut": "Shortcut '%0%' is already assigned to '%1%'.  Reassign to '%2%' function?",
         "sKeyboardCannotSave": "Keyboard file could not be saved.|%0%",
@@ -8517,6 +8803,7 @@
         "sregLicensePurchase": "Please purchase a new license.",
         "sregUnlicensedUsage": "%0% : Unlicensed Usage",
         "sregLicenseValidUntil": "License valid until %0%",
+        "sregLicenseEntryError": "The User ID or License must be 9 characters long.",
         "sregEvaluationContinue": "Continue in %0%",
         "sregAboutLicensed": "Licensed",
         "sregAboutValid": "Valid until: %0%.",
@@ -8529,6 +8816,8 @@
             "Hours:Minutes:Seconds.Frames (30 fps)",
             "Hours:Minutes:Seconds.CD Frames (75 fps)",
             "Hours:Minutes:Seconds.Microseconds",
+            "Minutes:Seconds.Microseconds",
+            "Seconds.Microseconds",
             "Seconds.Milliseconds",
             "Samples",
             "Bytes",
@@ -8906,6 +9195,7 @@
         "Remove 60Hz": "Remove 60Hz",
         "Wide to narrow": "Wide to narrow",
         "Voice hum and hiss filter": "Voice hum and hiss filter",
+        "Telephone": "Telephone",
         "// Effect Censor": "",
         "Mute": "Mute",
         "Quiet buzz": "Quiet buzz",
