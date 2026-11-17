@@ -1,0 +1,122 @@
+[
+ {
+  "id": "3280",
+  "text": "Square, f = Hz",
+  "path": "/Preset/Square, f = Hz"
+ },
+ {
+  "id": "3281",
+  "text": "Sweep",
+  "path": "/Preset/Sweep"
+ },
+ {
+  "id": "3282",
+  "text": "Sweep from x to y Hz",
+  "path": "/Preset/Sweep from x to y Hz"
+ },
+ {
+  "id": "3283",
+  "text": "Sweep full range",
+  "path": "/Preset/Sweep full range"
+ },
+ {
+  "id": "3284",
+  "text": "Sweep to f Hz",
+  "path": "/Preset/Sweep to f Hz"
+ },
+ {
+  "id": "3285",
+  "text": "Triangle, f = Hz",
+  "path": "/Preset/Triangle, f = Hz"
+ },
+ {
+  "id": "3286",
+  "text": "Metronome, f = BPS, x = Bar",
+  "path": "/Preset/Metronome, f = BPS, x = Bar"
+ },
+ {
+  "id": "3287",
+  "text": "Telephone, u-Law",
+  "path": "/Preset/Telephone, u-Law"
+ },
+ {
+  "id": "3288",
+  "text": "Telephone, A-Law",
+  "path": "/Preset/Telephone, A-Law"
+ },
+ {
+  "id": "3289",
+  "text": "CD quality",
+  "path": "/Preset/CD quality"
+ },
+ {
+  "id": "3290",
+  "text": "Mono, 16 Bit",
+  "path": "/Preset/Mono, 16 Bit"
+ },
+ {
+  "id": "3291",
+  "text": "Standard quality",
+  "path": "/Preset/Standard quality"
+ },
+ {
+  "id": "3292",
+  "text": "Lossless 16 bit stereo",
+  "path": "/Preset/Lossless 16 bit stereo"
+ },
+ {
+  "id": "3293",
+  "text": "Lossless 24 bit stereo",
+  "path": "/Preset/Lossless 24 bit stereo"
+ },
+ {
+  "id": "3294",
+  "text": "High quality stereo",
+  "path": "/Preset/High quality stereo"
+ },
+ {
+  "id": "3295",
+  "text": "Standard quality stereo",
+  "path": "/Preset/Standard quality stereo"
+ },
+ {
+  "id": "3296",
+  "text": "Mark 1 second silences (34dB) between songs",
+  "path": "/Preset/Mark 1 second silences (34dB) between songs"
+ },
+ {
+  "id": "3297",
+  "text": "Set cue points at 1 minute intervals",
+  "path": "/Preset/Set cue points at 1 minute intervals"
+ },
+ {
+  "id": "3298",
+  "text": "Mark all 1 second silences (40dB)",
+  "path": "/Preset/Mark all 1 second silences (40dB)"
+ },
+ {
+  "id": "3299",
+  "text": "Peak at -1dB",
+  "path": "/Preset/Peak at -1dB"
+ },
+ {
+  "id": "3300",
+  "text": "\"goldwave\" search",
+  "path": "/Preset/\"goldwave\" search"
+ },
+ {
+  "id": "3301",
+  "text": "Leave 1 second at 40db",
+  "path": "/Preset/Leave 1 second at 40db"
+ },
+ {
+  "id": "3302",
+  "text": "Trim all silence at -30dB",
+  "path": "/Preset/Trim all silence at -30dB"
+ },
+ {
+  "id": "3303",
+  "text": "Leave 1 second at -40db, trailing",
+  "path": "/Preset/Leave 1 second at -40db, trailing"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2400",
+  "text": "Device is disabled, disconnected, or not present (refer to help).",
+  "path": "/Internal/sDeviceStatusBad"
+ },
+ {
+  "id": "2401",
+  "text": "Select",
+  "path": "/Internal/sControlPropertiesSelect"
+ },
+ {
+  "id": "2402",
+  "text": "Quality",
+  "path": "/Internal/sControlPropertiesQuality"
+ },
+ {
+  "id": "2403",
+  "text": "A 32 bit bitmap could not be created for rendering visuals.  All visuals will be disabled.  Try updating your video driver or change display settings to use 32 bit color.",
+  "path": "/Internal/sControlVisualNo32BitBitmap"
+ },
+ {
+  "id": "2404",
+  "text": "Exception",
+  "path": "/Internal/sControlVisualException"
+ },
+ {
+  "id": "2405",
+  "text": "Normal status.",
+  "path": "/Internal/sDeviceTestNormal"
+ },
+ {
+  "id": "2406",
+  "text": "Device is disconnected.  Please check connections.",
+  "path": "/Internal/sDeviceTestDisconnected"
+ },
+ {
+  "id": "2407",
+  "text": "Device is disabled.  Please enable it in Windows Control Panel.",
+  "path": "/Internal/sDeviceTestDisabled"
+ },
+ {
+  "id": "2408",
+  "text": "Device status cannot be determined.",
+  "path": "/Internal/sDeviceTestUnknown"
+ },
+ {
+  "id": "2409",
+  "text": "\"Shared\" quality is required for LOOPBACK recording devices.",
+  "path": "/Internal/sDeviceTestLoopbackShared"
+ },
+ {
+  "id": "2410",
+  "text": "Cannot open recording device.  Ensure Windows Privacy setting for Microphone access is allowed for desktop apps.  Or the given rate, channels, or quality is not supported, or the device is in use in another program.",
+  "path": "/Internal/sDeviceTestRecordFail"
+ },
+ {
+  "id": "2411",
+  "text": "Cannot open playback device.  The given rate, channels, or quality is not supported or the device is in use.",
+  "path": "/Internal/sDeviceTestPlaybackFail"
+ },
+ {
+  "id": "2412",
+  "text": "Device opened with different settings.",
+  "path": "/Internal/sDeviceTestSettingsDiffer"
+ },
+ {
+  "id": "2413",
+  "text": "Rate: %0%Hz, Channels: %1%, Bits: %2%",
+  "path": "/Internal/sDeviceTestAttributes"
+ },
+ {
+  "id": "2414",
+  "text": "Recording in progress.  Press Stop button to end test and show results.",
+  "path": "/Internal/sDeviceTestRecording"
+ },
+ {
+  "id": "2415",
+  "text": "Cannot read audio data from device.",
+  "path": "/Internal/sDeviceTestReadFail"
+ },
+ {
+  "id": "2416",
+  "text": "Cannot write audio data to device.",
+  "path": "/Internal/sDeviceTestWriteFail"
+ },
+ {
+  "id": "2417",
+  "text": "Peak %0% value: %1%dB",
+  "path": "/Internal/sDeviceTestPeakValue"
+ },
+ {
+  "id": "2418",
+  "text": "No signal detected on %0% channel.  Check cables, power, volume, or select a different input or device.",
+  "path": "/Internal/sDeviceTestNoSignal"
+ },
+ {
+  "id": "2419",
+  "text": "Volume level on %0% channel may be too low.  Audio should peak around 75% (or -2.5dB).",
+  "path": "/Internal/sDeviceTestSignalLow"
+ },
+ {
+  "id": "2420",
+  "text": "Device sampling rate is off by more than %0%% from system clock.",
+  "path": "/Internal/sDeviceTestRateClock"
+ },
+ {
+  "id": "2421",
+  "text": "Recording stopped.",
+  "path": "/Internal/sDeviceTextRecordingStopped"
+ },
+ {
+  "id": "2422",
+  "text": "Playback of audio successful.",
+  "path": "/Internal/sDeviceTextPlaybackSuccess"
+ },
+ {
+  "id": "2423",
+  "text": "Test complete.",
+  "path": "/Internal/sDeviceTestComplete"
+ },
+ {
+  "id": "2424",
+  "text": "The finish marker must be positioned to the right of the start marker.",
+  "path": "/Internal/sMarkerRangeBad"
+ },
+ {
+  "id": "2425",
+  "text": "The clipboard sound is too short for this length of crossfade.",
+  "path": "/Internal/sCrossfadeClipShort"
+ },
+ {
+  "id": "2426",
+  "text": "The file's selection is too short for this length of crossfade.",
+  "path": "/Internal/sCrossfadeFileShort"
+ },
+ {
+  "id": "2427",
+  "text": "\nThe start marker is too close to the beginning of the file for the duration given.",
+  "path": "/Internal/sBlendStartError"
+ },
+ {
+  "id": "2428",
+  "text": "\nThe finish marker is too close to the end of the file for the duration given.",
+  "path": "/Internal/sBlendFinishError"
+ },
+ {
+  "id": "2429",
+  "text": "Blend settings are not valid.|",
+  "path": "/Internal/sBlendError"
+ },
+ {
+  "id": "2430",
+  "text": "Overwrite preset \"%0%\" with current settings?",
+  "path": "/Internal/sPresetOverwrite"
+ },
+ {
+  "id": "2431",
+  "text": "Delete preset \"%0%\"?",
+  "path": "/Internal/sPresetDelete"
+ },
+ {
+  "id": "2432",
+  "text": "Default",
+  "path": "/Internal/sPresetDefault"
+ },
+ {
+  "id": "2433",
+  "text": "The selected preset requires valid, compatible audio in the clipboard.|Use the Copy command in the Edit menu to copy some audio before using this effect.",
+  "path": "/Internal/sPresetClipboard"
+ },
+ {
+  "id": "2434",
+  "text": "The preset \"%0%\" could not be saved.",
+  "path": "/Internal/sPresetWriteError"
+ },
+ {
+  "id": "2435",
+  "text": "The preset \"%0%\" could not be loaded.",
+  "path": "/Internal/sPresetReadError"
+ },
+ {
+  "id": "2436",
+  "text": "Preset name must not contain backslashes (\\).",
+  "path": "/Internal/sPresetNameInvalid"
+ },
+ {
+  "id": "2437",
+  "text": "Preset: ",
+  "path": "/Internal/sPresetColon"
+ },
+ {
+  "id": "2438",
+  "text": "Initial frequency range is too narrow.|'To' must be 10Hz greater than 'From'.",
+  "path": "/Internal/sBandInitialRangeNarrow"
+ },
+ {
+  "id": "2439",
+  "text": "Final frequency range is too narrow.|'To' must be 10Hz greater than 'From'.",
+  "path": "/Internal/sBandFinalRangeNarrow"
+ },
+ {
+  "id": "2440",
+  "text": "Search range value must be less than window size for Similarity algorithm.",
+  "path": "/Internal/sSimilarityRangeBad"
+ },
+ {
+  "id": "2441",
+  "text": "Tempo change exceeds allowed range (25% to 400%).",
+  "path": "/Internal/sTempoRangeBad"
+ },
+ {
+  "id": "2442",
+  "text": "Scan could not be completed.",
+  "path": "/Internal/sAmplitudeScanFail"
+ },
+ {
+  "id": "2443",
+  "text": "Separator",
+  "path": "/Internal/sSeparator"
+ },
+ {
+  "id": "2444",
+  "text": "Recovered",
+  "path": "/Internal/sRecovered"
+ },
+ {
+  "id": "2445",
+  "text": "Custom",
+  "path": "/Internal/sCustom"
+ },
+ {
+  "id": "2446",
+  "text": "Supported Files",
+  "path": "/Internal/sSupportedFiles"
+ },
+ {
+  "id": "2447",
+  "text": "Background",
+  "path": "/Internal/sBackgroundAudio"
+ },
+ {
+  "id": "2448",
+  "text": "%0% to %1% (%2%)",
+  "path": "/Internal/sStatusRangeTo"
+ },
+ {
+  "id": "2449",
+  "text": "Multiple",
+  "path": "/Internal/sStatusChannelMultiple"
+ },
+ {
+  "id": "2450",
+  "text": " s",
+  "path": "/Internal/sUnitSeconds"
+ },
+ {
+  "id": "2451",
+  "text": " smp",
+  "path": "/Internal/sUnitSamples"
+ },
+ {
+  "id": "2452",
+  "text": " B",
+  "path": "/Internal/sUnitBytes"
+ },
+ {
+  "id": "2453",
+  "text": " BPM",
+  "path": "/Internal/sUnitBeatsPerMinute"
+ },
+ {
+  "id": "2454",
+  "text": "Open all %0% dragged files?|Opening too many files can cause Windows to run out of resources and make the system unstable.",
+  "path": "/Internal/sOpenAllDroppedFiles"
+ },
+ {
+  "id": "2455",
+  "text": "Save confirmation required.  Please choose OK to save changes.",
+  "path": "/Internal/sSaveConfirm"
+ },
+ {
+  "id": "2456",
+  "text": "Save all modified files?",
+  "path": "/Internal/sSaveConfirmAll"
+ },
+ {
+  "id": "2457",
+  "text": "Save with a reduced sampling rate or channels?|The current attributes have a lower sampling rate or fewer channels than the current file.|Use the \"Attributes\" button on the Save window to change the attributes.",
+  "path": "/Internal/sSaveReduced"
+ },
+ {
+  "id": "2458",
+  "text": "File cannot be saved in its original type.  Please save using a different type.",
+  "path": "/Internal/sSaveTypeBad"
+ },
+ {
+  "id": "2459",
+  "text": "Do you want to save changes to \"%0%\"?",
+  "path": "/Internal/sNotSaved"
+ },
+ {
+  "id": "2460",
+  "text": "Only %0% items may be selected.",
+  "path": "/Internal/sQuickVisualLimit"
+ },
+ {
+  "id": "2461",
+  "text": "File has been converted and saved.  Update the Sound window with the new format?",
+  "path": "/Internal/sSaveUpdateFormat"
+ },
+ {
+  "id": "2462",
+  "text": "The file's current attributes do not match the selected sampling rate.|To retain the new rate, you must use \"Save As\" on the File menu to save the file with different attributes having the new rate.",
+  "path": "/Internal/sFormatNotVariableRate"
+ },
+ {
+  "id": "2463",
+  "text": "Cannot create effect.",
+  "path": "/Internal/seeCreate"
+ },
+ {
+  "id": "2464",
+  "text": "The effect requires compatible clipboard audio.|Copy audio to the clipboard with the same sampling rate and number of channels as the current file.",
+  "path": "/Internal/seeClipboard"
+ },
+ {
+  "id": "2465",
+  "text": "The effect scan failed or was cancelled.",
+  "path": "/Internal/seeScan"
+ },
+ {
+  "id": "2466",
+  "text": "The effect is not compatible with source audio.",
+  "path": "/Internal/seeTrain"
+ },
+ {
+  "id": "2467",
+  "text": "Effect preset settings cannot be loaded or are not compatible with the file.",
+  "path": "/Internal/seePreset"
+ },
+ {
+  "id": "2468",
+  "text": "The effect does not have any settings.",
+  "path": "/Internal/seePage"
+ },
+ {
+  "id": "2469",
+  "text": "Settings cancelled.",
+  "path": "/Internal/seeCancelled"
+ },
+ {
+  "id": "2470",
+  "text": "\n\nThis error occurred in the plug-in.  Do you want GoldWave to ignore this error?",
+  "path": "/Internal/seeFloatingPoint"
+ },
+ {
+  "id": "2471",
+  "text": "Displays a menu of plug-ins in module \"%0%\"",
+  "path": "/Internal/sEffectModuleHint"
+ },
+ {
+  "id": "2472",
+  "text": "%0%: Performs the \"%1%\" effect in module \"%2%\"",
+  "path": "/Internal/sEffectHint"
+ },
+ {
+  "id": "2473",
+  "text": "Configures the \"%0%\" plug-in module.",
+  "path": "/Internal/sOptionPluginHint"
+ },
+ {
+  "id": "2474",
+  "text": "Install missing presets?|GoldWave settings and presets could not be found for the current user.",
+  "path": "/Internal/segInstallProblem"
+ },
+ {
+  "id": "2475",
+  "text": "Reinstall old default settings and presets?|You have installed an older version of GoldWave over a newer version.  Older settings may be required.",
+  "path": "/Internal/segVersionProblem"
+ },
+ {
+  "id": "2476",
+  "text": "This program requires 32 bit colour.|Current colour depths is only %0% bit.  Please configure your display to use more colours.",
+  "path": "/Internal/segColourDepth"
+ },
+ {
+  "id": "2477",
+  "text": "Cannot create effects plug-in manager, possibly due to a corrupted effect plug-in module.",
+  "path": "/Internal/segEffectPlugin"
+ },
+ {
+  "id": "2478",
+  "text": "Cannot create audio file plug-in manager, possibly due to a corrupted file plug-in module.",
+  "path": "/Internal/segFilePlugin"
+ },
+ {
+  "id": "2479",
+  "text": "Cannot rename the temporary file.|The final filename or folder may be read-only, invalid, too long, or currently opened or in use.  The contents have been saved in:\n",
+  "path": "/Internal/segCannotReplaceFile"
+ }
+]

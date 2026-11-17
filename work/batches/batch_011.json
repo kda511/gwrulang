@@ -1,0 +1,402 @@
+[
+ {
+  "id": "800",
+  "text": "Please select two opened files to compare",
+  "path": "/Forms/CompareForm/PageControl/Settings/Instructions/Caption"
+ },
+ {
+  "id": "801",
+  "text": "Sync time (s):",
+  "path": "/Forms/CompareForm/PageControl/Settings/Sync/Caption"
+ },
+ {
+  "id": "802",
+  "text": "Result 1",
+  "path": "/Forms/CompareForm/PageControl/Compare1/Caption"
+ },
+ {
+  "id": "803",
+  "text": "Difference score:",
+  "path": "/Forms/CompareForm/PageControl/Compare1/DifferenceLabel1/Caption"
+ },
+ {
+  "id": "804",
+  "text": "Result 2",
+  "path": "/Forms/CompareForm/PageControl/Compare2/Caption"
+ },
+ {
+  "id": "805",
+  "text": "Cue Points",
+  "path": "/Forms/CueForm/Caption"
+ },
+ {
+  "id": "806",
+  "text": "&Cue list:",
+  "path": "/Forms/CueForm/CueListLabel/Caption"
+ },
+ {
+  "id": "807",
+  "text": "Cl&ose",
+  "path": "/Forms/CueForm/ButtonOk/Caption"
+ },
+ {
+  "id": "808",
+  "text": "&Help",
+  "path": "/Forms/CueForm/ButtonHelp/Caption"
+ },
+ {
+  "id": "809",
+  "text": "No.",
+  "path": "/Forms/CueForm/List/Columns/0/Caption"
+ },
+ {
+  "id": "810",
+  "text": "Position",
+  "path": "/Forms/CueForm/List/Columns/1/Caption"
+ },
+ {
+  "id": "811",
+  "text": "Time To Next",
+  "path": "/Forms/CueForm/List/Columns/2/Caption"
+ },
+ {
+  "id": "812",
+  "text": "&New...",
+  "path": "/Forms/CueForm/NewButton/Caption"
+ },
+ {
+  "id": "813",
+  "text": "&Import",
+  "path": "/Forms/CueForm/LoadAll/Caption"
+ },
+ {
+  "id": "814",
+  "text": "E&xport",
+  "path": "/Forms/CueForm/SaveAll/Caption"
+ },
+ {
+  "id": "815",
+  "text": "&Copy All",
+  "path": "/Forms/CueForm/CopyButton/Caption"
+ },
+ {
+  "id": "816",
+  "text": "&Split File...",
+  "path": "/Forms/CueForm/SplitButton/Caption"
+ },
+ {
+  "id": "817",
+  "text": "Cull",
+  "path": "/Forms/CueForm/CullButton/Caption"
+ },
+ {
+  "id": "818",
+  "text": "Creates a new cue point",
+  "path": "/Forms/CueForm/ActionList/New/Hint"
+ },
+ {
+  "id": "819",
+  "text": "&Edit...",
+  "path": "/Forms/CueForm/ActionList/Edit/Caption"
+ },
+ {
+  "id": "820",
+  "text": "Edits the selected cue point",
+  "path": "/Forms/CueForm/ActionList/Edit/Hint"
+ },
+ {
+  "id": "821",
+  "text": "Clears the list, removing all cue points",
+  "path": "/Forms/CueForm/ActionList/DeleteAll/Hint"
+ },
+ {
+  "id": "822",
+  "text": "Deletes the selected cue point",
+  "path": "/Forms/CueForm/ActionList/Delete/Hint"
+ },
+ {
+  "id": "823",
+  "text": "Splits the file at cue points",
+  "path": "/Forms/CueForm/ActionList/Split/Hint"
+ },
+ {
+  "id": "824",
+  "text": "&Auto Cue...",
+  "path": "/Forms/CueForm/ActionList/Auto/Caption"
+ },
+ {
+  "id": "825",
+  "text": "Sets cue points automatically",
+  "path": "/Forms/CueForm/ActionList/Auto/Hint"
+ },
+ {
+  "id": "826",
+  "text": "Set Start Marker",
+  "path": "/Forms/CueForm/ActionList/SetStart/Caption"
+ },
+ {
+  "id": "827",
+  "text": "Moves the start { marker to the selected cue point",
+  "path": "/Forms/CueForm/ActionList/SetStart/Hint"
+ },
+ {
+  "id": "828",
+  "text": "Set Finish Marker",
+  "path": "/Forms/CueForm/ActionList/SetFinish/Caption"
+ },
+ {
+  "id": "829",
+  "text": "Moves the finish } marker to the selected cue point",
+  "path": "/Forms/CueForm/ActionList/SetFinish/Hint"
+ },
+ {
+  "id": "830",
+  "text": "Move To Start Marker",
+  "path": "/Forms/CueForm/ActionList/MoveToStart/Caption"
+ },
+ {
+  "id": "831",
+  "text": "Moves the cue point to the start { marker",
+  "path": "/Forms/CueForm/ActionList/MoveToStart/Hint"
+ },
+ {
+  "id": "832",
+  "text": "Move To Finish Marker",
+  "path": "/Forms/CueForm/ActionList/MoveToFinish/Caption"
+ },
+ {
+  "id": "833",
+  "text": "Moves the cue point to the finish } marker",
+  "path": "/Forms/CueForm/ActionList/MoveToFinish/Hint"
+ },
+ {
+  "id": "834",
+  "text": "Copies all cue points to the clipboard in text format",
+  "path": "/Forms/CueForm/ActionList/Copy/Hint"
+ },
+ {
+  "id": "835",
+  "text": "Exports list to CD cue file",
+  "path": "/Forms/CueForm/ActionList/Export/Hint"
+ },
+ {
+  "id": "836",
+  "text": "Imports list from a CD cue file",
+  "path": "/Forms/CueForm/ActionList/Import/Hint"
+ },
+ {
+  "id": "837",
+  "text": "Starts playback at the selected cue point",
+  "path": "/Forms/CueForm/ActionList/Play/Hint"
+ },
+ {
+  "id": "838",
+  "text": "Stop",
+  "path": "/Forms/CueForm/ActionList/Stop/Caption"
+ },
+ {
+  "id": "839",
+  "text": "Stops playback",
+  "path": "/Forms/CueForm/ActionList/Stop/Hint"
+ },
+ {
+  "id": "840",
+  "text": "Scrolls the view to the selected cue point",
+  "path": "/Forms/CueForm/ActionList/View/Hint"
+ },
+ {
+  "id": "841",
+  "text": "Removes duplicate cue points",
+  "path": "/Forms/CueForm/ActionList/Cull/Hint"
+ },
+ {
+  "id": "842",
+  "text": "Cue File",
+  "path": "/Forms/CueForm/OpenCue/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "843",
+  "text": "Import",
+  "path": "/Forms/CueForm/OpenCue/OkButtonLabel"
+ },
+ {
+  "id": "844",
+  "text": "Import Cue Points",
+  "path": "/Forms/CueForm/OpenCue/Title"
+ },
+ {
+  "id": "845",
+  "text": "Cue File (UTF8)",
+  "path": "/Forms/CueForm/SaveCue/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "846",
+  "text": "Cue File (ANSI)",
+  "path": "/Forms/CueForm/SaveCue/FileTypes/1/DisplayName"
+ },
+ {
+  "id": "847",
+  "text": "Export",
+  "path": "/Forms/CueForm/SaveCue/OkButtonLabel"
+ },
+ {
+  "id": "848",
+  "text": "Export Cue Points",
+  "path": "/Forms/CueForm/SaveCue/Title"
+ },
+ {
+  "id": "849",
+  "text": "Edit Cue Point",
+  "path": "/Forms/EditCueForm/Caption"
+ },
+ {
+  "id": "850",
+  "text": "Name:",
+  "path": "/Forms/EditCueForm/NameLabel/Caption"
+ },
+ {
+  "id": "851",
+  "text": "Position:",
+  "path": "/Forms/EditCueForm/PositionLabel/Caption"
+ },
+ {
+  "id": "852",
+  "text": "Description:",
+  "path": "/Forms/EditCueForm/DescriptionLabel/Caption"
+ },
+ {
+  "id": "853",
+  "text": "Playback marker",
+  "path": "/Forms/EditCueForm/PositionMode/Items.Strings/1"
+ },
+ {
+  "id": "854",
+  "text": "Set name to position",
+  "path": "/Forms/EditCueForm/AutoSetName/Caption"
+ },
+ {
+  "id": "855",
+  "text": "Starts or resumes playback",
+  "path": "/Forms/EditCueForm/ActionList/PlayKey/Hint"
+ },
+ {
+  "id": "856",
+  "text": "Rewinds playback",
+  "path": "/Forms/EditCueForm/ActionList/RewindKey/Hint"
+ },
+ {
+  "id": "857",
+  "text": "Pauses playback",
+  "path": "/Forms/EditCueForm/ActionList/PauseKey/Hint"
+ },
+ {
+  "id": "858",
+  "text": "Dictation Settings",
+  "path": "/Forms/DictationSettingsForm/Caption"
+ },
+ {
+  "id": "859",
+  "text": "Recognizer:",
+  "path": "/Forms/DictationSettingsForm/RecognizerLabel/Caption"
+ },
+ {
+  "id": "860",
+  "text": " Source ",
+  "path": "/Forms/DictationSettingsForm/Source/Caption"
+ },
+ {
+  "id": "861",
+  "text": "Microphone",
+  "path": "/Forms/DictationSettingsForm/Source/Microphone/Caption"
+ },
+ {
+  "id": "862",
+  "text": "Current selection",
+  "path": "/Forms/DictationSettingsForm/Source/Current/Caption"
+ },
+ {
+  "id": "863",
+  "text": "Train...",
+  "path": "/Forms/DictationSettingsForm/Source/Train/Caption"
+ },
+ {
+  "id": "864",
+  "text": "Languages",
+  "path": "/Forms/LanguageDownloadForm/Caption"
+ },
+ {
+  "id": "865",
+  "text": "Download",
+  "path": "/Forms/LanguageDownloadForm/ButtonOk/Caption"
+ },
+ {
+  "id": "866",
+  "text": "Select language to download",
+  "path": "/Forms/LanguageDownloadForm/SelectHelp/Caption"
+ },
+ {
+  "id": "867",
+  "text": "EffectWrapper",
+  "path": "/Forms/EffectWrapper/Caption"
+ },
+ {
+  "id": "868",
+  "text": "Encoder Not Found",
+  "path": "/Forms/EncoderDownloadForm/Caption"
+ },
+ {
+  "id": "869",
+  "text": "Cancel",
+  "path": "/Forms/EncoderDownloadForm/Cancel/Caption"
+ },
+ {
+  "id": "870",
+  "text": "Help",
+  "path": "/Forms/EncoderDownloadForm/Help/Caption"
+ },
+ {
+  "id": "871",
+  "text": "Download...",
+  "path": "/Forms/EncoderDownloadForm/Download/Caption"
+ },
+ {
+  "id": "872",
+  "text": "A recent 64 bit version of the MPEG Layer-3 encoder (LAME) cannot be found.",
+  "path": "/Forms/EncoderDownloadForm/Message/Lines.Strings/0"
+ },
+ {
+  "id": "873",
+  "text": " •  Use the Download button to allow GoldWave to download a copy.",
+  "path": "/Forms/EncoderDownloadForm/Message/Lines.Strings/1"
+ },
+ {
+  "id": "874",
+  "text": " •  Use the Browse button if it is already installed but in a different folder.",
+  "path": "/Forms/EncoderDownloadForm/Message/Lines.Strings/2"
+ },
+ {
+  "id": "875",
+  "text": " •  Use Help for more information. ",
+  "path": "/Forms/EncoderDownloadForm/Message/Lines.Strings/3"
+ },
+ {
+  "id": "876",
+  "text": "Module",
+  "path": "/Forms/EncoderDownloadForm/OpenDialog/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "877",
+  "text": "Encoder Location",
+  "path": "/Forms/EncoderDownloadForm/OpenDialog/Title"
+ },
+ {
+  "id": "878",
+  "text": "Add Preset",
+  "path": "/Forms/AddEvalPreset/Caption"
+ },
+ {
+  "id": "879",
+  "text": "Group name:",
+  "path": "/Forms/AddEvalPreset/GroupLabel/Caption"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3040",
+  "text": "Chorus 2",
+  "path": "/Preset/Chorus 2"
+ },
+ {
+  "id": "3041",
+  "text": "Fade in bass",
+  "path": "/Preset/Fade in bass"
+ },
+ {
+  "id": "3042",
+  "text": "Fade out bass",
+  "path": "/Preset/Fade out bass"
+ },
+ {
+  "id": "3043",
+  "text": "Fade out treble",
+  "path": "/Preset/Fade out treble"
+ },
+ {
+  "id": "3044",
+  "text": "Muffled",
+  "path": "/Preset/Muffled"
+ },
+ {
+  "id": "3045",
+  "text": "Whisper",
+  "path": "/Preset/Whisper"
+ },
+ {
+  "id": "3046",
+  "text": "Rumble filter",
+  "path": "/Preset/Rumble filter"
+ },
+ {
+  "id": "3047",
+  "text": "Modern, -16dB",
+  "path": "/Preset/Modern, -16dB"
+ },
+ {
+  "id": "3048",
+  "text": "Classical, -22dB",
+  "path": "/Preset/Classical, -22dB"
+ },
+ {
+  "id": "3049",
+  "text": "Typical, -18dB",
+  "path": "/Preset/Typical, -18dB"
+ },
+ {
+  "id": "3050",
+  "text": "Full dynamic range",
+  "path": "/Preset/Full dynamic range"
+ },
+ {
+  "id": "3051",
+  "text": "Half dynamic range",
+  "path": "/Preset/Half dynamic range"
+ },
+ {
+  "id": "3052",
+  "text": "Helicopter",
+  "path": "/Preset/Helicopter"
+ },
+ {
+  "id": "3053",
+  "text": "Intermittent",
+  "path": "/Preset/Intermittent"
+ },
+ {
+  "id": "3054",
+  "text": "Star Wars droid high",
+  "path": "/Preset/Star Wars droid high"
+ },
+ {
+  "id": "3055",
+  "text": "Star Wars droid low",
+  "path": "/Preset/Star Wars droid low"
+ },
+ {
+  "id": "3056",
+  "text": "Untuned radio",
+  "path": "/Preset/Untuned radio"
+ },
+ {
+  "id": "3057",
+  "text": "Clipboard noise print",
+  "path": "/Preset/Clipboard noise print"
+ },
+ {
+  "id": "3058",
+  "text": "Hiss removal",
+  "path": "/Preset/Hiss removal"
+ },
+ {
+  "id": "3059",
+  "text": "Initial noise",
+  "path": "/Preset/Initial noise"
+ },
+ {
+  "id": "3060",
+  "text": "Light hiss removal",
+  "path": "/Preset/Light hiss removal"
+ },
+ {
+  "id": "3061",
+  "text": "Average at 75%",
+  "path": "/Preset/Average at 75%"
+ },
+ {
+  "id": "3062",
+  "text": "Reduce hum",
+  "path": "/Preset/Reduce hum"
+ },
+ {
+  "id": "3063",
+  "text": "Very light hiss/rumble removal",
+  "path": "/Preset/Very light hiss/rumble removal"
+ },
+ {
+  "id": "3064",
+  "text": "Output initial noise",
+  "path": "/Preset/Output initial noise"
+ },
+ {
+  "id": "3065",
+  "text": "Frequency peak limiter, -60dB",
+  "path": "/Preset/Frequency peak limiter, -60dB"
+ },
+ {
+  "id": "3066",
+  "text": "Noise floor at -80dB",
+  "path": "/Preset/Noise floor at -80dB"
+ },
+ {
+  "id": "3067",
+  "text": "Noise floor at -70dB",
+  "path": "/Preset/Noise floor at -70dB"
+ },
+ {
+  "id": "3068",
+  "text": "Shift down",
+  "path": "/Preset/Shift down"
+ },
+ {
+  "id": "3069",
+  "text": "Shift up",
+  "path": "/Preset/Shift up"
+ },
+ {
+  "id": "3070",
+  "text": "Go to left",
+  "path": "/Preset/Go to left"
+ },
+ {
+  "id": "3071",
+  "text": "Go to right",
+  "path": "/Preset/Go to right"
+ },
+ {
+  "id": "3072",
+  "text": "Half left",
+  "path": "/Preset/Half left"
+ },
+ {
+  "id": "3073",
+  "text": "Half right",
+  "path": "/Preset/Half right"
+ },
+ {
+  "id": "3074",
+  "text": "Left to right",
+  "path": "/Preset/Left to right"
+ },
+ {
+  "id": "3075",
+  "text": "Right to left",
+  "path": "/Preset/Right to left"
+ },
+ {
+  "id": "3076",
+  "text": "Warper",
+  "path": "/Preset/Warper"
+ },
+ {
+  "id": "3077",
+  "text": "Slightly right, volume change only",
+  "path": "/Preset/Slightly right, volume change only"
+ },
+ {
+  "id": "3078",
+  "text": "1kHz notch",
+  "path": "/Preset/1kHz notch"
+ },
+ {
+  "id": "3079",
+  "text": "Bass boost",
+  "path": "/Preset/Bass boost"
+ },
+ {
+  "id": "3080",
+  "text": "Treble boost",
+  "path": "/Preset/Treble boost"
+ },
+ {
+  "id": "3081",
+  "text": "75%, tempo unchanged",
+  "path": "/Preset/75%, tempo unchanged"
+ },
+ {
+  "id": "3082",
+  "text": "C to B",
+  "path": "/Preset/C to B"
+ },
+ {
+  "id": "3083",
+  "text": "C to C#",
+  "path": "/Preset/C to C#"
+ },
+ {
+  "id": "3084",
+  "text": "C to D",
+  "path": "/Preset/C to D"
+ },
+ {
+  "id": "3085",
+  "text": "Down one octave",
+  "path": "/Preset/Down one octave"
+ },
+ {
+  "id": "3086",
+  "text": "Up one octave",
+  "path": "/Preset/Up one octave"
+ },
+ {
+  "id": "3087",
+  "text": "Aggressive",
+  "path": "/Preset/Aggressive"
+ },
+ {
+  "id": "3088",
+  "text": "Passive",
+  "path": "/Preset/Passive"
+ },
+ {
+  "id": "3089",
+  "text": "Excessive",
+  "path": "/Preset/Excessive"
+ },
+ {
+  "id": "3090",
+  "text": "Full stereo",
+  "path": "/Preset/Full stereo"
+ },
+ {
+  "id": "3091",
+  "text": "Reduced vocals with more stereo",
+  "path": "/Preset/Reduced vocals with more stereo"
+ },
+ {
+  "id": "3092",
+  "text": "Reduced vocals with some stereo",
+  "path": "/Preset/Reduced vocals with some stereo"
+ },
+ {
+  "id": "3093",
+  "text": "Simple cancellation",
+  "path": "/Preset/Simple cancellation"
+ },
+ {
+  "id": "3094",
+  "text": "Simple bandstop",
+  "path": "/Preset/Simple bandstop"
+ },
+ {
+  "id": "3095",
+  "text": "Reduced vocals with extra stereo",
+  "path": "/Preset/Reduced vocals with extra stereo"
+ },
+ {
+  "id": "3096",
+  "text": "Instrumental stereo",
+  "path": "/Preset/Instrumental stereo"
+ },
+ {
+  "id": "3097",
+  "text": "Instrumental mono",
+  "path": "/Preset/Instrumental mono"
+ },
+ {
+  "id": "3098",
+  "text": "Concert hall",
+  "path": "/Preset/Concert hall"
+ },
+ {
+  "id": "3099",
+  "text": "Room",
+  "path": "/Preset/Room"
+ },
+ {
+  "id": "3100",
+  "text": "Attack and fade",
+  "path": "/Preset/Attack and fade"
+ },
+ {
+  "id": "3101",
+  "text": "Duck (drop out)",
+  "path": "/Preset/Duck (drop out)"
+ },
+ {
+  "id": "3102",
+  "text": "Exp fade in",
+  "path": "/Preset/Exp fade in"
+ },
+ {
+  "id": "3103",
+  "text": "Exp fade out",
+  "path": "/Preset/Exp fade out"
+ },
+ {
+  "id": "3104",
+  "text": "Fade in",
+  "path": "/Preset/Fade in"
+ },
+ {
+  "id": "3105",
+  "text": "Fade out",
+  "path": "/Preset/Fade out"
+ },
+ {
+  "id": "3106",
+  "text": "Faded ends",
+  "path": "/Preset/Faded ends"
+ },
+ {
+  "id": "3107",
+  "text": "Power failure",
+  "path": "/Preset/Power failure"
+ },
+ {
+  "id": "3108",
+  "text": "Fade for voice-over",
+  "path": "/Preset/Fade for voice-over"
+ },
+ {
+  "id": "3109",
+  "text": "Sharp faded ends",
+  "path": "/Preset/Sharp faded ends"
+ },
+ {
+  "id": "3110",
+  "text": "ADSR Envelope",
+  "path": "/Preset/ADSR Envelope"
+ },
+ {
+  "id": "3111",
+  "text": "Reduce silences to half a second",
+  "path": "/Preset/Reduce silences to half a second"
+ },
+ {
+  "id": "3112",
+  "text": "Reduce silences 50%",
+  "path": "/Preset/Reduce silences 50%"
+ },
+ {
+  "id": "3113",
+  "text": "Shorten silences longer than 5 seconds",
+  "path": "/Preset/Shorten silences longer than 5 seconds"
+ },
+ {
+  "id": "3114",
+  "text": "Eliminate all silences",
+  "path": "/Preset/Eliminate all silences"
+ },
+ {
+  "id": "3115",
+  "text": "Reduce hiss",
+  "path": "/Preset/Reduce hiss"
+ },
+ {
+  "id": "3116",
+  "text": "Dull",
+  "path": "/Preset/Dull"
+ },
+ {
+  "id": "3117",
+  "text": "Bandstop 1000Hz to 2000Hz",
+  "path": "/Preset/Bandstop 1000Hz to 2000Hz"
+ },
+ {
+  "id": "3118",
+  "text": "Boost mid range",
+  "path": "/Preset/Boost mid range"
+ },
+ {
+  "id": "3119",
+  "text": "Notch at 1000Hz, 50Hz wide",
+  "path": "/Preset/Notch at 1000Hz, 50Hz wide"
+ }
+]

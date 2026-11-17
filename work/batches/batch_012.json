@@ -1,0 +1,402 @@
+[
+ {
+  "id": "880",
+  "text": "Preset name:",
+  "path": "/Forms/AddEvalPreset/PresetLabel/Caption"
+ },
+ {
+  "id": "881",
+  "text": "Expression Evaluator",
+  "path": "/Forms/EvaluatorForm/Caption"
+ },
+ {
+  "id": "882",
+  "text": " Destination ",
+  "path": "/Forms/EvaluatorForm/DestinationBox/Caption"
+ },
+ {
+  "id": "883",
+  "text": " Source (wave#) ",
+  "path": "/Forms/EvaluatorForm/SourceBox/Caption"
+ },
+ {
+  "id": "884",
+  "text": " Expression ",
+  "path": "/Forms/EvaluatorForm/ExpressionBox/Caption"
+ },
+ {
+  "id": "885",
+  "text": " Presets ",
+  "path": "/Forms/EvaluatorForm/PresetsBox/Caption"
+ },
+ {
+  "id": "886",
+  "text": " Incremented variables ",
+  "path": "/Forms/EvaluatorForm/IncrementedVariablesBox/Caption"
+ },
+ {
+  "id": "887",
+  "text": "n",
+  "path": "/Forms/EvaluatorForm/IncrementedVariablesBox/n/Label"
+ },
+ {
+  "id": "888",
+  "text": "Initial n =",
+  "path": "/Forms/EvaluatorForm/IncrementedVariablesBox/nLabel/Caption"
+ },
+ {
+  "id": "889",
+  "text": "t",
+  "path": "/Forms/EvaluatorForm/IncrementedVariablesBox/t/Label"
+ },
+ {
+  "id": "890",
+  "text": "Initial t =",
+  "path": "/Forms/EvaluatorForm/IncrementedVariablesBox/tLabel/Caption"
+ },
+ {
+  "id": "891",
+  "text": " User constants ",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/Caption"
+ },
+ {
+  "id": "892",
+  "text": "x",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/x/Label"
+ },
+ {
+  "id": "893",
+  "text": "x =",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/xLabel/Caption"
+ },
+ {
+  "id": "894",
+  "text": "y",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/y/Label"
+ },
+ {
+  "id": "895",
+  "text": "y =",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/yLabel/Caption"
+ },
+ {
+  "id": "896",
+  "text": "f",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/f/Label"
+ },
+ {
+  "id": "897",
+  "text": "f =",
+  "path": "/Forms/EvaluatorForm/UserConstantsBox/fLabel/Caption"
+ },
+ {
+  "id": "898",
+  "text": "Buttons",
+  "path": "/Forms/EvaluatorForm/ShowButtons/Caption"
+ },
+ {
+  "id": "899",
+  "text": "Adds a preset",
+  "path": "/Forms/EvaluatorForm/ActionList/AddPresetAction/Hint"
+ },
+ {
+  "id": "900",
+  "text": "Removes a preset",
+  "path": "/Forms/EvaluatorForm/ActionList/RemovePresetAction/Hint"
+ },
+ {
+  "id": "901",
+  "text": "Show evaluator buttons",
+  "path": "/Forms/EvaluatorForm/ActionList/ShowButtonsAction/Hint"
+ },
+ {
+  "id": "902",
+  "text": "Evaluator Buttons",
+  "path": "/Forms/EvaluatorButtonsForm/Caption"
+ },
+ {
+  "id": "903",
+  "text": "Backspace",
+  "path": "/Forms/EvaluatorButtonsForm/Backspace/Hint"
+ },
+ {
+  "id": "904",
+  "text": "Edit File Presets",
+  "path": "/Forms/FilePresetsForm/Caption"
+ },
+ {
+  "id": "905",
+  "text": "File Format",
+  "path": "/Forms/FileFormatForm/Caption"
+ },
+ {
+  "id": "906",
+  "text": "Cannot determine format of file:",
+  "path": "/Forms/FileFormatForm/FormatLabel/Caption"
+ },
+ {
+  "id": "907",
+  "text": "Please specify a format below.",
+  "path": "/Forms/FileFormatForm/FormatLabel2/Caption"
+ },
+ {
+  "id": "908",
+  "text": "Data >>",
+  "path": "/Forms/FileFormatForm/Data/Caption"
+ },
+ {
+  "id": "909",
+  "text": "Add Folder",
+  "path": "/Forms/FilePatternForm/Caption"
+ },
+ {
+  "id": "910",
+  "text": "Include all subfolders",
+  "path": "/Forms/FilePatternForm/SubFolder/Caption"
+ },
+ {
+  "id": "911",
+  "text": "File type:",
+  "path": "/Forms/FilePatternForm/FilterLabel/Caption"
+ },
+ {
+  "id": "912",
+  "text": "Folder:",
+  "path": "/Forms/FilePatternForm/FolderLabel/Caption"
+ },
+ {
+  "id": "913",
+  "text": "Find",
+  "path": "/Forms/FindForm/Caption"
+ },
+ {
+  "id": "914",
+  "text": "Zoom in on selection if found",
+  "path": "/Forms/FindForm/Zoom/Caption"
+ },
+ {
+  "id": "915",
+  "text": "Speech Converter",
+  "path": "/Forms/FindTextForm/Caption"
+ },
+ {
+  "id": "916",
+  "text": "Search",
+  "path": "/Forms/FindTextForm/ButtonOk/Caption"
+ },
+ {
+  "id": "917",
+  "text": "Phrase to search for...",
+  "path": "/Forms/FindTextForm/Words/TextHint"
+ },
+ {
+  "id": "918",
+  "text": "Configure Pedals",
+  "path": "/Forms/FootPedalForm/Caption"
+ },
+ {
+  "id": "919",
+  "text": "Skip Forward",
+  "path": "/Forms/FootPedalForm/Forward/Button/Caption"
+ },
+ {
+  "id": "920",
+  "text": "Toggle",
+  "path": "/Forms/FootPedalForm/Forward/Option/Items.Strings/0"
+ },
+ {
+  "id": "921",
+  "text": "Skip Backward",
+  "path": "/Forms/FootPedalForm/Backward/Button/Caption"
+ },
+ {
+  "id": "922",
+  "text": "Fast Forward",
+  "path": "/Forms/FootPedalForm/FastForward/Button/Caption"
+ },
+ {
+  "id": "923",
+  "text": "Hold",
+  "path": "/Forms/FootPedalForm/FastForward/Option/Items.Strings/1"
+ },
+ {
+  "id": "924",
+  "text": "To assign each foot pedal, choose one of the buttons below, then press and hold (for 1 second) the pedal to use for that function until the indicators turn green.",
+  "path": "/Forms/FootPedalForm/Instructions/Caption"
+ },
+ {
+  "id": "925",
+  "text": "GoldWave Help",
+  "path": "/Forms/HelpForm/Caption"
+ },
+ {
+  "id": "926",
+  "text": "Type to search index",
+  "path": "/Forms/HelpForm/IndexPanel/IndexSearch/Hint"
+ },
+ {
+  "id": "927",
+  "text": "Find in index...",
+  "path": "/Forms/HelpForm/IndexPanel/IndexSearch/TextHint"
+ },
+ {
+  "id": "928",
+  "text": "Back",
+  "path": "/Forms/HelpForm/BrowserPanel/ControlPanel/Back/Hint"
+ },
+ {
+  "id": "929",
+  "text": "Searches entire help",
+  "path": "/Forms/HelpForm/BrowserPanel/ControlPanel/SearchButton/Hint"
+ },
+ {
+  "id": "930",
+  "text": "Search help...",
+  "path": "/Forms/HelpForm/BrowserPanel/ControlPanel/Search/TextHint"
+ },
+ {
+  "id": "931",
+  "text": "Internet Connection",
+  "path": "/Forms/HTTPForm/Caption"
+ },
+ {
+  "id": "932",
+  "text": "Status",
+  "path": "/Forms/HTTPForm/Status/Caption"
+ },
+ {
+  "id": "933",
+  "text": "GoldWave Link",
+  "path": "/Forms/InfinityLinkForm/Caption"
+ },
+ {
+  "id": "934",
+  "text": "Link code...",
+  "path": "/Forms/InfinityLinkForm/ConnectPanel/Code/TextHint"
+ },
+ {
+  "id": "935",
+  "text": "Connect",
+  "path": "/Forms/InfinityLinkForm/ConnectPanel/ConnectButton/Caption"
+ },
+ {
+  "id": "936",
+  "text": "Create New Link",
+  "path": "/Forms/InfinityLinkForm/ConnectPanel/CreateNewLinkButton/Caption"
+ },
+ {
+  "id": "937",
+  "text": "Delete Link",
+  "path": "/Forms/InfinityLinkForm/ConnectPanel/DeleteLinkButton/Caption"
+ },
+ {
+  "id": "938",
+  "text": "Send file...",
+  "path": "/Forms/InfinityLinkForm/Link/SendButton/Caption"
+ },
+ {
+  "id": "939",
+  "text": "Receive folder:",
+  "path": "/Forms/InfinityLinkForm/Link/ReceivePrompt/Caption"
+ },
+ {
+  "id": "940",
+  "text": "Allow overwriting of files received",
+  "path": "/Forms/InfinityLinkForm/Link/AllowOverwrite/Caption"
+ },
+ {
+  "id": "941",
+  "text": "Open file after transfer complete",
+  "path": "/Forms/InfinityLinkForm/Link/OpenReceived/Caption"
+ },
+ {
+  "id": "942",
+  "text": "Linked",
+  "path": "/Forms/InfinityLinkForm/Link/Linked/Caption"
+ },
+ {
+  "id": "943",
+  "text": "Receiving",
+  "path": "/Forms/InfinityLinkForm/Link/Receiving/Caption"
+ },
+ {
+  "id": "944",
+  "text": "Sending",
+  "path": "/Forms/InfinityLinkForm/Link/Sending/Caption"
+ },
+ {
+  "id": "945",
+  "text": "Unlinked",
+  "path": "/Forms/InfinityLinkForm/Link/Unlinked/Caption"
+ },
+ {
+  "id": "946",
+  "text": "File Information",
+  "path": "/Forms/InformationForm/Caption"
+ },
+ {
+  "id": "947",
+  "text": "Click here to select a photo for the artwork",
+  "path": "/Forms/InformationForm/Art/Hint"
+ },
+ {
+  "id": "948",
+  "text": "Removes the artwork",
+  "path": "/Forms/InformationForm/DescriptionLabel/Hint"
+ },
+ {
+  "id": "949",
+  "text": "ISRC:",
+  "path": "/Forms/InformationForm/ISRCLabel/Caption"
+ },
+ {
+  "id": "950",
+  "text": "Track number:",
+  "path": "/Forms/InformationForm/TrackLabel/Caption"
+ },
+ {
+  "id": "951",
+  "text": "https://...",
+  "path": "/Forms/InformationForm/GWText_URL/TextHint"
+ },
+ {
+  "id": "952",
+  "text": "URL:",
+  "path": "/Forms/InformationForm/URLLabel/Caption"
+ },
+ {
+  "id": "953",
+  "text": "YYYY/MM/DD HH:MM:SS",
+  "path": "/Forms/InformationForm/GWText_Date/TextHint"
+ },
+ {
+  "id": "954",
+  "text": "Date:",
+  "path": "/Forms/InformationForm/DateLabel/Caption"
+ },
+ {
+  "id": "955",
+  "text": "Copyright:",
+  "path": "/Forms/InformationForm/CopyrightLabel/Caption"
+ },
+ {
+  "id": "956",
+  "text": "Album artist:",
+  "path": "/Forms/InformationForm/AlbumArtistLabel/Caption"
+ },
+ {
+  "id": "957",
+  "text": "Artist:",
+  "path": "/Forms/InformationForm/ArtistLabel/Caption"
+ },
+ {
+  "id": "958",
+  "text": "Title:",
+  "path": "/Forms/InformationForm/TitleLabel/Caption"
+ },
+ {
+  "id": "959",
+  "text": "Paste",
+  "path": "/Forms/InformationForm/Paste/Caption"
+ }
+]

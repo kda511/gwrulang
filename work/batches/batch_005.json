@@ -1,0 +1,402 @@
+[
+ {
+  "id": "320",
+  "text": "Noise Gate",
+  "path": "/Forms/NoiseGateForm/Caption"
+ },
+ {
+  "id": "321",
+  "text": "Remove short sounds (like mouse clicks) by setting an Ignore time greater than zero.",
+  "path": "/Forms/NoiseGateForm/IgnoreLabel/Caption"
+ },
+ {
+  "id": "322",
+  "text": "Ignore (s):",
+  "path": "/Forms/NoiseGateForm/Ignore/Caption"
+ },
+ {
+  "id": "323",
+  "text": "Reduction (%):",
+  "path": "/Forms/NoiseGateForm/ReductionLevel/Caption"
+ },
+ {
+  "id": "324",
+  "text": "Noise Reduction",
+  "path": "/Forms/NoiseReductionForm/Caption"
+ },
+ {
+  "id": "325",
+  "text": " Reduction envelope ",
+  "path": "/Forms/NoiseReductionForm/EnvelopeGroup/Caption"
+ },
+ {
+  "id": "326",
+  "text": "Use shape",
+  "path": "/Forms/NoiseReductionForm/EnvelopeGroup/Shape/Caption"
+ },
+ {
+  "id": "327",
+  "text": "Use current spectrum",
+  "path": "/Forms/NoiseReductionForm/EnvelopeGroup/Current/Caption"
+ },
+ {
+  "id": "328",
+  "text": "Use average",
+  "path": "/Forms/NoiseReductionForm/EnvelopeGroup/Average/Caption"
+ },
+ {
+  "id": "329",
+  "text": "Use clipboard",
+  "path": "/Forms/NoiseReductionForm/EnvelopeGroup/Clipboard/Caption"
+ },
+ {
+  "id": "330",
+  "text": "FFT size",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/FFTSize/Label"
+ },
+ {
+  "id": "331",
+  "text": "&FFT size:",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/FFTSizeLabel/Caption"
+ },
+ {
+  "id": "332",
+  "text": "Scale",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/Scale/Label"
+ },
+ {
+  "id": "333",
+  "text": "Scale (%):",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/ScaleLabel/Caption"
+ },
+ {
+  "id": "334",
+  "text": "4x",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/Overlap/Text"
+ },
+ {
+  "id": "335",
+  "text": "8x",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/Overlap/Items.Strings/1"
+ },
+ {
+  "id": "336",
+  "text": "16x",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/Overlap/Items.Strings/2"
+ },
+ {
+  "id": "337",
+  "text": "Overlap:",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/OverlapLabel/Caption"
+ },
+ {
+  "id": "338",
+  "text": "Output noise only",
+  "path": "/Forms/NoiseReductionForm/SettingsGroup/Noise/Caption"
+ },
+ {
+  "id": "339",
+  "text": "Time:",
+  "path": "/Forms/NoiseReductionForm/TimeLabel/Caption"
+ },
+ {
+  "id": "340",
+  "text": "&X (Hz):",
+  "path": "/Forms/NoiseReductionForm/PointPanel/LabelX/Caption"
+ },
+ {
+  "id": "341",
+  "text": "&Y (dB):",
+  "path": "/Forms/NoiseReductionForm/PointPanel/LabelY/Caption"
+ },
+ {
+  "id": "342",
+  "text": "Offset",
+  "path": "/Forms/OffsetForm/Caption"
+ },
+ {
+  "id": "343",
+  "text": "LFE/subwoofer:",
+  "path": "/Forms/OffsetForm/OLFE/Caption"
+ },
+ {
+  "id": "344",
+  "text": "Scan Offset",
+  "path": "/Forms/OffsetForm/Scan/Caption"
+ },
+ {
+  "id": "345",
+  "text": "Scan offset",
+  "path": "/Forms/OffsetForm/ScanActionList/ScanAction/Caption"
+ },
+ {
+  "id": "346",
+  "text": "Scans the selection to get the inverse offset",
+  "path": "/Forms/OffsetForm/ScanActionList/ScanAction/Hint"
+ },
+ {
+  "id": "347",
+  "text": "Pan",
+  "path": "/Forms/PanForm/Caption"
+ },
+ {
+  "id": "348",
+  "text": "Change volume only (no channel mixing)",
+  "path": "/Forms/PanForm/PanOptionsPanel/VolumeOnly/Caption"
+ },
+ {
+  "id": "349",
+  "text": "Show balance",
+  "path": "/Forms/PanForm/PanOptionsPanel/Waveform/Caption"
+ },
+ {
+  "id": "350",
+  "text": "Parametric EQ",
+  "path": "/Forms/ParametricEQForm/Caption"
+ },
+ {
+  "id": "351",
+  "text": "Band",
+  "path": "/Forms/ParametricEQForm/Band/Label"
+ },
+ {
+  "id": "352",
+  "text": "Add a new parametric band",
+  "path": "/Forms/ParametricEQForm/AddBand/Hint"
+ },
+ {
+  "id": "353",
+  "text": "Add Band",
+  "path": "/Forms/ParametricEQForm/AddBand/Caption"
+ },
+ {
+  "id": "354",
+  "text": "Remove the current parametric band",
+  "path": "/Forms/ParametricEQForm/RemoveBand/Hint"
+ },
+ {
+  "id": "355",
+  "text": "Remove Band",
+  "path": "/Forms/ParametricEQForm/RemoveBand/Caption"
+ },
+ {
+  "id": "356",
+  "text": "Gain (dB):",
+  "path": "/Forms/ParametricEQForm/Gain/Caption"
+ },
+ {
+  "id": "357",
+  "text": "Center (Hz):",
+  "path": "/Forms/ParametricEQForm/Center/Caption"
+ },
+ {
+  "id": "358",
+  "text": "Width (Hz):",
+  "path": "/Forms/ParametricEQForm/Width/Caption"
+ },
+ {
+  "id": "359",
+  "text": "Low/Highpass Filter",
+  "path": "/Forms/PassFilterForm/Caption"
+ },
+ {
+  "id": "360",
+  "text": "Cutoff frequency",
+  "path": "/Forms/PassFilterForm/InitialGroup/Caption"
+ },
+ {
+  "id": "361",
+  "text": "Initial cutoff (Hz):",
+  "path": "/Forms/PassFilterForm/InitialGroup/Initial/Caption"
+ },
+ {
+  "id": "362",
+  "text": "Final cutoff (Hz):",
+  "path": "/Forms/PassFilterForm/InitialGroup/Final/Caption"
+ },
+ {
+  "id": "363",
+  "text": "&Lowpass",
+  "path": "/Forms/PassFilterForm/SettingsGroup/TypeGroup/Lowpass/Caption"
+ },
+ {
+  "id": "364",
+  "text": "&Highpass",
+  "path": "/Forms/PassFilterForm/SettingsGroup/TypeGroup/Highpass/Caption"
+ },
+ {
+  "id": "365",
+  "text": "Pitch",
+  "path": "/Forms/PitchForm/Caption"
+ },
+ {
+  "id": "366",
+  "text": " Change pitch by scale factor or relative semitone ",
+  "path": "/Forms/PitchForm/Setting/Caption"
+ },
+ {
+  "id": "367",
+  "text": "Semitone:",
+  "path": "/Forms/PitchForm/Setting/BySemitone/Caption"
+ },
+ {
+  "id": "368",
+  "text": "Semitone",
+  "path": "/Forms/PitchForm/Setting/Semitone/Label"
+ },
+ {
+  "id": "369",
+  "text": "Fine tune",
+  "path": "/Forms/PitchForm/Setting/Finetune/Label"
+ },
+ {
+  "id": "370",
+  "text": "Fine tune:",
+  "path": "/Forms/PitchForm/Setting/FinetuneLabel/Caption"
+ },
+ {
+  "id": "371",
+  "text": "Preserve tempo",
+  "path": "/Forms/PitchForm/Preserve/Caption"
+ },
+ {
+  "id": "372",
+  "text": "Pop/Click Filter",
+  "path": "/Forms/PopClickForm/Caption"
+ },
+ {
+  "id": "373",
+  "text": "Tolerance (%):",
+  "path": "/Forms/PopClickForm/Tolerance/Caption"
+ },
+ {
+  "id": "374",
+  "text": "Reduce Vocals",
+  "path": "/Forms/RemoveVocalsForm/Caption"
+ },
+ {
+  "id": "375",
+  "text": " Channel cancellation volume ",
+  "path": "/Forms/RemoveVocalsForm/CancellationBox/Caption"
+ },
+ {
+  "id": "376",
+  "text": " Bandstop filter volume and range ",
+  "path": "/Forms/RemoveVocalsForm/BandFilterBox/Caption"
+ },
+ {
+  "id": "377",
+  "text": "Reverb",
+  "path": "/Forms/ReverbForm/Caption"
+ },
+ {
+  "id": "378",
+  "text": "Reverb time (s):",
+  "path": "/Forms/ReverbForm/Time/Caption"
+ },
+ {
+  "id": "379",
+  "text": "Delay scale:",
+  "path": "/Forms/ReverbForm/Delay/Caption"
+ },
+ {
+  "id": "380",
+  "text": "ShapeBox",
+  "path": "/Forms/FormEffectShape/ShapeBox/Caption"
+ },
+ {
+  "id": "381",
+  "text": "Insert a new point after the current point",
+  "path": "/Forms/FormEffectShape/PointPanel/AddPoint/Hint"
+ },
+ {
+  "id": "382",
+  "text": "Add",
+  "path": "/Forms/FormEffectShape/PointPanel/AddPoint/Caption"
+ },
+ {
+  "id": "383",
+  "text": "Point:",
+  "path": "/Forms/FormEffectShape/PointPanel/LabelPoint/Caption"
+ },
+ {
+  "id": "384",
+  "text": "&X:",
+  "path": "/Forms/FormEffectShape/PointPanel/LabelX/Caption"
+ },
+ {
+  "id": "385",
+  "text": "&Y:",
+  "path": "/Forms/FormEffectShape/PointPanel/LabelY/Caption"
+ },
+ {
+  "id": "386",
+  "text": "Point",
+  "path": "/Forms/FormEffectShape/PointPanel/Point/Label"
+ },
+ {
+  "id": "387",
+  "text": "Remove the current point",
+  "path": "/Forms/FormEffectShape/PointPanel/RemovePoint/Hint"
+ },
+ {
+  "id": "388",
+  "text": "Remove",
+  "path": "/Forms/FormEffectShape/PointPanel/RemovePoint/Caption"
+ },
+ {
+  "id": "389",
+  "text": "X",
+  "path": "/Forms/FormEffectShape/PointPanel/X/Label"
+ },
+ {
+  "id": "390",
+  "text": "Y",
+  "path": "/Forms/FormEffectShape/PointPanel/Y/Label"
+ },
+ {
+  "id": "391",
+  "text": "Silence Reduction",
+  "path": "/Forms/SilenceReductionForm/Caption"
+ },
+ {
+  "id": "392",
+  "text": " Attributes of silence to reduce ",
+  "path": "/Forms/SilenceReductionForm/Attributes/Caption"
+ },
+ {
+  "id": "393",
+  "text": "Duration (s):",
+  "path": "/Forms/SilenceReductionForm/Attributes/Duration/Caption"
+ },
+ {
+  "id": "394",
+  "text": "Silence threshold (dB):",
+  "path": "/Forms/SilenceReductionForm/Attributes/Threshold/Caption"
+ },
+ {
+  "id": "395",
+  "text": " Reduction level ",
+  "path": "/Forms/SilenceReductionForm/Reduction/Caption"
+ },
+ {
+  "id": "396",
+  "text": "Reduce to (%):",
+  "path": "/Forms/SilenceReductionForm/Reduction/Percent/Caption"
+ },
+ {
+  "id": "397",
+  "text": "Maximum length (s):",
+  "path": "/Forms/SilenceReductionForm/Reduction/Length/Caption"
+ },
+ {
+  "id": "398",
+  "text": "Full crossfade",
+  "path": "/Forms/SilenceReductionForm/Reduction/Fade/Caption"
+ },
+ {
+  "id": "399",
+  "text": "Smoother Filter",
+  "path": "/Forms/SmootherForm/Caption"
+ }
+]

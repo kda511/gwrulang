@@ -1,0 +1,402 @@
+[
+ {
+  "id": "0",
+  "text": "Control",
+  "path": "/Forms/ControlView/Caption"
+ },
+ {
+  "id": "1",
+  "text": "Volume",
+  "path": "/Forms/ControlView/Panel/VolumeBar/Caption"
+ },
+ {
+  "id": "2",
+  "text": "Balance",
+  "path": "/Forms/ControlView/Panel/BalanceBar/Caption"
+ },
+ {
+  "id": "3",
+  "text": "Speed",
+  "path": "/Forms/ControlView/Panel/SpeedBar/Caption"
+ },
+ {
+  "id": "4",
+  "text": "All",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupAll/Caption"
+ },
+ {
+  "id": "5",
+  "text": "Plays the entire file",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupAll/Hint"
+ },
+ {
+  "id": "6",
+  "text": "Selection",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupSelection/Caption"
+ },
+ {
+  "id": "7",
+  "text": "Plays the selection",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupSelection/Hint"
+ },
+ {
+  "id": "8",
+  "text": "Unselected",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupUnselected/Caption"
+ },
+ {
+  "id": "9",
+  "text": "Plays the unselected areas",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupUnselected/Hint"
+ },
+ {
+  "id": "10",
+  "text": "Continue",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupContinue/Caption"
+ },
+ {
+  "id": "11",
+  "text": "Continues playing from the last playback position and stops at the finish } marker",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupContinue/Hint"
+ },
+ {
+  "id": "12",
+  "text": "Continue to end",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupContinueToEnd/Caption"
+ },
+ {
+  "id": "13",
+  "text": "Continues playing from the last playback position and stops at the end of the file",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupContinueToEnd/Hint"
+ },
+ {
+  "id": "14",
+  "text": "View",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupView/Caption"
+ },
+ {
+  "id": "15",
+  "text": "Plays only the audio shown in the window",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupView/Hint"
+ },
+ {
+  "id": "16",
+  "text": "View to end",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupViewToEnd/Caption"
+ },
+ {
+  "id": "17",
+  "text": "Plays the audio shown and continues to the end of the file",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupViewToEnd/Hint"
+ },
+ {
+  "id": "18",
+  "text": "Finish",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupFinish/Caption"
+ },
+ {
+  "id": "19",
+  "text": "Plays a few seconds before finish } marker and stops at the marker",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupFinish/Hint"
+ },
+ {
+  "id": "20",
+  "text": "Intro/loop/end",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupIntro/Caption"
+ },
+ {
+  "id": "21",
+  "text": "Plays the unselected beginning, loops the selection, then continues into the unselected end",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupIntro/Hint"
+ },
+ {
+  "id": "22",
+  "text": "Loop point",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupLoopPoint/Caption"
+ },
+ {
+  "id": "23",
+  "text": "Plays a few seconds up to the finish } marker then continues from the start { marker",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupLoopPoint/Hint"
+ },
+ {
+  "id": "24",
+  "text": "Loop",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupLoop/Caption"
+ },
+ {
+  "id": "25",
+  "text": "Enables or disable looping",
+  "path": "/Forms/ControlView/PlayPopup/PlayPopupLoop/Hint"
+ },
+ {
+  "id": "26",
+  "text": "Monitor input",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupMonitor/Caption"
+ },
+ {
+  "id": "27",
+  "text": "Timer",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupTimer/Caption"
+ },
+ {
+  "id": "28",
+  "text": "Enable or disable timer when recording",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupTimer/Hint"
+ },
+ {
+  "id": "29",
+  "text": "Level activated",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupLevel/Caption"
+ },
+ {
+  "id": "30",
+  "text": "Enables or disables level activated recording",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupLevel/Hint"
+ },
+ {
+  "id": "31",
+  "text": "Dictation mode",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupDictation/Caption"
+ },
+ {
+  "id": "32",
+  "text": "Enables dictation mode for quickly switching between recording and playback",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupDictation/Hint"
+ },
+ {
+  "id": "33",
+  "text": "Bounded to selection",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupBounded/Caption"
+ },
+ {
+  "id": "34",
+  "text": "Bounded and looped",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupLoop/Caption"
+ },
+ {
+  "id": "35",
+  "text": "Unbounded",
+  "path": "/Forms/ControlView/RecordPopup/RecordPopupUnbounded/Caption"
+ },
+ {
+  "id": "36",
+  "text": "Properties...",
+  "path": "/Forms/ControlView/VisualPopup/VisualPopupProperties/Caption"
+ },
+ {
+  "id": "37",
+  "text": "Configuration...",
+  "path": "/Forms/ControlView/VisualPopup/VisualPopupConfiguration/Caption"
+ },
+ {
+  "id": "38",
+  "text": "Configures all visuals",
+  "path": "/Forms/ControlView/VisualPopup/VisualPopupConfiguration/Hint"
+ },
+ {
+  "id": "39",
+  "text": "Normal (&1.0)",
+  "path": "/Forms/ControlView/SpeedPopup/SpeedPopupNormal/Caption"
+ },
+ {
+  "id": "40",
+  "text": "&Quarter (0.25)",
+  "path": "/Forms/ControlView/SpeedPopup/SpeedPopupQuarter/Caption"
+ },
+ {
+  "id": "41",
+  "text": "&Half (0.5)",
+  "path": "/Forms/ControlView/SpeedPopup/SpeedPopupHalf/Caption"
+ },
+ {
+  "id": "42",
+  "text": "Double (&2.0)",
+  "path": "/Forms/ControlView/SpeedPopup/SpeedPopupDouble/Caption"
+ },
+ {
+  "id": "43",
+  "text": "Triple (&3.0)",
+  "path": "/Forms/ControlView/SpeedPopup/SpeedPopupTriple/Caption"
+ },
+ {
+  "id": "44",
+  "text": "Quadruple (&4.0)",
+  "path": "/Forms/ControlView/SpeedPopup/SpeedPopupQuadruple/Caption"
+ },
+ {
+  "id": "45",
+  "text": "Quintuple (&5.0)",
+  "path": "/Forms/ControlView/SpeedPopup/QuadrupleSeptuple/Caption"
+ },
+ {
+  "id": "46",
+  "text": "&Center (0%)",
+  "path": "/Forms/ControlView/BalancePopup/BalancePopupCenter/Caption"
+ },
+ {
+  "id": "47",
+  "text": "&Left (-100%)",
+  "path": "/Forms/ControlView/BalancePopup/BalancePopupLeft/Caption"
+ },
+ {
+  "id": "48",
+  "text": "&Right (+100%)",
+  "path": "/Forms/ControlView/BalancePopup/BalancePopupRight/Caption"
+ },
+ {
+  "id": "49",
+  "text": "Control Properties",
+  "path": "/Forms/ControlPropertiesForm/Caption"
+ },
+ {
+  "id": "50",
+  "text": "Play",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/Caption"
+ },
+ {
+  "id": "51",
+  "text": " Play &1 ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/Caption"
+ },
+ {
+  "id": "52",
+  "text": "Set the number of loops",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/LoopCountPlay1/Hint"
+ },
+ {
+  "id": "53",
+  "text": "Green Loop",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/LoopCountPlay1/Label"
+ },
+ {
+  "id": "54",
+  "text": "Enable or disable looping",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/LoopPlay1/Hint"
+ },
+ {
+  "id": "55",
+  "text": "Loop:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/LoopPlay1/Caption"
+ },
+ {
+  "id": "56",
+  "text": "Continue to finish }",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/RegionPlay1/Items.Strings/3"
+ },
+ {
+  "id": "57",
+  "text": "Up to finish }",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay1/RegionPlay1/Items.Strings/7"
+ },
+ {
+  "id": "58",
+  "text": " Play &2 ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay2/Caption"
+ },
+ {
+  "id": "59",
+  "text": "Yellow Loop",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay2/LoopCountPlay2/Label"
+ },
+ {
+  "id": "60",
+  "text": " Play &3 ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupPlay3/Caption"
+ },
+ {
+  "id": "61",
+  "text": " Fast/Rewind speed ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/Caption"
+ },
+ {
+  "id": "62",
+  "text": "Set the rewind speed",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/RewindEdit/Hint"
+ },
+ {
+  "id": "63",
+  "text": "Rewind",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/RewindEdit/Label"
+ },
+ {
+  "id": "64",
+  "text": "&Rewind:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/RewindLabel/Caption"
+ },
+ {
+  "id": "65",
+  "text": "Set the fast forward speed",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/FastEdit/Hint"
+ },
+ {
+  "id": "66",
+  "text": "Fast",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/FastEdit/Label"
+ },
+ {
+  "id": "67",
+  "text": "&Fast:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/FastRewindGroop/FastLabel/Caption"
+ },
+ {
+  "id": "68",
+  "text": " Marker preview (scrubbing) ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupScrub/Caption"
+ },
+ {
+  "id": "69",
+  "text": "Preview duration (s):",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupScrub/ScrubDuration/Caption"
+ },
+ {
+  "id": "70",
+  "text": "Preview marker when moved using keyboard only",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupScrub/ScrubTrigger/Text"
+ },
+ {
+  "id": "71",
+  "text": "Preview marker when moved using keyboard or mouse",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupScrub/ScrubTrigger/Items.Strings/1"
+ },
+ {
+  "id": "72",
+  "text": " Skip ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/Caption"
+ },
+ {
+  "id": "73",
+  "text": "Set the skip forward time",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/SkipForward/Hint"
+ },
+ {
+  "id": "74",
+  "text": "Forward",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/SkipForward/Label"
+ },
+ {
+  "id": "75",
+  "text": "For&ward:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/ForwardLabel/Caption"
+ },
+ {
+  "id": "76",
+  "text": "Set the skip backward time",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/SkipBackward/Hint"
+ },
+ {
+  "id": "77",
+  "text": "Backward",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/SkipBackward/Label"
+ },
+ {
+  "id": "78",
+  "text": "&Backward:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/GroupSkip/BackLabel/Caption"
+ },
+ {
+  "id": "79",
+  "text": "Change loop mode when Shift key is down",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/PlaySheet/LoopShift/Caption"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2800",
+  "text": "\"%0%\" entry error.|Please separate time into hours, minutes, and seconds using colons.",
+  "path": "/Internal/sTimeBadSeparator"
+ },
+ {
+  "id": "2801",
+  "text": "\"%0%\" entry error.|There are too many numbers following the decimal point.",
+  "path": "/Internal/sTimeFixPoint"
+ },
+ {
+  "id": "2802",
+  "text": "\"%0%\" entry error.|Only one decimal point should appear after seconds.",
+  "path": "/Internal/sTimeBadPoint"
+ },
+ {
+  "id": "2803",
+  "text": "\"%0%\" entry error.|Denominator or numerator missing in XX/YY frame format.",
+  "path": "/Internal/sTimeBadDivisor"
+ },
+ {
+  "id": "2804",
+  "text": "\"%0%\" entry error.|Numerator must be smaller than denominator in XX/YY frame format.",
+  "path": "/Internal/sTimeBadNumerator"
+ },
+ {
+  "id": "2805",
+  "text": "\"%0%\" entry error.|Only 2 numbers may appear between colons. Use a '.' after seconds when specifying milliseconds.",
+  "path": "/Internal/sTimeWidth"
+ },
+ {
+  "id": "2806",
+  "text": "\"%0%\" entry error.|A value greater than 59 is not allowed for minutes or seconds in the given format.",
+  "path": "/Internal/sTime60Limit"
+ },
+ {
+  "id": "2807",
+  "text": "\"%0%\" entry error.|Too many colons have been entered.  Make sure you have a decimal point instead of a colon after seconds.",
+  "path": "/Internal/sTimeBadColon"
+ },
+ {
+  "id": "2808",
+  "text": "\"%0%\" entry error.|Please enter the time in one of these formats: HH:MM:SS.TTT, MMM:SS.TTT, SSSSS.TTT, or HH:MM:SS.XX/YY.",
+  "path": "/Internal/sTimeBad"
+ },
+ {
+  "id": "2809",
+  "text": "Select a folder:",
+  "path": "/Internal/sFolderSelect"
+ },
+ {
+  "id": "2810",
+  "text": "The folder does not exist.",
+  "path": "/Internal/sFolderInvalid"
+ },
+ {
+  "id": "2811",
+  "text": "Please enter a valid folder.",
+  "path": "/Internal/sFolderBlank"
+ },
+ {
+  "id": "2812",
+  "text": "Folder does not exist.  Create it?",
+  "path": "/Internal/sFolderCreate"
+ },
+ {
+  "id": "2813",
+  "text": "Folder could not be created.",
+  "path": "/Internal/sFolderCreateError"
+ },
+ {
+  "id": "2814",
+  "text": "Internal data size is incorrect.  The file may be corrupt.\n\nContinue anyway?",
+  "path": "/Internal/sChunkSizeBadContinue"
+ },
+ {
+  "id": "2815",
+  "text": "File contains inconsistent data and may be corrupt, truncated, or misaligned.\n\nOpen anyway?",
+  "path": "/Internal/sCorruptContinue"
+ },
+ {
+  "id": "2816",
+  "text": "Wave file does not have a valid 'fact' chunk and the number of samples cannot be accurately determined.\n\nOpen anyway?",
+  "path": "/Internal/sWaveMissingFactContinue"
+ },
+ {
+  "id": "2817",
+  "text": "File contains inconsistent length information.\n\nCalculate the length based on the file's size?",
+  "path": "/Internal/sLengthInvalid"
+ },
+ {
+  "id": "2818",
+  "text": "File contains information that is not ordered correctly.\n\nOpen anyway?",
+  "path": "/Internal/sChunkOrderIncorrectContinue"
+ },
+ {
+  "id": "2819",
+  "text": "Âµ-Law",
+  "path": "/Internal/sMuLaw"
+ },
+ {
+  "id": "2820",
+  "text": "A-Law",
+  "path": "/Internal/sALaw"
+ },
+ {
+  "id": "2821",
+  "text": "ISDN A-Law",
+  "path": "/Internal/sISDNALaw"
+ },
+ {
+  "id": "2822",
+  "text": "IEEE float",
+  "path": "/Internal/sIEEEFloat"
+ },
+ {
+  "id": "2823",
+  "text": "PCM",
+  "path": "/Internal/sPCM"
+ },
+ {
+  "id": "2824",
+  "text": "(obsolete) PCM",
+  "path": "/Internal/sOldPCM"
+ },
+ {
+  "id": "2825",
+  "text": "ADPCM",
+  "path": "/Internal/sADPCM"
+ },
+ {
+  "id": "2826",
+  "text": "ASCII float",
+  "path": "/Internal/sASCIIF"
+ },
+ {
+  "id": "2827",
+  "text": "ASCII 16 bit integer",
+  "path": "/Internal/sASCIII"
+ },
+ {
+  "id": "2828",
+  "text": "ASCII precise float",
+  "path": "/Internal/sASCIIFHQ"
+ },
+ {
+  "id": "2829",
+  "text": "ASCII 24 bit integer",
+  "path": "/Internal/sASCIII24"
+ },
+ {
+  "id": "2830",
+  "text": "ASCII 16 bit integer CSV",
+  "path": "/Internal/sASCIIC"
+ },
+ {
+  "id": "2831",
+  "text": "ACM",
+  "path": "/Internal/sACM"
+ },
+ {
+  "id": "2832",
+  "text": "LAME",
+  "path": "/Internal/sLAME"
+ },
+ {
+  "id": "2833",
+  "text": "mono",
+  "path": "/Internal/saMono"
+ },
+ {
+  "id": "2834",
+  "text": "stereo",
+  "path": "/Internal/saStereo"
+ },
+ {
+  "id": "2835",
+  "text": "channel",
+  "path": "/Internal/saChannel"
+ },
+ {
+  "id": "2836",
+  "text": "signed",
+  "path": "/Internal/saSigned"
+ },
+ {
+  "id": "2837",
+  "text": "unsigned",
+  "path": "/Internal/saUnsigned"
+ },
+ {
+  "id": "2838",
+  "text": "little endian",
+  "path": "/Internal/saLittleEndian"
+ },
+ {
+  "id": "2839",
+  "text": "big endian",
+  "path": "/Internal/saBigEndian"
+ },
+ {
+  "id": "2840",
+  "text": "Bitrate minimum exceeds maximum.",
+  "path": "/Internal/sBitrateRangeError"
+ },
+ {
+  "id": "2841",
+  "text": "joint stereo",
+  "path": "/Internal/saMPEGChannel/1"
+ },
+ {
+  "id": "2842",
+  "text": "dual channel",
+  "path": "/Internal/saMPEGChannel/2"
+ },
+ {
+  "id": "2843",
+  "text": "Front left",
+  "path": "/Internal/sChannelName/3"
+ },
+ {
+  "id": "2844",
+  "text": "Front right",
+  "path": "/Internal/sChannelName/4"
+ },
+ {
+  "id": "2845",
+  "text": "Low frequency",
+  "path": "/Internal/sChannelName/6"
+ },
+ {
+  "id": "2846",
+  "text": "Back left",
+  "path": "/Internal/sChannelName/7"
+ },
+ {
+  "id": "2847",
+  "text": "Back right",
+  "path": "/Internal/sChannelName/8"
+ },
+ {
+  "id": "2848",
+  "text": "Side left",
+  "path": "/Internal/sChannelName/9"
+ },
+ {
+  "id": "2849",
+  "text": "Side right",
+  "path": "/Internal/sChannelName/10"
+ },
+ {
+  "id": "2850",
+  "text": "\"%0%\" entry error.|Decimal point should appear after seconds.",
+  "path": "/Internal/sTimeErrorString/3"
+ },
+ {
+  "id": "2851",
+  "text": "\"%0%\" entry error.|Value must be between %1% and %2%",
+  "path": "/Internal/sTimeRange"
+ },
+ {
+  "id": "2852",
+  "text": "Yes To All",
+  "path": "/Internal/sYesToAll"
+ },
+ {
+  "id": "2853",
+  "text": "No To All",
+  "path": "/Internal/sNoToAll"
+ },
+ {
+  "id": "2854",
+  "text": "Confirm",
+  "path": "/Internal/sMessageCaption/0"
+ },
+ {
+  "id": "2855",
+  "text": "Security",
+  "path": "/Internal/sMessageCaption/4"
+ },
+ {
+  "id": "2856",
+  "text": "Range must be greater than 100Hz and 'From' cannot be greater than or equal to 'To'.",
+  "path": "/Internal/sVisualSpectrumRangeError"
+ },
+ {
+  "id": "2857",
+  "text": "Reset",
+  "path": "/Internal/sVisualTempoReset"
+ },
+ {
+  "id": "2858",
+  "text": "Doppler",
+  "path": "/Effect/Doppler"
+ },
+ {
+  "id": "2859",
+  "text": "Interpolate",
+  "path": "/Effect/Interpolate"
+ },
+ {
+  "id": "2860",
+  "text": "MaxMatch",
+  "path": "/Effect/MaxMatch"
+ },
+ {
+  "id": "2861",
+  "text": "Multiband Compressor",
+  "path": "/Effect/Multiband Compressor"
+ },
+ {
+  "id": "2862",
+  "text": "Reverse",
+  "path": "/Effect/Reverse"
+ },
+ {
+  "id": "2863",
+  "text": "Low/Highpass",
+  "path": "/Effect/Low/Highpass"
+ },
+ {
+  "id": "2864",
+  "text": "Pop/Click",
+  "path": "/Effect/Pop/Click"
+ },
+ {
+  "id": "2865",
+  "text": "Smoother",
+  "path": "/Effect/Smoother"
+ },
+ {
+  "id": "2866",
+  "text": "Fade Out",
+  "path": "/Effect/Fade Out"
+ },
+ {
+  "id": "2867",
+  "text": "Maximize Volume",
+  "path": "/Effect/Maximize Volume"
+ },
+ {
+  "id": "2868",
+  "text": "Match Volume",
+  "path": "/Effect/Match Volume"
+ },
+ {
+  "id": "2869",
+  "text": "Loudness",
+  "path": "/Effect/Loudness"
+ },
+ {
+  "id": "2870",
+  "text": "Shape Volume",
+  "path": "/Effect/Shape Volume"
+ },
+ {
+  "id": "2871",
+  "text": "Channel Mixer",
+  "path": "/Effect/Channel Mixer"
+ },
+ {
+  "id": "2872",
+  "text": "Multichannel Mixer",
+  "path": "/Effect/Multichannel Mixer"
+ },
+ {
+  "id": "2873",
+  "text": "Analog Meter",
+  "path": "/Visual/Analog Meter"
+ },
+ {
+  "id": "2874",
+  "text": "Bars",
+  "path": "/Visual/Bars"
+ },
+ {
+  "id": "2875",
+  "text": "Blank",
+  "path": "/Visual/Blank"
+ },
+ {
+  "id": "2876",
+  "text": "Blowing Inferno",
+  "path": "/Visual/Blowing Inferno"
+ },
+ {
+  "id": "2877",
+  "text": "Digital Time",
+  "path": "/Visual/Digital Time"
+ },
+ {
+  "id": "2878",
+  "text": "Envelope",
+  "path": "/Visual/Envelope"
+ },
+ {
+  "id": "2879",
+  "text": "Time and Status",
+  "path": "/Visual/Time and Status"
+ }
+]

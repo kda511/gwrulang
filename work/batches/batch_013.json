@@ -1,0 +1,402 @@
+[
+ {
+  "id": "960",
+  "text": "Clears all information and the artwork",
+  "path": "/Forms/InformationForm/Clear/Hint"
+ },
+ {
+  "id": "961",
+  "text": "Remove Artwork",
+  "path": "/Forms/InformationForm/DeleteArt/Caption"
+ },
+ {
+  "id": "962",
+  "text": "Now",
+  "path": "/Forms/InformationForm/NowButton/Caption"
+ },
+ {
+  "id": "963",
+  "text": "Lyrics",
+  "path": "/Forms/InformationForm/Lyrics/Caption"
+ },
+ {
+  "id": "964",
+  "text": "Performer:",
+  "path": "/Forms/InformationForm/Performer/Caption"
+ },
+ {
+  "id": "965",
+  "text": "BPM:",
+  "path": "/Forms/InformationForm/BPM/Caption"
+ },
+ {
+  "id": "966",
+  "text": "Copies information to the clipboard",
+  "path": "/Forms/InformationForm/ActionList/ActionCopy/Hint"
+ },
+ {
+  "id": "967",
+  "text": "Pastes information from the clipboard",
+  "path": "/Forms/InformationForm/ActionList/ActionPaste/Hint"
+ },
+ {
+  "id": "968",
+  "text": "Select Cover Art",
+  "path": "/Forms/InformationForm/OpenArt/Title"
+ },
+ {
+  "id": "969",
+  "text": "Insert Silence",
+  "path": "/Forms/InsertSilenceForm/Caption"
+ },
+ {
+  "id": "970",
+  "text": "Keyboard Options",
+  "path": "/Forms/KeyboardForm/Caption"
+ },
+ {
+  "id": "971",
+  "text": "Saves keyboard assignments to a file",
+  "path": "/Forms/KeyboardForm/SaveKeys/Hint"
+ },
+ {
+  "id": "972",
+  "text": "&Save",
+  "path": "/Forms/KeyboardForm/SaveKeys/Caption"
+ },
+ {
+  "id": "973",
+  "text": "Loads keyboard assignments from a file",
+  "path": "/Forms/KeyboardForm/LoadKeys/Hint"
+ },
+ {
+  "id": "974",
+  "text": "&Load",
+  "path": "/Forms/KeyboardForm/LoadKeys/Caption"
+ },
+ {
+  "id": "975",
+  "text": "Resets all functions to original installed keyboard assignments",
+  "path": "/Forms/KeyboardForm/Defaults/Hint"
+ },
+ {
+  "id": "976",
+  "text": "&Defaults",
+  "path": "/Forms/KeyboardForm/Defaults/Caption"
+ },
+ {
+  "id": "977",
+  "text": "Function",
+  "path": "/Forms/KeyboardForm/KeyList/TitleCaptions.Strings/0"
+ },
+ {
+  "id": "978",
+  "text": "Keystroke",
+  "path": "/Forms/KeyboardForm/KeyList/TitleCaptions.Strings/1"
+ },
+ {
+  "id": "979",
+  "text": "Searches for a function or keystroke (Ctrl+F)",
+  "path": "/Forms/KeyboardForm/Search/RightButton.Hint"
+ },
+ {
+  "id": "980",
+  "text": "Search for function or keystroke assignments",
+  "path": "/Forms/KeyboardForm/Search/TextHint"
+ },
+ {
+  "id": "981",
+  "text": "&Find:",
+  "path": "/Forms/KeyboardForm/SearchLabel/Caption"
+ },
+ {
+  "id": "982",
+  "text": "Text Documents",
+  "path": "/Forms/KeyboardForm/OpenDialog/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "983",
+  "text": "Load",
+  "path": "/Forms/KeyboardForm/OpenDialog/OkButtonLabel"
+ },
+ {
+  "id": "984",
+  "text": "Load Keyboard",
+  "path": "/Forms/KeyboardForm/OpenDialog/Title"
+ },
+ {
+  "id": "985",
+  "text": "Save Keyboard",
+  "path": "/Forms/KeyboardForm/SaveDialog/Title"
+ },
+ {
+  "id": "986",
+  "text": "Language Editor",
+  "path": "/Forms/LanguageForm/Caption"
+ },
+ {
+  "id": "987",
+  "text": "Translatable items:",
+  "path": "/Forms/LanguageForm/LItems/Caption"
+ },
+ {
+  "id": "988",
+  "text": "Search...",
+  "path": "/Forms/LanguageForm/Search/TextHint"
+ },
+ {
+  "id": "989",
+  "text": "Item",
+  "path": "/Forms/LanguageForm/SearchType/Items.Strings/1"
+ },
+ {
+  "id": "990",
+  "text": "Text",
+  "path": "/Forms/LanguageForm/SearchType/Items.Strings/2"
+ },
+ {
+  "id": "991",
+  "text": "&Next",
+  "path": "/Forms/LanguageForm/Next/Caption"
+ },
+ {
+  "id": "992",
+  "text": "&Incomplete",
+  "path": "/Forms/LanguageForm/Undone/Caption"
+ },
+ {
+  "id": "993",
+  "text": "Original English:",
+  "path": "/Forms/LanguageForm/LEnglish/Caption"
+ },
+ {
+  "id": "994",
+  "text": "Untitled",
+  "path": "/Forms/LanguageForm/Filename/Caption"
+ },
+ {
+  "id": "995",
+  "text": "Translation:",
+  "path": "/Forms/LanguageForm/LTranslation/Caption"
+ },
+ {
+  "id": "996",
+  "text": "Replace All Occurrences",
+  "path": "/Forms/LanguageForm/ActionList/ActionReplaceAll/Caption"
+ },
+ {
+  "id": "997",
+  "text": "&Expand",
+  "path": "/Forms/LanguageForm/ActionList/ActionExpand/Caption"
+ },
+ {
+  "id": "998",
+  "text": "&Collapse",
+  "path": "/Forms/LanguageForm/ActionList/ActionCollapse/Caption"
+ },
+ {
+  "id": "999",
+  "text": "Save",
+  "path": "/Forms/LanguageForm/ActionList/ActionSave/Caption"
+ },
+ {
+  "id": "1000",
+  "text": "Save As",
+  "path": "/Forms/LanguageForm/ActionList/ActionSaveAs/Caption"
+ },
+ {
+  "id": "1001",
+  "text": "Language",
+  "path": "/Forms/LanguageForm/FileSave/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "1002",
+  "text": "Markers",
+  "path": "/Forms/MarkersForm/Caption"
+ },
+ {
+  "id": "1003",
+  "text": "Set",
+  "path": "/Forms/MarkersForm/SetStart/Caption"
+ },
+ {
+  "id": "1004",
+  "text": "Start:",
+  "path": "/Forms/MarkersForm/StartLabel/Caption"
+ },
+ {
+  "id": "1005",
+  "text": "Finish:",
+  "path": "/Forms/MarkersForm/FinishLabel/Caption"
+ },
+ {
+  "id": "1006",
+  "text": "Selection range:",
+  "path": "/Forms/MarkersForm/RangeLabel/Caption"
+ },
+ {
+  "id": "1007",
+  "text": "Playback marker:",
+  "path": "/Forms/MarkersForm/CursorLabel/Caption"
+ },
+ {
+  "id": "1008",
+  "text": "File Merger",
+  "path": "/Forms/FileMergerForm/Caption"
+ },
+ {
+  "id": "1009",
+  "text": "Files to be merged in the following order:",
+  "path": "/Forms/FileMergerForm/FilesLabel/Caption"
+ },
+ {
+  "id": "1010",
+  "text": "Date",
+  "path": "/Forms/FileMergerForm/FileList/Columns/1/Caption"
+ },
+ {
+  "id": "1011",
+  "text": "Add files to merge",
+  "path": "/Forms/FileMergerForm/AddFiles/Hint"
+ },
+ {
+  "id": "1012",
+  "text": "Add Files...",
+  "path": "/Forms/FileMergerForm/AddFiles/Caption"
+ },
+ {
+  "id": "1013",
+  "text": "Preferred sampling rate:",
+  "path": "/Forms/FileMergerForm/RateLabel/Caption"
+ },
+ {
+  "id": "1014",
+  "text": "Export cue file",
+  "path": "/Forms/FileMergerForm/CueFile/Caption"
+ },
+ {
+  "id": "1015",
+  "text": "Adds all files currently opened in GoldWave",
+  "path": "/Forms/FileMergerForm/AddOpened/Hint"
+ },
+ {
+  "id": "1016",
+  "text": "Add Opened",
+  "path": "/Forms/FileMergerForm/AddOpened/Caption"
+ },
+ {
+  "id": "1017",
+  "text": "Estimated total duration:",
+  "path": "/Forms/FileMergerForm/DurLabel/Caption"
+ },
+ {
+  "id": "1018",
+  "text": "Retain all cue points",
+  "path": "/Forms/FileMergerForm/RetainCues/Caption"
+ },
+ {
+  "id": "1019",
+  "text": "Merge...",
+  "path": "/Forms/FileMergerForm/ActionList/MergeAction/Caption"
+ },
+ {
+  "id": "1020",
+  "text": "Merge all the files in the list in the order shown",
+  "path": "/Forms/FileMergerForm/ActionList/MergeAction/Hint"
+ },
+ {
+  "id": "1021",
+  "text": "Delete",
+  "path": "/Forms/FileMergerForm/ListMenu/ListDelete/Caption"
+ },
+ {
+  "id": "1022",
+  "text": "Invert",
+  "path": "/Forms/MixForm/Invert/Caption"
+ },
+ {
+  "id": "1023",
+  "text": "Trim or loop clipboard to match selection",
+  "path": "/Forms/MixForm/Loop/Caption"
+ },
+ {
+  "id": "1024",
+  "text": "Time where mix will begin:",
+  "path": "/Forms/MixForm/TimeLabel/Caption"
+ },
+ {
+  "id": "1025",
+  "text": "Multi-Device Recorder",
+  "path": "/Forms/MultiRecorderForm/Caption"
+ },
+ {
+  "id": "1026",
+  "text": "&Close",
+  "path": "/Forms/MultiRecorderForm/ButtonCancel/Caption"
+ },
+ {
+  "id": "1027",
+  "text": "Output Sound Window",
+  "path": "/Forms/MultiRecorderForm/List/Header/Sections/1/Text"
+ },
+ {
+  "id": "1028",
+  "text": "Output Channel",
+  "path": "/Forms/MultiRecorderForm/List/Header/Sections/2/Text"
+ },
+ {
+  "id": "1029",
+  "text": "Level",
+  "path": "/Forms/MultiRecorderForm/List/Header/Sections/4/Text"
+ },
+ {
+  "id": "1030",
+  "text": "&Add Device",
+  "path": "/Forms/MultiRecorderForm/List/AddDevice/Caption"
+ },
+ {
+  "id": "1031",
+  "text": "Starts recording",
+  "path": "/Forms/MultiRecorderForm/Start/Hint"
+ },
+ {
+  "id": "1032",
+  "text": "Sta&rt",
+  "path": "/Forms/MultiRecorderForm/Start/Caption"
+ },
+ {
+  "id": "1033",
+  "text": "&Stop",
+  "path": "/Forms/MultiRecorderForm/Stop/Caption"
+ },
+ {
+  "id": "1034",
+  "text": "New Sound",
+  "path": "/Forms/NewSoundForm/Caption"
+ },
+ {
+  "id": "1035",
+  "text": " Quality and duration ",
+  "path": "/Forms/NewSoundForm/SettingsBox/Caption"
+ },
+ {
+  "id": "1036",
+  "text": "Initial file length (HH:MM:SS.T):",
+  "path": "/Forms/NewSoundForm/SettingsBox/LengthLabel/Caption"
+ },
+ {
+  "id": "1037",
+  "text": "Sampling rate",
+  "path": "/Forms/NewSoundForm/SettingsBox/Rate/Label"
+ },
+ {
+  "id": "1038",
+  "text": "Sampling rate:",
+  "path": "/Forms/NewSoundForm/SettingsBox/RateLabel/Caption"
+ },
+ {
+  "id": "1039",
+  "text": "2 (stereo)",
+  "path": "/Forms/NewSoundForm/SettingsBox/Channel/Text"
+ }
+]

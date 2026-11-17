@@ -1,0 +1,402 @@
+[
+ {
+  "id": "640",
+  "text": "Minimize while processing",
+  "path": "/Forms/BatchForm/Minimize/Caption"
+ },
+ {
+  "id": "641",
+  "text": "Add Files",
+  "path": "/Forms/BatchForm/OpenDialog/Title"
+ },
+ {
+  "id": "642",
+  "text": "Set In&formation",
+  "path": "/Forms/BatchForm/BatchActionList/SetInfoAction/Caption"
+ },
+ {
+  "id": "643",
+  "text": "&Begin",
+  "path": "/Forms/BatchForm/BatchActionList/BeginAction/Caption"
+ },
+ {
+  "id": "644",
+  "text": "&Convert files to this format:",
+  "path": "/Forms/BatchForm/BatchActionList/ConvertAction/Caption"
+ },
+ {
+  "id": "645",
+  "text": "Only overwrite files that are older than the original",
+  "path": "/Forms/BatchForm/BatchActionList/OverwriteOlderAction/Caption"
+ },
+ {
+  "id": "646",
+  "text": "Edit &Comment",
+  "path": "/Forms/BatchForm/BatchActionList/ProcessComment/Caption"
+ },
+ {
+  "id": "647",
+  "text": "&Paste",
+  "path": "/Forms/BatchForm/ListMenu/ListPaste/Caption"
+ },
+ {
+  "id": "648",
+  "text": "&Delete",
+  "path": "/Forms/BatchForm/ListMenu/ListDelete/Caption"
+ },
+ {
+  "id": "649",
+  "text": "Sort",
+  "path": "/Forms/BatchForm/ListMenu/ListSort/Caption"
+ },
+ {
+  "id": "650",
+  "text": "Move &Up",
+  "path": "/Forms/BatchForm/ProcessMenu/ProcessMoveUpItem/Caption"
+ },
+ {
+  "id": "651",
+  "text": "Move &Down",
+  "path": "/Forms/BatchForm/ProcessMenu/ProcessMoveDownItem/Caption"
+ },
+ {
+  "id": "652",
+  "text": "GoldWave Batch Log",
+  "path": "/Forms/BatchForm/FileSaveLog/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "653",
+  "text": "Processing",
+  "path": "/Forms/BatchProgressForm/Caption"
+ },
+ {
+  "id": "654",
+  "text": "Processing messages:",
+  "path": "/Forms/BatchProgressForm/Messages/Columns/0/Caption"
+ },
+ {
+  "id": "655",
+  "text": "Minimizes window",
+  "path": "/Forms/BatchProgressForm/MinimizeButton/Hint"
+ },
+ {
+  "id": "656",
+  "text": "Overall progress:",
+  "path": "/Forms/BatchProgressForm/OverallPanel/ProgressLabel/Caption"
+ },
+ {
+  "id": "657",
+  "text": "Minimize window",
+  "path": "/Forms/BatchProgressForm/ActionList/Minimize/Hint"
+ },
+ {
+  "id": "658",
+  "text": "Beat Detection",
+  "path": "/Forms/BeatDetectionForm/Caption"
+ },
+ {
+  "id": "659",
+  "text": "Calculate",
+  "path": "/Forms/CalculateSeparationForm/Caption"
+ },
+ {
+  "id": "660",
+  "text": "Number of cues",
+  "path": "/Forms/CalculateSeparationForm/SplitsEdit/Label"
+ },
+ {
+  "id": "661",
+  "text": "Maximum number of cue points to be created:",
+  "path": "/Forms/CalculateSeparationForm/SplitsPrompt/Caption"
+ },
+ {
+  "id": "662",
+  "text": "Actual number of cue points created depends on the number of silences detected in the audio.",
+  "path": "/Forms/CalculateSeparationForm/Note/Caption"
+ },
+ {
+  "id": "663",
+  "text": "CD ID",
+  "path": "/Forms/CDIDForm/Caption"
+ },
+ {
+  "id": "664",
+  "text": "CD ID for database lookup:",
+  "path": "/Forms/CDIDForm/LCDID/Caption"
+ },
+ {
+  "id": "665",
+  "text": "Category:",
+  "path": "/Forms/CDIDForm/LCategory/Caption"
+ },
+ {
+  "id": "666",
+  "text": "rock",
+  "path": "/Forms/CDIDForm/Category/Text"
+ },
+ {
+  "id": "667",
+  "text": "blues",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/0"
+ },
+ {
+  "id": "668",
+  "text": "classical",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/1"
+ },
+ {
+  "id": "669",
+  "text": "country",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/2"
+ },
+ {
+  "id": "670",
+  "text": "data",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/3"
+ },
+ {
+  "id": "671",
+  "text": "folk",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/4"
+ },
+ {
+  "id": "672",
+  "text": "jazz",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/5"
+ },
+ {
+  "id": "673",
+  "text": "misc",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/6"
+ },
+ {
+  "id": "674",
+  "text": "newage",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/7"
+ },
+ {
+  "id": "675",
+  "text": "reggae",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/8"
+ },
+ {
+  "id": "676",
+  "text": "soundtrack",
+  "path": "/Forms/CDIDForm/Category/Items.Strings/10"
+ },
+ {
+  "id": "677",
+  "text": "Use ISO-8859-1 / ANSI",
+  "path": "/Forms/CDIDForm/UTF8/Caption"
+ },
+ {
+  "id": "678",
+  "text": "CD Reader",
+  "path": "/Forms/CDReaderForm/Caption"
+ },
+ {
+  "id": "679",
+  "text": "Read Tracks",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/Caption"
+ },
+ {
+  "id": "680",
+  "text": "Title",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/TrackList/Columns/0/Caption"
+ },
+ {
+  "id": "681",
+  "text": "Start Time",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/TrackList/Columns/1/Caption"
+ },
+ {
+  "id": "682",
+  "text": "Unselect All",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/SelectAll/Caption"
+ },
+ {
+  "id": "683",
+  "text": "Save Tracks...",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/SaveTracks/Caption"
+ },
+ {
+  "id": "684",
+  "text": "Downloads track titles from the Internet",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/GetTitles/Hint"
+ },
+ {
+  "id": "685",
+  "text": "Download Titles...",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/GetTitles/Caption"
+ },
+ {
+  "id": "686",
+  "text": "Album:",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/AlbumLabel/Caption"
+ },
+ {
+  "id": "687",
+  "text": "Year:",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/YearLabel/Caption"
+ },
+ {
+  "id": "688",
+  "text": "Hey, stop pointing at me!",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/GenreLabel/Hint"
+ },
+ {
+  "id": "689",
+  "text": "Genre:",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/GenreLabel/Caption"
+ },
+ {
+  "id": "690",
+  "text": "&Rename Title",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/Rename/Caption"
+ },
+ {
+  "id": "691",
+  "text": "Save Titles",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/SaveTitles/Caption"
+ },
+ {
+  "id": "692",
+  "text": "Eject",
+  "path": "/Forms/CDReaderForm/PageControl/TracksTab/EjectButton/Caption"
+ },
+ {
+  "id": "693",
+  "text": "Read Time Range",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/Caption"
+ },
+ {
+  "id": "694",
+  "text": "Length:",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/LengthLabel/Caption"
+ },
+ {
+  "id": "695",
+  "text": "00:00:00.000s  (0 MB)  ",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/Length/Caption"
+ },
+ {
+  "id": "696",
+  "text": "Save Range...",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/SaveRange/Caption"
+ },
+ {
+  "id": "697",
+  "text": "From",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/From/Label"
+ },
+ {
+  "id": "698",
+  "text": "To",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/To/Label"
+ },
+ {
+  "id": "699",
+  "text": "Previews \"From\" setting",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/PreviewFrom/Hint"
+ },
+ {
+  "id": "700",
+  "text": "Preview From",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/PreviewFrom/Caption"
+ },
+ {
+  "id": "701",
+  "text": "Stops preview",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/PreviewStop/Hint"
+ },
+ {
+  "id": "702",
+  "text": "Stop Preview",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/PreviewStop/Caption"
+ },
+ {
+  "id": "703",
+  "text": "Previews \"To\" setting",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/PreviewTo/Hint"
+ },
+ {
+  "id": "704",
+  "text": "Preview To",
+  "path": "/Forms/CDReaderForm/PageControl/RangeTab/PreviewTo/Caption"
+ },
+ {
+  "id": "705",
+  "text": "Options",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/Caption"
+ },
+ {
+  "id": "706",
+  "text": " CD reading options ",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDReadingOptionsBox/Caption"
+ },
+ {
+  "id": "707",
+  "text": "Number of sectors per read:",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDReadingOptionsBox/SectorsRead/Caption"
+ },
+ {
+  "id": "708",
+  "text": "Number of sectors to overlap:",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDReadingOptionsBox/SectorsOverlap/Caption"
+ },
+ {
+  "id": "709",
+  "text": "Set read speed (kBps):",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDReadingOptionsBox/Speed/Caption"
+ },
+ {
+  "id": "710",
+  "text": "Swap bytes (fixes heavy static noise caused by unstable firmware)",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDReadingOptionsBox/Swap/Caption"
+ },
+ {
+  "id": "711",
+  "text": " CD database options ",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDDatabaseBox/Caption"
+ },
+ {
+  "id": "712",
+  "text": "Server:",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDDatabaseBox/ServerLabel/Caption"
+ },
+ {
+  "id": "713",
+  "text": "Proxy:",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDDatabaseBox/ProxyLabel/Caption"
+ },
+ {
+  "id": "714",
+  "text": "Automatically download titles",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDDatabaseBox/AutoTitle/Caption"
+ },
+ {
+  "id": "715",
+  "text": "Prefix text and track number in title:",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDDatabaseBox/Prefix/Caption"
+ },
+ {
+  "id": "716",
+  "text": "Specify CD ID manually (advanced)",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/CDDatabaseBox/PromptID/Caption"
+ },
+ {
+  "id": "717",
+  "text": " Editing ",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/EditingBox/Caption"
+ },
+ {
+  "id": "718",
+  "text": "Open track files for editing",
+  "path": "/Forms/CDReaderForm/PageControl/OptionsTab/EditingBox/OpenFiles/Caption"
+ },
+ {
+  "id": "719",
+  "text": "Select CD device:",
+  "path": "/Forms/CDReaderForm/DeviceLabel/Caption"
+ }
+]

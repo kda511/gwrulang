@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2320",
+  "text": " Draw mode ",
+  "path": "/Forms/WaveformPage/DrawMode/Caption"
+ },
+ {
+  "id": "2321",
+  "text": "Monochrome line",
+  "path": "/Forms/WaveformPage/DrawMode/Items.Strings/0"
+ },
+ {
+  "id": "2322",
+  "text": "Coloured points",
+  "path": "/Forms/WaveformPage/DrawMode/Items.Strings/1"
+ },
+ {
+  "id": "2323",
+  "text": " Options ",
+  "path": "/Forms/WaveformPage/Options/Caption"
+ },
+ {
+  "id": "2324",
+  "text": "Swap X and Y",
+  "path": "/Forms/WaveformPage/Options/Swap/Caption"
+ },
+ {
+  "id": "2325",
+  "text": "&Undo %0%",
+  "path": "/Internal/sUndoMenu"
+ },
+ {
+  "id": "2326",
+  "text": "&Redo %0%",
+  "path": "/Internal/sRedoMenu"
+ },
+ {
+  "id": "2327",
+  "text": "Overwrite",
+  "path": "/Internal/sUndoOverwrite"
+ },
+ {
+  "id": "2328",
+  "text": "Replace",
+  "path": "/Internal/sUndoReplace"
+ },
+ {
+  "id": "2329",
+  "text": "Blend At Start",
+  "path": "/Internal/sUndoBlendStart"
+ },
+ {
+  "id": "2330",
+  "text": "Blend At Finish",
+  "path": "/Internal/sUndoBlendFinish"
+ },
+ {
+  "id": "2331",
+  "text": "Mouse Edit",
+  "path": "/Internal/sUndoDirectEdit"
+ },
+ {
+  "id": "2332",
+  "text": "Move Cue",
+  "path": "/Internal/sUndoCueMove"
+ },
+ {
+  "id": "2333",
+  "text": "Add Cue",
+  "path": "/Internal/sUndoCueAdd"
+ },
+ {
+  "id": "2334",
+  "text": "Cue Changes",
+  "path": "/Internal/sUndoCueChange"
+ },
+ {
+  "id": "2335",
+  "text": "All Cue Tool Changes",
+  "path": "/Internal/sUndoCueTool"
+ },
+ {
+  "id": "2336",
+  "text": "Yes",
+  "path": "/Internal/sButtonYes"
+ },
+ {
+  "id": "2337",
+  "text": "Conti&nue",
+  "path": "/Internal/sButtonContinue"
+ },
+ {
+  "id": "2338",
+  "text": "Attributes...",
+  "path": "/Internal/sButtonAttributes"
+ },
+ {
+  "id": "2339",
+  "text": "Proceed",
+  "path": "/Internal/sButtonProceed"
+ },
+ {
+  "id": "2340",
+  "text": "&Discard",
+  "path": "/Internal/sButtonDiscard"
+ },
+ {
+  "id": "2341",
+  "text": "Pre&view selected file",
+  "path": "/Internal/sCheckboxPreviewSelected"
+ },
+ {
+  "id": "2342",
+  "text": "Audio Decompression",
+  "path": "/Internal/sAudioDecompression"
+ },
+ {
+  "id": "2343",
+  "text": "Saving",
+  "path": "/Internal/sSaving"
+ },
+ {
+  "id": "2344",
+  "text": "Defragmentation",
+  "path": "/Internal/sDefragmenting"
+ },
+ {
+  "id": "2345",
+  "text": "%0% not found",
+  "path": "/Internal/sEditFindNot"
+ },
+ {
+  "id": "2346",
+  "text": "Resample",
+  "path": "/Internal/sEffectResample"
+ },
+ {
+  "id": "2347",
+  "text": "Offset Scan",
+  "path": "/Internal/sEffectOffsetScan"
+ },
+ {
+  "id": "2348",
+  "text": "Maximum Scan",
+  "path": "/Internal/sEffectMaximumScan"
+ },
+ {
+  "id": "2349",
+  "text": "Average Scan",
+  "path": "/Internal/sEffectAverageScan"
+ },
+ {
+  "id": "2350",
+  "text": "Loudness Scan",
+  "path": "/Internal/sEffectLoudnessScan"
+ },
+ {
+  "id": "2351",
+  "text": "Loudness Range Scan",
+  "path": "/Internal/sEffectLRAScan"
+ },
+ {
+  "id": "2352",
+  "text": "Reduction Envelope",
+  "path": "/Internal/sEffectReductionEnvelope"
+ },
+ {
+  "id": "2353",
+  "text": "Trim Silence Scan",
+  "path": "/Internal/sEffectTrimSilenceScan"
+ },
+ {
+  "id": "2354",
+  "text": " (Needs Clipboard)",
+  "path": "/Internal/sEffectNeedsClipboard"
+ },
+ {
+  "id": "2355",
+  "text": "File Merging",
+  "path": "/Internal/sToolMergingFiles"
+ },
+ {
+  "id": "2356",
+  "text": "Amplitude Scan",
+  "path": "/Internal/sToolScanAmplitudes"
+ },
+ {
+  "id": "2357",
+  "text": "Tone Meter Active",
+  "path": "/Internal/sVisualToneMeter"
+ },
+ {
+  "id": "2358",
+  "text": "Right-click to change",
+  "path": "/Internal/sVisualToneMeterRightClick"
+ },
+ {
+  "id": "2359",
+  "text": "Save Sound As",
+  "path": "/Internal/sFileSaveAs"
+ },
+ {
+  "id": "2360",
+  "text": "Save Selection As",
+  "path": "/Internal/sFileSaveSelectionAs"
+ },
+ {
+  "id": "2361",
+  "text": "URL must contain valid protocol and \"://\".",
+  "path": "/Internal/sFileOpenURLProtocolError"
+ },
+ {
+  "id": "2362",
+  "text": "URL location too short.",
+  "path": "/Internal/sFileOpenURLTooShort"
+ },
+ {
+  "id": "2363",
+  "text": "Final volume (dB):",
+  "path": "/Internal/sEffectFadeOutVolume"
+ },
+ {
+  "id": "2364",
+  "text": "The effect settings would not cause any changes.  No processing is required.",
+  "path": "/Internal/sEffectTrivial"
+ },
+ {
+  "id": "2365",
+  "text": "Time remaining: %0% (%1%%)",
+  "path": "/Internal/sProgressTime"
+ },
+ {
+  "id": "2366",
+  "text": "Complete.",
+  "path": "/Internal/sComplete"
+ },
+ {
+  "id": "2367",
+  "text": "Please hold down the Ctrl key when using the record button.|Use the Control Properties Record page to change the \"Ctrl key safety\" setting.",
+  "path": "/Internal/sControlCtrlRequired"
+ },
+ {
+  "id": "2368",
+  "text": "Cannot play a sound while it is recording.",
+  "path": "/Internal/sControlCurrentlyRecording"
+ },
+ {
+  "id": "2369",
+  "text": "Cannot record in a sound while it is playing.",
+  "path": "/Internal/sControlCurrentlyPlaying"
+ },
+ {
+  "id": "2370",
+  "text": "Cannot start playback.",
+  "path": "/Internal/sControlPlayFailed"
+ },
+ {
+  "id": "2371",
+  "text": "Cannot start recording.",
+  "path": "/Internal/sControlRecordingFailed"
+ },
+ {
+  "id": "2372",
+  "text": "Recording device is disabled or unavailable.",
+  "path": "/Internal/sControlRecordingStatus"
+ },
+ {
+  "id": "2373",
+  "text": "Recording time is less than one second.|Adjust the selection or use Unbounded recording mode or \"Insert Silence\" on the Edit menu to increase the recording time.",
+  "path": "/Internal/sControlRecordingShort"
+ },
+ {
+  "id": "2374",
+  "text": "No foot pedals or joysticks detected.|Foot pedal and joystick control has been deactivated.|Use the Controls Properties Device tab to configure it.",
+  "path": "/Internal/sControlHidFailed"
+ },
+ {
+  "id": "2375",
+  "text": "A filename is required for the \"Auto save\" recording setting.  Provide a filename now?||Use the Control Properties Record tab to change the \"Auto save\" setting.",
+  "path": "/Internal/sControlAutoSaveFilename"
+ },
+ {
+  "id": "2376",
+  "text": "Don't Auto Save",
+  "path": "/Internal/sControlAutoSaveNotNow"
+ },
+ {
+  "id": "2377",
+  "text": "Automatically save the recording when finished?|The \"Auto save\" recording setting is active.|Use the Control Properties Record tab to change the \"Auto save\" setting.",
+  "path": "/Internal/sControlAutoSaveContinue"
+ },
+ {
+  "id": "2378",
+  "text": "Power down the computer after recording?||Use the Control Properties Record tab to change the \"Power down system\" setting.",
+  "path": "/Internal/sControlAutoSavePowerDown"
+ },
+ {
+  "id": "2379",
+  "text": "GoldWave shutdown after Auto Save.",
+  "path": "/Internal/sControlAutoSaveShutdown"
+ },
+ {
+  "id": "2380",
+  "text": "List of common playback problems and solutions.",
+  "path": "/Internal/sControlPlaybackProblems"
+ },
+ {
+  "id": "2381",
+  "text": "List of common recording problems and solutions.",
+  "path": "/Internal/sControlRecordingProblems"
+ },
+ {
+  "id": "2382",
+  "text": "Dictation mode stops recording without warning when playback is started.",
+  "path": "/Internal/sRecordDictationWarning"
+ },
+ {
+  "id": "2383",
+  "text": "Bounded",
+  "path": "/Internal/sRecordBounded"
+ },
+ {
+  "id": "2384",
+  "text": "Bounded/Looped",
+  "path": "/Internal/sRecordBoundedLooped"
+ },
+ {
+  "id": "2385",
+  "text": "hour",
+  "path": "/Internal/sRecordDurationHour"
+ },
+ {
+  "id": "2386",
+  "text": "hours",
+  "path": "/Internal/sRecordDurationHours"
+ },
+ {
+  "id": "2387",
+  "text": "minute",
+  "path": "/Internal/sRecordDurationMinute"
+ },
+ {
+  "id": "2388",
+  "text": "minutes",
+  "path": "/Internal/sRecordDurationMinutes"
+ },
+ {
+  "id": "2389",
+  "text": "second",
+  "path": "/Internal/sRecordDurationSecond"
+ },
+ {
+  "id": "2390",
+  "text": "seconds",
+  "path": "/Internal/sRecordDurationSeconds"
+ },
+ {
+  "id": "2391",
+  "text": "None!",
+  "path": "/Internal/sRecordNoInputs"
+ },
+ {
+  "id": "2392",
+  "text": "Audio is currently recording.\n\nStop recording?",
+  "path": "/Internal/sRecordAskStop"
+ },
+ {
+  "id": "2393",
+  "text": "Recording stopped due to lack of storage.  Not enough storage is available.",
+  "path": "/Internal/sRecordStorageFull"
+ },
+ {
+  "id": "2394",
+  "text": "No recording devices are available or selected.",
+  "path": "/Internal/sRecordNoDevices"
+ },
+ {
+  "id": "2395",
+  "text": "No playback devices are available or selected.",
+  "path": "/Internal/sPlaybackNoDevices"
+ },
+ {
+  "id": "2396",
+  "text": "Number of devices has changed.",
+  "path": "/Internal/sDevicesNumberChanged"
+ },
+ {
+  "id": "2397",
+  "text": "Device list has changed.",
+  "path": "/Internal/sDevicesListChanged"
+ },
+ {
+  "id": "2398",
+  "text": "No devices detected.",
+  "path": "/Internal/sFootPedalUnavailable"
+ },
+ {
+  "id": "2399",
+  "text": "Nil",
+  "path": "/Internal/sControlLevelNil"
+ }
+]

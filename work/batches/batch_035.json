@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2720",
+  "text": "The file is corrupt or format is not supported.",
+  "path": "/Internal/sException/8"
+ },
+ {
+  "id": "2721",
+  "text": "The destination file is marked as read-only or is opened in another program.  Please choose a different name to save the file.",
+  "path": "/Internal/sException/9"
+ },
+ {
+  "id": "2722",
+  "text": "The file contains two or more incompatible streams.",
+  "path": "/Internal/sException/10"
+ },
+ {
+  "id": "2723",
+  "text": "The file contains no audio data.",
+  "path": "/Internal/sException/11"
+ },
+ {
+  "id": "2724",
+  "text": "No encoder or decoder is available for the audio format or an error occurred during conversion.",
+  "path": "/Internal/sException/12"
+ },
+ {
+  "id": "2725",
+  "text": "A math error occurred, such as a division by zero or overflow.",
+  "path": "/Internal/sException/13"
+ },
+ {
+  "id": "2726",
+  "text": "An attempt was made to access memory beyond its valid range.",
+  "path": "/Internal/sException/14"
+ },
+ {
+  "id": "2727",
+  "text": "The file type is not supported.",
+  "path": "/Internal/sException/15"
+ },
+ {
+  "id": "2728",
+  "text": "The file format is not supported.",
+  "path": "/Internal/sException/16"
+ },
+ {
+  "id": "2729",
+  "text": "Processing cancelled by the user or aborted due to an error.",
+  "path": "/Internal/sException/17"
+ },
+ {
+  "id": "2730",
+  "text": "Interface is not supported.",
+  "path": "/Internal/sException/18"
+ },
+ {
+  "id": "2731",
+  "text": "Interface does not exist or must not be used at this time.",
+  "path": "/Internal/sException/19"
+ },
+ {
+  "id": "2732",
+  "text": "A bad parameter was given.",
+  "path": "/Internal/sException/20"
+ },
+ {
+  "id": "2733",
+  "text": "This file is copy protected.  Copy protected files cannot be opened.",
+  "path": "/Internal/sException/21"
+ },
+ {
+  "id": "2734",
+  "text": "Maximum range exceeded or clipping required.",
+  "path": "/Internal/sException/22"
+ },
+ {
+  "id": "2735",
+  "text": "An exception occurred during processing.",
+  "path": "/Internal/sException/23"
+ },
+ {
+  "id": "2736",
+  "text": "A timeout error occurred.",
+  "path": "/Internal/sException/24"
+ },
+ {
+  "id": "2737",
+  "text": "Undefined error.",
+  "path": "/Internal/sException/25"
+ },
+ {
+  "id": "2738",
+  "text": "Extraction",
+  "path": "/Internal/sCDExtraction"
+ },
+ {
+  "id": "2739",
+  "text": "Success.",
+  "path": "/Internal/sCDReaderError/0"
+ },
+ {
+  "id": "2740",
+  "text": "The WNASPI32.DLL module is missing or cannot be loaded.",
+  "path": "/Internal/sCDReaderError/1"
+ },
+ {
+  "id": "2741",
+  "text": "The Windows ASPI modules on this system are corrupt, incompatible, or cannot be loaded.",
+  "path": "/Internal/sCDReaderError/2"
+ },
+ {
+  "id": "2742",
+  "text": "Could not find any CD-ROM drive adaptors.\nASPI reports that no adaptors are installed.",
+  "path": "/Internal/sCDReaderError/3"
+ },
+ {
+  "id": "2743",
+  "text": "ASPI cannot be used on this version of Windows.",
+  "path": "/Internal/sCDReaderError/4"
+ },
+ {
+  "id": "2744",
+  "text": "Direct access to the CD-ROM drive is not supported on this version of Windows.",
+  "path": "/Internal/sCDReaderError/5"
+ },
+ {
+  "id": "2745",
+  "text": "The CD-ROM drive cannot be opened or accessed.  Administrator rights are required to read the CD.",
+  "path": "/Internal/sCDReaderError/6"
+ },
+ {
+  "id": "2746",
+  "text": "No CD-ROM drives were found.",
+  "path": "/Internal/sCDReaderError/7"
+ },
+ {
+  "id": "2747",
+  "text": "Please insert an audio CD in the drive.",
+  "path": "/Internal/sCDReaderError/8"
+ },
+ {
+  "id": "2748",
+  "text": "The disc does not contain any tracks.",
+  "path": "/Internal/sCDReaderError/9"
+ },
+ {
+  "id": "2749",
+  "text": "The disc does not contain any audio tracks.",
+  "path": "/Internal/sCDReaderError/10"
+ },
+ {
+  "id": "2750",
+  "text": "Contiguous reading failed resulting in a gap or overlap defect.  Continue anyway?",
+  "path": "/Internal/sCDReaderError/11"
+ },
+ {
+  "id": "2751",
+  "text": "A command to access the CD-ROM drive failed.",
+  "path": "/Internal/sCDReaderError/12"
+ },
+ {
+  "id": "2752",
+  "text": "The selected device is invalid.",
+  "path": "/Internal/sCDReaderError/13"
+ },
+ {
+  "id": "2753",
+  "text": "The interface has not been properly initialized.",
+  "path": "/Internal/sCDReaderError/14"
+ },
+ {
+  "id": "2754",
+  "text": "The value is out of range.",
+  "path": "/Internal/sCDReaderError/15"
+ },
+ {
+  "id": "2755",
+  "text": "There is not enough memory available to complete the task.",
+  "path": "/Internal/sCDReaderError/16"
+ },
+ {
+  "id": "2756",
+  "text": "CD Reading is not possible.|This system does not support direct access to CD-ROM drives.",
+  "path": "/Internal/sCDNoInterface"
+ },
+ {
+  "id": "2757",
+  "text": "An error occurred while trying to get a device name:\n",
+  "path": "/Internal/sCDNameError"
+ },
+ {
+  "id": "2758",
+  "text": "An error occurred while trying to read table of contents:\n",
+  "path": "/Internal/sCDContentsError"
+ },
+ {
+  "id": "2759",
+  "text": "Cannot read audio.  There is a data track within the range.",
+  "path": "/Internal/sCDRangeContainsData"
+ },
+ {
+  "id": "2760",
+  "text": "Cannot set CD-ROM drive speed.\nContinue anyway?",
+  "path": "/Internal/sCDSpeedFailed"
+ },
+ {
+  "id": "2761",
+  "text": "Prefix text must not be modified when editing title.",
+  "path": "/Internal/sCDPrefixCannotChange"
+ },
+ {
+  "id": "2762",
+  "text": "Save changes made to the disc information and track titles?",
+  "path": "/Internal/sCDTitleChange"
+ },
+ {
+  "id": "2763",
+  "text": "Connecting...",
+  "path": "/Internal/sNetConnecting"
+ },
+ {
+  "id": "2764",
+  "text": "Connected.",
+  "path": "/Internal/sNetConnected"
+ },
+ {
+  "id": "2765",
+  "text": "Disconnected.",
+  "path": "/Internal/sNetDisconnected"
+ },
+ {
+  "id": "2766",
+  "text": "Looking up ",
+  "path": "/Internal/sNetLookingUp"
+ },
+ {
+  "id": "2767",
+  "text": "Querying For Disc...",
+  "path": "/Internal/sCDLookupQuerying"
+ },
+ {
+  "id": "2768",
+  "text": "Reading Disc Information...",
+  "path": "/Internal/sCDLookupReading"
+ },
+ {
+  "id": "2769",
+  "text": "Closing...",
+  "path": "/Internal/sCDLookupClosing"
+ },
+ {
+  "id": "2770",
+  "text": "Could not retrieve information.",
+  "path": "/Internal/sCDLookupDownloadFailed"
+ },
+ {
+  "id": "2771",
+  "text": "Unable to connect to the CD database server on the Internet.|Make sure you are connected to the Internet and firewalls are configured correctly.  Also check the CD database server under the Options tab or set a proxy server if required.",
+  "path": "/Internal/sCDLookupNoInternetConnection"
+ },
+ {
+  "id": "2772",
+  "text": "Data Track",
+  "path": "/Internal/sCDDataTrack"
+ },
+ {
+  "id": "2773",
+  "text": "Track",
+  "path": "/Internal/sCDTrack"
+ },
+ {
+  "id": "2774",
+  "text": "Please enter a valid 8 digit hexadecimal number.",
+  "path": "/Internal/sCDEnterHex"
+ },
+ {
+  "id": "2775",
+  "text": "Evaluation",
+  "path": "/Internal/sEvaluationUndo"
+ },
+ {
+  "id": "2776",
+  "text": "Finished.",
+  "path": "/Internal/sEvalError/0"
+ },
+ {
+  "id": "2777",
+  "text": "Syntax error.",
+  "path": "/Internal/sEvalError/1"
+ },
+ {
+  "id": "2778",
+  "text": "Missing operand.",
+  "path": "/Internal/sEvalError/2"
+ },
+ {
+  "id": "2779",
+  "text": "Missing operator.",
+  "path": "/Internal/sEvalError/3"
+ },
+ {
+  "id": "2780",
+  "text": "Unmatched '('.",
+  "path": "/Internal/sEvalError/4"
+ },
+ {
+  "id": "2781",
+  "text": "Unmatched ')'.",
+  "path": "/Internal/sEvalError/5"
+ },
+ {
+  "id": "2782",
+  "text": "Function needs '('.",
+  "path": "/Internal/sEvalError/6"
+ },
+ {
+  "id": "2783",
+  "text": "Divide by zero.",
+  "path": "/Internal/sEvalError/7"
+ },
+ {
+  "id": "2784",
+  "text": "General calculation error.",
+  "path": "/Internal/sEvalError/8"
+ },
+ {
+  "id": "2785",
+  "text": "Internal stack error!",
+  "path": "/Internal/sEvalError/9"
+ },
+ {
+  "id": "2786",
+  "text": "Overflow error.",
+  "path": "/Internal/sEvalError/10"
+ },
+ {
+  "id": "2787",
+  "text": "Underflow error.",
+  "path": "/Internal/sEvalError/11"
+ },
+ {
+  "id": "2788",
+  "text": "Destination range error.",
+  "path": "/Internal/sEvalError/12"
+ },
+ {
+  "id": "2789",
+  "text": "Number used in 'wave#' does not exist.",
+  "path": "/Internal/sEvalError/13"
+ },
+ {
+  "id": "2790",
+  "text": "Cancelled by user.",
+  "path": "/Internal/sEvalError/14"
+ },
+ {
+  "id": "2791",
+  "text": "Not enough memory.",
+  "path": "/Internal/sEvalError/15"
+ },
+ {
+  "id": "2792",
+  "text": "Could not access or prepare sound.",
+  "path": "/Internal/sEvalError/16"
+ },
+ {
+  "id": "2793",
+  "text": "Overwrite this preset?",
+  "path": "/Internal/sEvalOverwrite"
+ },
+ {
+  "id": "2794",
+  "text": "Create new group?",
+  "path": "/Internal/sEvalCreateGroup"
+ },
+ {
+  "id": "2795",
+  "text": "Delete the entire group?",
+  "path": "/Internal/sEvalDeleteGroup"
+ },
+ {
+  "id": "2796",
+  "text": "Delete this preset?",
+  "path": "/Internal/sEvalDeletePreset"
+ },
+ {
+  "id": "2797",
+  "text": "\"%0%\" is blank.|Please enter a number.",
+  "path": "/Internal/sEditBlank"
+ },
+ {
+  "id": "2798",
+  "text": "\"%0%\" is not in the range of %1% to %2%.|Value has been adjusted.",
+  "path": "/Internal/sEditRange"
+ },
+ {
+  "id": "2799",
+  "text": "\"%0%\" is not a valid number.|Please enter a number.",
+  "path": "/Internal/sEditInvalid"
+ }
+]

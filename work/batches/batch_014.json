@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1040",
+  "text": "1 (mono)",
+  "path": "/Forms/NewSoundForm/SettingsBox/Channel/Items.Strings/0"
+ },
+ {
+  "id": "1041",
+  "text": "Number of channels:",
+  "path": "/Forms/NewSoundForm/SettingsBox/ChannelsLabel/Caption"
+ },
+ {
+  "id": "1042",
+  "text": "Set Recording Source...",
+  "path": "/Forms/NewSoundForm/RecordingSource/Caption"
+ },
+ {
+  "id": "1043",
+  "text": "Open URL",
+  "path": "/Forms/OpenURLForm/Caption"
+ },
+ {
+  "id": "1044",
+  "text": "https://",
+  "path": "/Forms/OpenURLForm/URL/Text"
+ },
+ {
+  "id": "1045",
+  "text": "Enter the URL of a file (not a stream).  MP3, WMA, and M4A files supported.",
+  "path": "/Forms/OpenURLForm/Note/Caption"
+ },
+ {
+  "id": "1046",
+  "text": "App Options",
+  "path": "/Forms/AppOptionsForm/Caption"
+ },
+ {
+  "id": "1047",
+  "text": "Allow network connections to apps (firewall changes may be required)",
+  "path": "/Forms/AppOptionsForm/CheckNetwork/Caption"
+ },
+ {
+  "id": "1048",
+  "text": "Connection password:",
+  "path": "/Forms/AppOptionsForm/LabelPassword/Caption"
+ },
+ {
+  "id": "1049",
+  "text": "Allow GWRemote app to control GoldWave",
+  "path": "/Forms/AppOptionsForm/CheckGWRemote/Caption"
+ },
+ {
+  "id": "1050",
+  "text": "Manually confirm remote connections",
+  "path": "/Forms/AppOptionsForm/CheckAlert/Caption"
+ },
+ {
+  "id": "1051",
+  "text": "File Format Options",
+  "path": "/Forms/FileFormatsForm/Caption"
+ },
+ {
+  "id": "1052",
+  "text": "Default Save Format",
+  "path": "/Forms/FileFormatsForm/PageControl/Save/Caption"
+ },
+ {
+  "id": "1053",
+  "text": "Please choose the file type and attributes to use when creating or saving a new file.",
+  "path": "/Forms/FileFormatsForm/PageControl/Save/SaveHelp/Caption"
+ },
+ {
+  "id": "1054",
+  "text": "Use this format for Save As, Save Selection As, and Copy To",
+  "path": "/Forms/FileFormatsForm/PageControl/Save/UseEverywhere/Caption"
+ },
+ {
+  "id": "1055",
+  "text": "Do not allow other file types and attributes to be selected",
+  "path": "/Forms/FileFormatsForm/PageControl/Save/ForceDefault/Caption"
+ },
+ {
+  "id": "1056",
+  "text": "Undetectable Types",
+  "path": "/Forms/FileFormatsForm/PageControl/Custom/Caption"
+ },
+ {
+  "id": "1057",
+  "text": "Ext",
+  "path": "/Forms/FileFormatsForm/PageControl/Custom/CustomList/Columns/0/Caption"
+ },
+ {
+  "id": "1058",
+  "text": "Type",
+  "path": "/Forms/FileFormatsForm/PageControl/Custom/CustomList/Columns/2/Caption"
+ },
+ {
+  "id": "1059",
+  "text": "Rate (Hz)",
+  "path": "/Forms/FileFormatsForm/PageControl/Custom/CustomList/Columns/3/Caption"
+ },
+ {
+  "id": "1060",
+  "text": "Attributes",
+  "path": "/Forms/FileFormatsForm/PageControl/Custom/CustomList/Columns/4/Caption"
+ },
+ {
+  "id": "1061",
+  "text": "Add...",
+  "path": "/Forms/FileFormatsForm/PageControl/Custom/UndetectablePanel/Add/Caption"
+ },
+ {
+  "id": "1062",
+  "text": "File Plug-in Precedence",
+  "path": "/Forms/FileFormatsForm/PageControl/Precedence/Caption"
+ },
+ {
+  "id": "1063",
+  "text": "Plug-in module order",
+  "path": "/Forms/FileFormatsForm/PageControl/Precedence/PrecedenceList/Columns/0/Caption"
+ },
+ {
+  "id": "1064",
+  "text": "Types",
+  "path": "/Forms/FileFormatsForm/PageControl/Precedence/PrecedenceList/Columns/1/Caption"
+ },
+ {
+  "id": "1065",
+  "text": "Lower",
+  "path": "/Forms/FileFormatsForm/PageControl/Precedence/PrecedencePanel/MoveDown/Caption"
+ },
+ {
+  "id": "1066",
+  "text": "Higher",
+  "path": "/Forms/FileFormatsForm/PageControl/Precedence/PrecedencePanel/MoveUp/Caption"
+ },
+ {
+  "id": "1067",
+  "text": "Windows Associations",
+  "path": "/Forms/FileFormatsForm/PageControl/WAssociations/Caption"
+ },
+ {
+  "id": "1068",
+  "text": "Apply",
+  "path": "/Forms/FileFormatsForm/PageControl/WAssociations/WAApply/Caption"
+ },
+ {
+  "id": "1069",
+  "text": "Select file types to associate with GoldWave, then choose the Apply button.",
+  "path": "/Forms/FileFormatsForm/PageControl/WAssociations/WANote/Caption"
+ },
+ {
+  "id": "1070",
+  "text": "Remove All",
+  "path": "/Forms/FileFormatsForm/PageControl/WAssociations/WARemove/Caption"
+ },
+ {
+  "id": "1071",
+  "text": "To change the default program in Windows 10, go to:",
+  "path": "/Forms/FileFormatsForm/PageControl/WAssociations/WAChange/Caption"
+ },
+ {
+  "id": "1072",
+  "text": "Windows Settings->Apps->Default apps->Choose default apps by file type",
+  "path": "/Forms/FileFormatsForm/PageControl/WAssociations/WASettings/Caption"
+ },
+ {
+  "id": "1073",
+  "text": "Edit...",
+  "path": "/Forms/FileFormatsForm/ActionList/EditAction/Caption"
+ },
+ {
+  "id": "1074",
+  "text": "Language Selection",
+  "path": "/Forms/LanguageOptionsForm/Caption"
+ },
+ {
+  "id": "1075",
+  "text": "Active Language:",
+  "path": "/Forms/LanguageOptionsForm/LanguageLabel/Caption"
+ },
+ {
+  "id": "1076",
+  "text": "Open...",
+  "path": "/Forms/LanguageOptionsForm/Open/Caption"
+ },
+ {
+  "id": "1077",
+  "text": "New...",
+  "path": "/Forms/LanguageOptionsForm/Create/Caption"
+ },
+ {
+  "id": "1078",
+  "text": "Transcribe Settings",
+  "path": "/Forms/TranscribeOptionsForm/Caption"
+ },
+ {
+  "id": "1079",
+  "text": "Language:",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/LanguageLabel/Caption"
+ },
+ {
+  "id": "1080",
+  "text": "English",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/1"
+ },
+ {
+  "id": "1081",
+  "text": "Chinese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/2"
+ },
+ {
+  "id": "1082",
+  "text": "German",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/3"
+ },
+ {
+  "id": "1083",
+  "text": "Spanish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/4"
+ },
+ {
+  "id": "1084",
+  "text": "Russian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/5"
+ },
+ {
+  "id": "1085",
+  "text": "Korean",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/6"
+ },
+ {
+  "id": "1086",
+  "text": "French",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/7"
+ },
+ {
+  "id": "1087",
+  "text": "Japanese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/8"
+ },
+ {
+  "id": "1088",
+  "text": "Portuguese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/9"
+ },
+ {
+  "id": "1089",
+  "text": "Turkish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/10"
+ },
+ {
+  "id": "1090",
+  "text": "Polish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/11"
+ },
+ {
+  "id": "1091",
+  "text": "Catalan",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/12"
+ },
+ {
+  "id": "1092",
+  "text": "Dutch",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/13"
+ },
+ {
+  "id": "1093",
+  "text": "Arabic",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/14"
+ },
+ {
+  "id": "1094",
+  "text": "Swedish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/15"
+ },
+ {
+  "id": "1095",
+  "text": "Italian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/16"
+ },
+ {
+  "id": "1096",
+  "text": "Indonesian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/17"
+ },
+ {
+  "id": "1097",
+  "text": "Hindi",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/18"
+ },
+ {
+  "id": "1098",
+  "text": "Finnish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/19"
+ },
+ {
+  "id": "1099",
+  "text": "Vietnamese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/20"
+ },
+ {
+  "id": "1100",
+  "text": "Hebrew",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/21"
+ },
+ {
+  "id": "1101",
+  "text": "Ukrainian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/22"
+ },
+ {
+  "id": "1102",
+  "text": "Greek",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/23"
+ },
+ {
+  "id": "1103",
+  "text": "Malay",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/24"
+ },
+ {
+  "id": "1104",
+  "text": "Czech",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/25"
+ },
+ {
+  "id": "1105",
+  "text": "Romanian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/26"
+ },
+ {
+  "id": "1106",
+  "text": "Danish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/27"
+ },
+ {
+  "id": "1107",
+  "text": "Hungarian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/28"
+ },
+ {
+  "id": "1108",
+  "text": "Tamil",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/29"
+ },
+ {
+  "id": "1109",
+  "text": "Norwegian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/30"
+ },
+ {
+  "id": "1110",
+  "text": "Thai",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/31"
+ },
+ {
+  "id": "1111",
+  "text": "Urdu",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/32"
+ },
+ {
+  "id": "1112",
+  "text": "Croatian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/33"
+ },
+ {
+  "id": "1113",
+  "text": "Bulgarian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/34"
+ },
+ {
+  "id": "1114",
+  "text": "Lithuanian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/35"
+ },
+ {
+  "id": "1115",
+  "text": "Latin",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/36"
+ },
+ {
+  "id": "1116",
+  "text": "Maori",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/37"
+ },
+ {
+  "id": "1117",
+  "text": "Malayalam",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/38"
+ },
+ {
+  "id": "1118",
+  "text": "Welsh",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/39"
+ },
+ {
+  "id": "1119",
+  "text": "Slovak",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/40"
+ }
+]

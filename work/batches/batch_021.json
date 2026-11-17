@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1600",
+  "text": "Displays effect plug-ins menu",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectPluginMenu/Hint"
+ },
+ {
+  "id": "1601",
+  "text": "Adds reverberation to the sound",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectReverbItem/Hint"
+ },
+ {
+  "id": "1602",
+  "text": "&Stereo",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectStereoMenu/Caption"
+ },
+ {
+  "id": "1603",
+  "text": "Stereo effects",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectStereoMenu/Hint"
+ },
+ {
+  "id": "1604",
+  "text": "Voice Over|Mixes the clipboard over the selection with automatic fading for voice overs",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectVoiceOverItem/Hint"
+ },
+ {
+  "id": "1605",
+  "text": "Vol&ume",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectVolumeMenu/Caption"
+ },
+ {
+  "id": "1606",
+  "text": "Volume effects",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectVolumeMenu/Hint"
+ },
+ {
+  "id": "1607",
+  "text": "&View",
+  "path": "/Forms/GWMainForm/MainMenu/ViewMenu/Caption"
+ },
+ {
+  "id": "1608",
+  "text": "Co&ntrol",
+  "path": "/Forms/GWMainForm/MainMenu/ControlMenu/Caption"
+ },
+ {
+  "id": "1609",
+  "text": "&Tool",
+  "path": "/Forms/GWMainForm/MainMenu/ToolMenu/Caption"
+ },
+ {
+  "id": "1610",
+  "text": "&Options",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/Caption"
+ },
+ {
+  "id": "1611",
+  "text": "Plu&g-in",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/Caption"
+ },
+ {
+  "id": "1612",
+  "text": "Configures plug-in modules",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/Hint"
+ },
+ {
+  "id": "1613",
+  "text": "&Effect",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/OptionEffectPluginMenu/Caption"
+ },
+ {
+  "id": "1614",
+  "text": "Configures effect plug-in modules",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/OptionEffectPluginMenu/Hint"
+ },
+ {
+  "id": "1615",
+  "text": "Configures file plug-in modules",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/OptionFilePluginMenu/Hint"
+ },
+ {
+  "id": "1616",
+  "text": "&Visual",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/OptionVisualPluginMenu/Caption"
+ },
+ {
+  "id": "1617",
+  "text": "Configures visual plug-in modules",
+  "path": "/Forms/GWMainForm/MainMenu/OptionsMenu/OptionPluginMenu/OptionVisualPluginMenu/Hint"
+ },
+ {
+  "id": "1618",
+  "text": "&Window",
+  "path": "/Forms/GWMainForm/MainMenu/MDIWindowMenu/Caption"
+ },
+ {
+  "id": "1619",
+  "text": "Window related commands",
+  "path": "/Forms/GWMainForm/MainMenu/MDIWindowMenu/Hint"
+ },
+ {
+  "id": "1620",
+  "text": "Help topics",
+  "path": "/Forms/GWMainForm/MainMenu/HelpMenu/Hint"
+ },
+ {
+  "id": "1621",
+  "text": "Play 1",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlay1/Caption"
+ },
+ {
+  "id": "1622",
+  "text": "Plays using button 1 settings",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlay1/Hint"
+ },
+ {
+  "id": "1623",
+  "text": "Play 2",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlay2/Caption"
+ },
+ {
+  "id": "1624",
+  "text": "Plays using button 2 settings",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlay2/Hint"
+ },
+ {
+  "id": "1625",
+  "text": "Play 3",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlay3/Caption"
+ },
+ {
+  "id": "1626",
+  "text": "Plays using button 3 settings",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlay3/Hint"
+ },
+ {
+  "id": "1627",
+  "text": "Play All",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayAll/Caption"
+ },
+ {
+  "id": "1628",
+  "text": "Play Selection",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlaySelection/Caption"
+ },
+ {
+  "id": "1629",
+  "text": "Play Unselected",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayUnselected/Caption"
+ },
+ {
+  "id": "1630",
+  "text": "Plays the unselected sections",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayUnselected/Hint"
+ },
+ {
+  "id": "1631",
+  "text": "Continue To Finish",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayContinueToFinish/Caption"
+ },
+ {
+  "id": "1632",
+  "text": "Continues playback to the Finish marker",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayContinueToFinish/Hint"
+ },
+ {
+  "id": "1633",
+  "text": "Continue To End",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayContinueToEnd/Caption"
+ },
+ {
+  "id": "1634",
+  "text": "Continues playback to the end of the file",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayContinueToEnd/Hint"
+ },
+ {
+  "id": "1635",
+  "text": "Play View",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayView/Caption"
+ },
+ {
+  "id": "1636",
+  "text": "Play audio currently shown in the Sound window",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayView/Hint"
+ },
+ {
+  "id": "1637",
+  "text": "Play View To End",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayViewToEnd/Caption"
+ },
+ {
+  "id": "1638",
+  "text": "Plays starting at the left side of the Sound window to the end of the file",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayViewToEnd/Hint"
+ },
+ {
+  "id": "1639",
+  "text": "Play Up To Start",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayUpToStart/Caption"
+ },
+ {
+  "id": "1640",
+  "text": "Plays a short section up to the Start marker",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayUpToStart/Hint"
+ },
+ {
+  "id": "1641",
+  "text": "Play Up To Finish",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayUpToFinish/Caption"
+ },
+ {
+  "id": "1642",
+  "text": "Plays a short section up to the Finish marker",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayUpToFinish/Hint"
+ },
+ {
+  "id": "1643",
+  "text": "Play From Finish",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayFromFinish/Caption"
+ },
+ {
+  "id": "1644",
+  "text": "Starts playback at the finish marker",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayFromFinish/Hint"
+ },
+ {
+  "id": "1645",
+  "text": "Play Intro/Loop/End",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayIntroLoopEnd/Caption"
+ },
+ {
+  "id": "1646",
+  "text": "Plays the start, loops the selection , then to the end",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayIntroLoopEnd/Hint"
+ },
+ {
+  "id": "1647",
+  "text": "Play Loop Point",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayLoopPoint/Caption"
+ },
+ {
+  "id": "1648",
+  "text": "Starts playback just before the Finish marker and loops to the Start",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayLoopPoint/Hint"
+ },
+ {
+  "id": "1649",
+  "text": "Stop Playback",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayStop/Caption"
+ },
+ {
+  "id": "1650",
+  "text": "Pause Playback",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayPause/Caption"
+ },
+ {
+  "id": "1651",
+  "text": "Pauses playback and visuals",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayPause/Hint"
+ },
+ {
+  "id": "1652",
+  "text": "Plays backward",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayRewind/Hint"
+ },
+ {
+  "id": "1653",
+  "text": "Plays fast forward",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlayFastForward/Hint"
+ },
+ {
+  "id": "1654",
+  "text": "Skips the playback cursor forward",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlaySkipForward/Hint"
+ },
+ {
+  "id": "1655",
+  "text": "Skips the playback cursor backward",
+  "path": "/Forms/GWMainForm/ActionList/ControlPlaySkipBackward/Hint"
+ },
+ {
+  "id": "1656",
+  "text": "Record New",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordNew/Caption"
+ },
+ {
+  "id": "1657",
+  "text": "Starts recording in a new file",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordNew/Hint"
+ },
+ {
+  "id": "1658",
+  "text": "Record Dictation",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordDictation/Caption"
+ },
+ {
+  "id": "1659",
+  "text": "Records in dictation mode",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordDictation/Hint"
+ },
+ {
+  "id": "1660",
+  "text": "Record Selection",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordSelection/Caption"
+ },
+ {
+  "id": "1661",
+  "text": "Records over the current selection",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordSelection/Hint"
+ },
+ {
+  "id": "1662",
+  "text": "Pause Recording",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordPause/Caption"
+ },
+ {
+  "id": "1663",
+  "text": "Pauses recording",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordPause/Hint"
+ },
+ {
+  "id": "1664",
+  "text": "Stop Recording",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordStop/Caption"
+ },
+ {
+  "id": "1665",
+  "text": "Stops recording",
+  "path": "/Forms/GWMainForm/ActionList/ControlRecordStop/Hint"
+ },
+ {
+  "id": "1666",
+  "text": "Sets control related properties",
+  "path": "/Forms/GWMainForm/ActionList/ControlProperties/Hint"
+ },
+ {
+  "id": "1667",
+  "text": "Undock",
+  "path": "/Forms/GWMainForm/ActionList/ControlUndock/Caption"
+ },
+ {
+  "id": "1668",
+  "text": "Shows the Control window",
+  "path": "/Forms/GWMainForm/ActionList/ControlUndock/Hint"
+ },
+ {
+  "id": "1669",
+  "text": "&A",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentA/Caption"
+ },
+ {
+  "id": "1670",
+  "text": "&B",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentB/Caption"
+ },
+ {
+  "id": "1671",
+  "text": "&C",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentC/Caption"
+ },
+ {
+  "id": "1672",
+  "text": "&D",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentD/Caption"
+ },
+ {
+  "id": "1673",
+  "text": "&E",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentE/Caption"
+ },
+ {
+  "id": "1674",
+  "text": "&F",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentF/Caption"
+ },
+ {
+  "id": "1675",
+  "text": "&G",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentG/Caption"
+ },
+ {
+  "id": "1676",
+  "text": "&H",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentH/Caption"
+ },
+ {
+  "id": "1677",
+  "text": "&I",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentI/Caption"
+ },
+ {
+  "id": "1678",
+  "text": "&J",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentJ/Caption"
+ },
+ {
+  "id": "1679",
+  "text": "&K",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentK/Caption"
+ }
+]

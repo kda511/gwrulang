@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2160",
+  "text": "Zooms in centered on the selection",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomInSelection/Hint"
+ },
+ {
+  "id": "2161",
+  "text": "Volume Up",
+  "path": "/Forms/GWMainForm/ActionList/ControlVolumeUp/Caption"
+ },
+ {
+  "id": "2162",
+  "text": "Raises the volume",
+  "path": "/Forms/GWMainForm/ActionList/ControlVolumeUp/Hint"
+ },
+ {
+  "id": "2163",
+  "text": "Volume Down",
+  "path": "/Forms/GWMainForm/ActionList/ControlVolumeDown/Caption"
+ },
+ {
+  "id": "2164",
+  "text": "Lowers the volume",
+  "path": "/Forms/GWMainForm/ActionList/ControlVolumeDown/Hint"
+ },
+ {
+  "id": "2165",
+  "text": "Balance Right",
+  "path": "/Forms/GWMainForm/ActionList/ControlBalanceRight/Caption"
+ },
+ {
+  "id": "2166",
+  "text": "Adjusts the balance to the right",
+  "path": "/Forms/GWMainForm/ActionList/ControlBalanceRight/Hint"
+ },
+ {
+  "id": "2167",
+  "text": "Balance Left",
+  "path": "/Forms/GWMainForm/ActionList/ControlBalanceLeft/Caption"
+ },
+ {
+  "id": "2168",
+  "text": "Adjusts the balance to the left",
+  "path": "/Forms/GWMainForm/ActionList/ControlBalanceLeft/Hint"
+ },
+ {
+  "id": "2169",
+  "text": "Speed Up",
+  "path": "/Forms/GWMainForm/ActionList/ControlSpeedUp/Caption"
+ },
+ {
+  "id": "2170",
+  "text": "Increases the speed",
+  "path": "/Forms/GWMainForm/ActionList/ControlSpeedUp/Hint"
+ },
+ {
+  "id": "2171",
+  "text": "Speed Down",
+  "path": "/Forms/GWMainForm/ActionList/ControlSpeedDown/Caption"
+ },
+ {
+  "id": "2172",
+  "text": "Reduces the speed",
+  "path": "/Forms/GWMainForm/ActionList/ControlSpeedDown/Hint"
+ },
+ {
+  "id": "2173",
+  "text": "Lock Toolbars",
+  "path": "/Forms/GWMainForm/ActionList/ToolbarLock/Caption"
+ },
+ {
+  "id": "2174",
+  "text": "Locks all toolbars so they cannot be moved",
+  "path": "/Forms/GWMainForm/ActionList/ToolbarLock/Hint"
+ },
+ {
+  "id": "2175",
+  "text": "Sound 1",
+  "path": "/Forms/GWMainForm/ActionList/SoundWindow1/Caption"
+ },
+ {
+  "id": "2176",
+  "text": "Activates Sound window 1",
+  "path": "/Forms/GWMainForm/ActionList/SoundWindow1/Hint"
+ },
+ {
+  "id": "2177",
+  "text": "Transcribe Audio...",
+  "path": "/Forms/GWMainForm/ActionList/ToolTranscribe/Caption"
+ },
+ {
+  "id": "2178",
+  "text": "Wave (*.wav)",
+  "path": "/Forms/GWMainForm/FileOpenDialog/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "2179",
+  "text": "Open Sound",
+  "path": "/Forms/GWMainForm/FileOpenDialog/Title"
+ },
+ {
+  "id": "2180",
+  "text": "Edit Toolbar...",
+  "path": "/Forms/GWMainForm/ToolbarMenu/ToolbarEditMenu/Caption"
+ },
+ {
+  "id": "2181",
+  "text": "Previous settings",
+  "path": "/Forms/GWMainForm/NewSoundMenu/NewSoundPrevious/Caption"
+ },
+ {
+  "id": "2182",
+  "text": "GoldWave File Format Plug-in",
+  "path": "/Forms/AudioConfigForm/Caption"
+ },
+ {
+  "id": "2183",
+  "text": " System decoders ",
+  "path": "/Forms/AudioConfigForm/SystemDecoderGroup/Caption"
+ },
+ {
+  "id": "2184",
+  "text": "File types to avoid:",
+  "path": "/Forms/AudioConfigForm/SystemDecoderGroup/TypesLabel/Caption"
+ },
+ {
+  "id": "2185",
+  "text": "Use DirectShow decoders",
+  "path": "/Forms/AudioConfigForm/SystemDecoderGroup/DirectShowDecoders/Caption"
+ },
+ {
+  "id": "2186",
+  "text": "Use Media Foundation decoders",
+  "path": "/Forms/AudioConfigForm/SystemDecoderGroup/MediaFoundationDecoders/Caption"
+ },
+ {
+  "id": "2187",
+  "text": " MP3 channel encoding ",
+  "path": "/Forms/AudioConfigForm/MP3ChannelEncoding/Caption"
+ },
+ {
+  "id": "2188",
+  "text": "Joint stereo",
+  "path": "/Forms/AudioConfigForm/MP3ChannelEncoding/Items.Strings/1"
+ },
+ {
+  "id": "2189",
+  "text": "Use triangular dither for 8 bit conversions",
+  "path": "/Forms/AudioConfigForm/Dither/Caption"
+ },
+ {
+  "id": "2190",
+  "text": " MP3 encoding quality",
+  "path": "/Forms/AudioConfigForm/MP3Quality/Caption"
+ },
+ {
+  "id": "2191",
+  "text": "High quality",
+  "path": "/Forms/AudioConfigForm/MP3Quality/Items.Strings/0"
+ },
+ {
+  "id": "2192",
+  "text": "Very high quality (slower)",
+  "path": "/Forms/AudioConfigForm/MP3Quality/Items.Strings/1"
+ },
+ {
+  "id": "2193",
+  "text": "Use ACM_STREAMCONVERTF_END flag on end of ACM encoding",
+  "path": "/Forms/AudioConfigForm/ACMFlagEnd/Caption"
+ },
+ {
+  "id": "2194",
+  "text": " FFmpeg decoders ",
+  "path": "/Forms/AudioConfigForm/FFmpegDecoders/Caption"
+ },
+ {
+  "id": "2195",
+  "text": "Modules folder:",
+  "path": "/Forms/AudioConfigForm/FFmpegDecoders/ModulesLabel/Caption"
+ },
+ {
+  "id": "2196",
+  "text": "Use ACM MP3 decoder (instead of Media Foundation)",
+  "path": "/Forms/AudioConfigForm/MP3ACMDecoder/Caption"
+ },
+ {
+  "id": "2197",
+  "text": "Ignore errors from badly formed Wave files",
+  "path": "/Forms/AudioConfigForm/WaveIgnoreErrors/Caption"
+ },
+ {
+  "id": "2198",
+  "text": "MP3",
+  "path": "/Forms/MP3Form/Caption"
+ },
+ {
+  "id": "2199",
+  "text": "Joint Stereo",
+  "path": "/Forms/MP3Form/Channel/Items.Strings/1"
+ },
+ {
+  "id": "2200",
+  "text": "Dual Channel",
+  "path": "/Forms/MP3Form/Channel/Items.Strings/2"
+ },
+ {
+  "id": "2201",
+  "text": "Mono",
+  "path": "/Forms/MP3Form/Channel/Items.Strings/3"
+ },
+ {
+  "id": "2202",
+  "text": "Bitrate range:",
+  "path": "/Forms/MP3Form/BitrateText/Caption"
+ },
+ {
+  "id": "2203",
+  "text": "VBR quality:",
+  "path": "/Forms/MP3Form/VBRText/Caption"
+ },
+ {
+  "id": "2204",
+  "text": "0 (high quality)",
+  "path": "/Forms/MP3Form/VBRMode/Items.Strings/1"
+ },
+ {
+  "id": "2205",
+  "text": "9 (low quality)",
+  "path": "/Forms/MP3Form/VBRMode/Items.Strings/10"
+ },
+ {
+  "id": "2206",
+  "text": " MPEG bits  ",
+  "path": "/Forms/MP3Form/SettingsBox/Caption"
+ },
+ {
+  "id": "2207",
+  "text": "Private",
+  "path": "/Forms/MP3Form/SettingsBox/Private/Caption"
+ },
+ {
+  "id": "2208",
+  "text": "Include CRC",
+  "path": "/Forms/MP3Form/SettingsBox/IncludeCRC/Caption"
+ },
+ {
+  "id": "2209",
+  "text": "Copyright",
+  "path": "/Forms/MP3Form/SettingsBox/Copyright/Caption"
+ },
+ {
+  "id": "2210",
+  "text": "Original",
+  "path": "/Forms/MP3Form/SettingsBox/Original/Caption"
+ },
+ {
+  "id": "2211",
+  "text": "to",
+  "path": "/Forms/MP3Form/ToText/Caption"
+ },
+ {
+  "id": "2212",
+  "text": "Custom Raw Attributes",
+  "path": "/Forms/RawForm/Caption"
+ },
+ {
+  "id": "2213",
+  "text": "Encoding:",
+  "path": "/Forms/RawForm/EncodingLabel/Caption"
+ },
+ {
+  "id": "2214",
+  "text": "Bits:",
+  "path": "/Forms/RawForm/BitsLabel/Caption"
+ },
+ {
+  "id": "2215",
+  "text": "Unsigned",
+  "path": "/Forms/RawForm/Unsigned/Caption"
+ },
+ {
+  "id": "2216",
+  "text": "Big endian (MSB first)",
+  "path": "/Forms/RawForm/BigEndian/Caption"
+ },
+ {
+  "id": "2217",
+  "text": "Skip bytes",
+  "path": "/Forms/RawForm/SkipBytes/Label"
+ },
+ {
+  "id": "2218",
+  "text": "Skip bytes:",
+  "path": "/Forms/RawForm/SkipBytesLabel/Caption"
+ },
+ {
+  "id": "2219",
+  "text": "Browse for a folder",
+  "path": "/Forms/VistaFolderFrame/Browse/Hint"
+ },
+ {
+  "id": "2220",
+  "text": "Browse",
+  "path": "/Forms/VistaFolderFrame/Browse/Caption"
+ },
+ {
+  "id": "2221",
+  "text": "Prompt:",
+  "path": "/Forms/NumBaseFrame/Prompt/Caption"
+ },
+ {
+  "id": "2222",
+  "text": "-18.06 dB   (12.5%)",
+  "path": "/Forms/VolFrame/VolumeMenu/MenuOneEighth/Caption"
+ },
+ {
+  "id": "2223",
+  "text": "   6.02 dB   (200%)",
+  "path": "/Forms/VolFrame/ActionList/ActionDouble/Caption"
+ },
+ {
+  "id": "2224",
+  "text": "   3.52 dB   (150%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneAndAHalf/Caption"
+ },
+ {
+  "id": "2225",
+  "text": "   0.00 dB   (100%)",
+  "path": "/Forms/VolFrame/ActionList/ActionUnchanged/Caption"
+ },
+ {
+  "id": "2226",
+  "text": "  -2.50 dB   (75%)",
+  "path": "/Forms/VolFrame/ActionList/ActionThreeQuarters/Caption"
+ },
+ {
+  "id": "2227",
+  "text": "  -6.02 dB   (50%)",
+  "path": "/Forms/VolFrame/ActionList/ActionHalf/Caption"
+ },
+ {
+  "id": "2228",
+  "text": "-12.04 dB   (25%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneQuarter/Caption"
+ },
+ {
+  "id": "2229",
+  "text": "-18.24 dB   (12.5%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneEighth/Caption"
+ },
+ {
+  "id": "2230",
+  "text": "-20.00 dB   (10%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneTenth/Caption"
+ },
+ {
+  "id": "2231",
+  "text": "-26.02 dB   (5%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneTwentyth/Caption"
+ },
+ {
+  "id": "2232",
+  "text": "-32.04 dB   (2.5%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneFortieth/Caption"
+ },
+ {
+  "id": "2233",
+  "text": "-40.00 dB   (1%)",
+  "path": "/Forms/VolFrame/ActionList/ActionOneHunderdth/Caption"
+ },
+ {
+  "id": "2234",
+  "text": "ActionMenu",
+  "path": "/Forms/VolFrame/ActionList/ActionMenu/Caption"
+ },
+ {
+  "id": "2235",
+  "text": "Soft Sine",
+  "path": "/Forms/ToneFrame/Waveform/Text"
+ },
+ {
+  "id": "2236",
+  "text": "Level 1 (dB):",
+  "path": "/Forms/ToneFrame/Level/Caption"
+ },
+ {
+  "id": "2237",
+  "text": "Bulge",
+  "path": "/Forms/BulgePage/Caption"
+ },
+ {
+  "id": "2238",
+  "text": " X scale ",
+  "path": "/Forms/BulgePage/AxisScale/Caption"
+ },
+ {
+  "id": "2239",
+  "text": "Slow expanding fade",
+  "path": "/Forms/BulgePage/SlowFade/Caption"
+ }
+]

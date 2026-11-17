@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1680",
+  "text": "&L",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentL/Caption"
+ },
+ {
+  "id": "1681",
+  "text": "&M",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentM/Caption"
+ },
+ {
+  "id": "1682",
+  "text": "&N",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentN/Caption"
+ },
+ {
+  "id": "1683",
+  "text": "&O",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentO/Caption"
+ },
+ {
+  "id": "1684",
+  "text": "&P",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentP/Caption"
+ },
+ {
+  "id": "1685",
+  "text": "&Q",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentQ/Caption"
+ },
+ {
+  "id": "1686",
+  "text": "&R",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentR/Caption"
+ },
+ {
+  "id": "1687",
+  "text": "&S",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentS/Caption"
+ },
+ {
+  "id": "1688",
+  "text": "&T",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentT/Caption"
+ },
+ {
+  "id": "1689",
+  "text": "Displays menus for installed effect plug-ins",
+  "path": "/Forms/GWMainForm/ActionList/OptionPluginEffect/Hint"
+ },
+ {
+  "id": "1690",
+  "text": "Displays menus for installed file plug-ins",
+  "path": "/Forms/GWMainForm/ActionList/OptionPluginFile/Hint"
+ },
+ {
+  "id": "1691",
+  "text": "Displays menus for installed visual plug-ins",
+  "path": "/Forms/GWMainForm/ActionList/OptionPluginVisual/Hint"
+ },
+ {
+  "id": "1692",
+  "text": "&View All",
+  "path": "/Forms/GWMainForm/ActionList/ViewViewAll/Caption"
+ },
+ {
+  "id": "1693",
+  "text": "View All|Zooms out to display the entire file",
+  "path": "/Forms/GWMainForm/ActionList/ViewViewAll/Hint"
+ },
+ {
+  "id": "1694",
+  "text": "&Censor...",
+  "path": "/Forms/GWMainForm/ActionList/EffectCensor/Caption"
+ },
+ {
+  "id": "1695",
+  "text": "Censor: Replaces the selection with silence, a tone, gibberish, or the clipboard audio to remove profanity or sensitive material",
+  "path": "/Forms/GWMainForm/ActionList/EffectCensor/Hint"
+ },
+ {
+  "id": "1696",
+  "text": "Compressor/E&xpander...",
+  "path": "/Forms/GWMainForm/ActionList/EffectExpander/Caption"
+ },
+ {
+  "id": "1697",
+  "text": "Compressor/Expander: Performs amplitude compression or expansion",
+  "path": "/Forms/GWMainForm/ActionList/EffectExpander/Hint"
+ },
+ {
+  "id": "1698",
+  "text": "Creates a new file",
+  "path": "/Forms/GWMainForm/ActionList/FileNew/Hint"
+ },
+ {
+  "id": "1699",
+  "text": "New",
+  "path": "/Forms/GWMainForm/ActionList/FileNew/ToolCaption"
+ },
+ {
+  "id": "1700",
+  "text": "&Open...",
+  "path": "/Forms/GWMainForm/ActionList/FileOpen/Caption"
+ },
+ {
+  "id": "1701",
+  "text": "Opens a file",
+  "path": "/Forms/GWMainForm/ActionList/FileOpen/Hint"
+ },
+ {
+  "id": "1702",
+  "text": "Open",
+  "path": "/Forms/GWMainForm/ActionList/FileOpen/ToolCaption"
+ },
+ {
+  "id": "1703",
+  "text": "Open &URL...",
+  "path": "/Forms/GWMainForm/ActionList/FileOpenUrl/Caption"
+ },
+ {
+  "id": "1704",
+  "text": "Opens a remote file or stream",
+  "path": "/Forms/GWMainForm/ActionList/FileOpenUrl/Hint"
+ },
+ {
+  "id": "1705",
+  "text": "URL",
+  "path": "/Forms/GWMainForm/ActionList/FileOpenUrl/ToolCaption"
+ },
+ {
+  "id": "1706",
+  "text": "Closes current file",
+  "path": "/Forms/GWMainForm/ActionList/FileClose/Hint"
+ },
+ {
+  "id": "1707",
+  "text": "Close All",
+  "path": "/Forms/GWMainForm/ActionList/FileCloseAll/Caption"
+ },
+ {
+  "id": "1708",
+  "text": "Closes all files",
+  "path": "/Forms/GWMainForm/ActionList/FileCloseAll/Hint"
+ },
+ {
+  "id": "1709",
+  "text": "Close+",
+  "path": "/Forms/GWMainForm/ActionList/FileCloseAll/ToolCaption"
+ },
+ {
+  "id": "1710",
+  "text": "&Information...",
+  "path": "/Forms/GWMainForm/ActionList/FileInformation/Caption"
+ },
+ {
+  "id": "1711",
+  "text": "Sets file information or artwork",
+  "path": "/Forms/GWMainForm/ActionList/FileInformation/Hint"
+ },
+ {
+  "id": "1712",
+  "text": "Info",
+  "path": "/Forms/GWMainForm/ActionList/FileInformation/ToolCaption"
+ },
+ {
+  "id": "1713",
+  "text": "GoldWave Lin&k",
+  "path": "/Forms/GWMainForm/ActionList/FileInfinityLink/Caption"
+ },
+ {
+  "id": "1714",
+  "text": "Links GoldWave across the internet to transfer files",
+  "path": "/Forms/GWMainForm/ActionList/FileInfinityLink/Hint"
+ },
+ {
+  "id": "1715",
+  "text": "Saves current file",
+  "path": "/Forms/GWMainForm/ActionList/FileSave/Hint"
+ },
+ {
+  "id": "1716",
+  "text": "Save &As...",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveAs/Caption"
+ },
+ {
+  "id": "1717",
+  "text": "Saves current file with different name and/or format",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveAs/Hint"
+ },
+ {
+  "id": "1718",
+  "text": "As",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveAs/ToolCaption"
+ },
+ {
+  "id": "1719",
+  "text": "Sav&e Selection As...",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveSelection/Caption"
+ },
+ {
+  "id": "1720",
+  "text": "Saves the selection to a file",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveSelection/Hint"
+ },
+ {
+  "id": "1721",
+  "text": "Sel As",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveSelection/ToolCaption"
+ },
+ {
+  "id": "1722",
+  "text": "Sa&ve All",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveAll/Caption"
+ },
+ {
+  "id": "1723",
+  "text": "Saves all modified files",
+  "path": "/Forms/GWMainForm/ActionList/FileSaveAll/Hint"
+ },
+ {
+  "id": "1724",
+  "text": "Edit Presets...",
+  "path": "/Forms/GWMainForm/ActionList/FileEditPresets/Caption"
+ },
+ {
+  "id": "1725",
+  "text": "Adds, changes, or removes file type and attribute presets",
+  "path": "/Forms/GWMainForm/ActionList/FileEditPresets/Hint"
+ },
+ {
+  "id": "1726",
+  "text": "&Batch Processing...",
+  "path": "/Forms/GWMainForm/ActionList/FileBatchProcessing/Caption"
+ },
+ {
+  "id": "1727",
+  "text": "Processes, edits, or converts a group of files",
+  "path": "/Forms/GWMainForm/ActionList/FileBatchProcessing/Hint"
+ },
+ {
+  "id": "1728",
+  "text": "Batch",
+  "path": "/Forms/GWMainForm/ActionList/FileBatchProcessing/ToolCaption"
+ },
+ {
+  "id": "1729",
+  "text": "E&xit",
+  "path": "/Forms/GWMainForm/ActionList/FileExit/Caption"
+ },
+ {
+  "id": "1730",
+  "text": "Exits the program",
+  "path": "/Forms/GWMainForm/ActionList/FileExit/Hint"
+ },
+ {
+  "id": "1731",
+  "text": "&Undo",
+  "path": "/Forms/GWMainForm/ActionList/EditUndo/Caption"
+ },
+ {
+  "id": "1732",
+  "text": "Reverses the last operation",
+  "path": "/Forms/GWMainForm/ActionList/EditUndo/Hint"
+ },
+ {
+  "id": "1733",
+  "text": "Undo",
+  "path": "/Forms/GWMainForm/ActionList/EditUndo/ToolCaption"
+ },
+ {
+  "id": "1734",
+  "text": "&Redo",
+  "path": "/Forms/GWMainForm/ActionList/EditRedo/Caption"
+ },
+ {
+  "id": "1735",
+  "text": "Reverses the last undo",
+  "path": "/Forms/GWMainForm/ActionList/EditRedo/Hint"
+ },
+ {
+  "id": "1736",
+  "text": "Redo",
+  "path": "/Forms/GWMainForm/ActionList/EditRedo/ToolCaption"
+ },
+ {
+  "id": "1737",
+  "text": "Cuts the selection and puts it on the clipboard",
+  "path": "/Forms/GWMainForm/ActionList/EditCut/Hint"
+ },
+ {
+  "id": "1738",
+  "text": "Copies the selection and puts it on the clipboard",
+  "path": "/Forms/GWMainForm/ActionList/EditCopy/Hint"
+ },
+ {
+  "id": "1739",
+  "text": "Copy To A",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyToA/Caption"
+ },
+ {
+  "id": "1740",
+  "text": "Copies the selection and puts it on the 'A' clipboard",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyToA/Hint"
+ },
+ {
+  "id": "1741",
+  "text": "CopyA",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyToA/ToolCaption"
+ },
+ {
+  "id": "1742",
+  "text": "Copy To B",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyToB/Caption"
+ },
+ {
+  "id": "1743",
+  "text": "Copies the selection and puts it on the 'B' clipboard",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyToB/Hint"
+ },
+ {
+  "id": "1744",
+  "text": "CopyB",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyToB/ToolCaption"
+ },
+ {
+  "id": "1745",
+  "text": "Cop&y To...",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyTo/Caption"
+ },
+ {
+  "id": "1746",
+  "text": "Copies the selection to a file",
+  "path": "/Forms/GWMainForm/ActionList/EditCopyTo/Hint"
+ },
+ {
+  "id": "1747",
+  "text": "Cross&fade...",
+  "path": "/Forms/GWMainForm/ActionList/EditCrossfade/Caption"
+ },
+ {
+  "id": "1748",
+  "text": "Mixes the clipboard audio at one end of the file using a crossfade",
+  "path": "/Forms/GWMainForm/ActionList/EditCrossfade/Hint"
+ },
+ {
+  "id": "1749",
+  "text": "Xfade",
+  "path": "/Forms/GWMainForm/ActionList/EditCrossfade/ToolCaption"
+ },
+ {
+  "id": "1750",
+  "text": "Deletes the selection",
+  "path": "/Forms/GWMainForm/ActionList/EditDelete/Hint"
+ },
+ {
+  "id": "1751",
+  "text": "&Insert Silence...",
+  "path": "/Forms/GWMainForm/ActionList/EditInsertSilence/Caption"
+ },
+ {
+  "id": "1752",
+  "text": "Inserts some silence into the file at the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditInsertSilence/Hint"
+ },
+ {
+  "id": "1753",
+  "text": "Insert",
+  "path": "/Forms/GWMainForm/ActionList/EditInsertSilence/ToolCaption"
+ },
+ {
+  "id": "1754",
+  "text": "&Mix...",
+  "path": "/Forms/GWMainForm/ActionList/EditMix/Caption"
+ },
+ {
+  "id": "1755",
+  "text": "Mixes the clipboard audio with the current file",
+  "path": "/Forms/GWMainForm/ActionList/EditMix/Hint"
+ },
+ {
+  "id": "1756",
+  "text": "Mut&e",
+  "path": "/Forms/GWMainForm/ActionList/EditMute/Caption"
+ },
+ {
+  "id": "1757",
+  "text": "Replaces the selection with silence",
+  "path": "/Forms/GWMainForm/ActionList/EditMute/Hint"
+ },
+ {
+  "id": "1758",
+  "text": "Mute",
+  "path": "/Forms/GWMainForm/ActionList/EditMute/ToolCaption"
+ },
+ {
+  "id": "1759",
+  "text": "Over&write",
+  "path": "/Forms/GWMainForm/ActionList/EditOverwrite/Caption"
+ }
+]

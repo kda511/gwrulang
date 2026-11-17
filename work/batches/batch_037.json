@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2880",
+  "text": "Tone Meter",
+  "path": "/Visual/Tone Meter"
+ },
+ {
+  "id": "2881",
+  "text": "X-Y Graph",
+  "path": "/Visual/X-Y Graph"
+ },
+ {
+  "id": "2882",
+  "text": "LED Time",
+  "path": "/Visual/LED Time"
+ },
+ {
+  "id": "2883",
+  "text": "Media Player Visualizations",
+  "path": "/Visual/Media Player Visualizations"
+ },
+ {
+  "id": "2884",
+  "text": "BPM Counter",
+  "path": "/Visual/BPM Counter"
+ },
+ {
+  "id": "2885",
+  "text": "Tempo",
+  "path": "/Visual/Tempo"
+ },
+ {
+  "id": "2886",
+  "text": "Edit Trim",
+  "path": "/Category/Edit Trim"
+ },
+ {
+  "id": "2887",
+  "text": "Edit Channel",
+  "path": "/Category/Edit Channel"
+ },
+ {
+  "id": "2888",
+  "text": "Edit Selection",
+  "path": "/Category/Edit Selection"
+ },
+ {
+  "id": "2889",
+  "text": "Wave",
+  "path": "/Audio/Wave"
+ },
+ {
+  "id": "2890",
+  "text": "Apple",
+  "path": "/Audio/Apple"
+ },
+ {
+  "id": "2891",
+  "text": "Apple-C",
+  "path": "/Audio/Apple-C"
+ },
+ {
+  "id": "2892",
+  "text": "Amiga",
+  "path": "/Audio/Amiga"
+ },
+ {
+  "id": "2893",
+  "text": "Sun",
+  "path": "/Audio/Sun"
+ },
+ {
+  "id": "2894",
+  "text": "Sound Blaster",
+  "path": "/Audio/Sound Blaster"
+ },
+ {
+  "id": "2895",
+  "text": "Raw",
+  "path": "/Audio/Raw"
+ },
+ {
+  "id": "2896",
+  "text": "MIDI Instrument Sample",
+  "path": "/Audio/MIDI Instrument Sample"
+ },
+ {
+  "id": "2897",
+  "text": "Sample Vision",
+  "path": "/Audio/Sample Vision"
+ },
+ {
+  "id": "2898",
+  "text": "Dialogic",
+  "path": "/Audio/Dialogic"
+ },
+ {
+  "id": "2899",
+  "text": "Numerical Text",
+  "path": "/Audio/Numerical Text"
+ },
+ {
+  "id": "2900",
+  "text": "GoldWave Tmp File",
+  "path": "/Audio/GoldWave Tmp File"
+ },
+ {
+  "id": "2901",
+  "text": "Matlab",
+  "path": "/Audio/Matlab"
+ },
+ {
+  "id": "2902",
+  "text": "DirectShow",
+  "path": "/Audio/DirectShow"
+ },
+ {
+  "id": "2903",
+  "text": "Media Foundation",
+  "path": "/Audio/Media Foundation"
+ },
+ {
+  "id": "2904",
+  "text": "Extended Audio",
+  "path": "/Audio/Extended Audio"
+ },
+ {
+  "id": "2905",
+  "text": "Windows Media Audio",
+  "path": "/Audio/Windows Media Audio"
+ },
+ {
+  "id": "2906",
+  "text": "FLAC: Lossless Codec",
+  "path": "/Audio/FLAC: Lossless Codec"
+ },
+ {
+  "id": "2907",
+  "text": "Monkey's Audio",
+  "path": "/Audio/Monkey's Audio"
+ },
+ {
+  "id": "2908",
+  "text": "Ogg Vorbis",
+  "path": "/Audio/Ogg Vorbis"
+ },
+ {
+  "id": "2909",
+  "text": "Opus",
+  "path": "/Audio/Opus"
+ },
+ {
+  "id": "2910",
+  "text": "Maximize voice with high noise",
+  "path": "/Preset/Maximize voice with high noise"
+ },
+ {
+  "id": "2911",
+  "text": "Fast gain update",
+  "path": "/Preset/Fast gain update"
+ },
+ {
+  "id": "2912",
+  "text": "Adjust to 50%",
+  "path": "/Preset/Adjust to 50%"
+ },
+ {
+  "id": "2913",
+  "text": "Slow gain update",
+  "path": "/Preset/Slow gain update"
+ },
+ {
+  "id": "2914",
+  "text": "Medium gain update",
+  "path": "/Preset/Medium gain update"
+ },
+ {
+  "id": "2915",
+  "text": "Peak reducer",
+  "path": "/Preset/Peak reducer"
+ },
+ {
+  "id": "2916",
+  "text": "High gain",
+  "path": "/Preset/High gain"
+ },
+ {
+  "id": "2917",
+  "text": "Clip reducer",
+  "path": "/Preset/Clip reducer"
+ },
+ {
+  "id": "2918",
+  "text": "Medium attack, lower peak",
+  "path": "/Preset/Medium attack, lower peak"
+ },
+ {
+  "id": "2919",
+  "text": "Remove varying offset",
+  "path": "/Preset/Remove varying offset"
+ },
+ {
+  "id": "2920",
+  "text": "Remove stable offset",
+  "path": "/Preset/Remove stable offset"
+ },
+ {
+  "id": "2921",
+  "text": "Band slide up",
+  "path": "/Preset/Band slide up"
+ },
+ {
+  "id": "2922",
+  "text": "Narrow to wide",
+  "path": "/Preset/Narrow to wide"
+ },
+ {
+  "id": "2923",
+  "text": "Notch slide down",
+  "path": "/Preset/Notch slide down"
+ },
+ {
+  "id": "2924",
+  "text": "Reduce vocals",
+  "path": "/Preset/Reduce vocals"
+ },
+ {
+  "id": "2925",
+  "text": "Remove 50Hz",
+  "path": "/Preset/Remove 50Hz"
+ },
+ {
+  "id": "2926",
+  "text": "Remove 60Hz",
+  "path": "/Preset/Remove 60Hz"
+ },
+ {
+  "id": "2927",
+  "text": "Wide to narrow",
+  "path": "/Preset/Wide to narrow"
+ },
+ {
+  "id": "2928",
+  "text": "Voice hum and hiss filter",
+  "path": "/Preset/Voice hum and hiss filter"
+ },
+ {
+  "id": "2929",
+  "text": "Telephone",
+  "path": "/Preset/Telephone"
+ },
+ {
+  "id": "2930",
+  "text": "Quiet buzz",
+  "path": "/Preset/Quiet buzz"
+ },
+ {
+  "id": "2931",
+  "text": "Static overlay",
+  "path": "/Preset/Static overlay"
+ },
+ {
+  "id": "2932",
+  "text": "Overwrite with clipboard",
+  "path": "/Preset/Overwrite with clipboard"
+ },
+ {
+  "id": "2933",
+  "text": "Beep",
+  "path": "/Preset/Beep"
+ },
+ {
+  "id": "2934",
+  "text": "Straight clipboard mix",
+  "path": "/Preset/Straight clipboard mix"
+ },
+ {
+  "id": "2935",
+  "text": "Half",
+  "path": "/Preset/Half"
+ },
+ {
+  "id": "2936",
+  "text": "-3dB",
+  "path": "/Preset/-3dB"
+ },
+ {
+  "id": "2937",
+  "text": "Double",
+  "path": "/Preset/Double"
+ },
+ {
+  "id": "2938",
+  "text": "Cancel vocals",
+  "path": "/Preset/Cancel vocals"
+ },
+ {
+  "id": "2939",
+  "text": "Double vocals",
+  "path": "/Preset/Double vocals"
+ },
+ {
+  "id": "2940",
+  "text": "Exchange channels",
+  "path": "/Preset/Exchange channels"
+ },
+ {
+  "id": "2941",
+  "text": "Inside out",
+  "path": "/Preset/Inside out"
+ },
+ {
+  "id": "2942",
+  "text": "Mono left",
+  "path": "/Preset/Mono left"
+ },
+ {
+  "id": "2943",
+  "text": "Mono mix",
+  "path": "/Preset/Mono mix"
+ },
+ {
+  "id": "2944",
+  "text": "Mono right",
+  "path": "/Preset/Mono right"
+ },
+ {
+  "id": "2945",
+  "text": "Blend channels",
+  "path": "/Preset/Blend channels"
+ },
+ {
+  "id": "2946",
+  "text": "Passthrough",
+  "path": "/Preset/Passthrough"
+ },
+ {
+  "id": "2947",
+  "text": "Mid/side to stereo",
+  "path": "/Preset/Mid/side to stereo"
+ },
+ {
+  "id": "2948",
+  "text": "All left",
+  "path": "/Preset/All left"
+ },
+ {
+  "id": "2949",
+  "text": "All right",
+  "path": "/Preset/All right"
+ },
+ {
+  "id": "2950",
+  "text": "Boost loud parts",
+  "path": "/Preset/Boost loud parts"
+ },
+ {
+  "id": "2951",
+  "text": "Boost quiet parts",
+  "path": "/Preset/Boost quiet parts"
+ },
+ {
+  "id": "2952",
+  "text": "Noise gate",
+  "path": "/Preset/Noise gate"
+ },
+ {
+  "id": "2953",
+  "text": "Reduce loud parts",
+  "path": "/Preset/Reduce loud parts"
+ },
+ {
+  "id": "2954",
+  "text": "Reduce quiet parts",
+  "path": "/Preset/Reduce quiet parts"
+ },
+ {
+  "id": "2955",
+  "text": "Noise gate 2",
+  "path": "/Preset/Noise gate 2"
+ },
+ {
+  "id": "2956",
+  "text": "Noise gate 3",
+  "path": "/Preset/Noise gate 3"
+ },
+ {
+  "id": "2957",
+  "text": "Hard limit at -6dB",
+  "path": "/Preset/Hard limit at -6dB"
+ },
+ {
+  "id": "2958",
+  "text": "Reduce peaks",
+  "path": "/Preset/Reduce peaks"
+ },
+ {
+  "id": "2959",
+  "text": "2:1, hard",
+  "path": "/Preset/2:1, hard"
+ }
+]

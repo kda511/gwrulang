@@ -1,0 +1,402 @@
+[
+ {
+  "id": "240",
+  "text": "1000Hz",
+  "path": "/Forms/EqualizerForm/Band4Label/Caption"
+ },
+ {
+  "id": "241",
+  "text": "2.4kHz band",
+  "path": "/Forms/EqualizerForm/Band5/Label"
+ },
+ {
+  "id": "242",
+  "text": "2400Hz",
+  "path": "/Forms/EqualizerForm/Band5Label/Caption"
+ },
+ {
+  "id": "243",
+  "text": "6kHz band",
+  "path": "/Forms/EqualizerForm/Band6/Label"
+ },
+ {
+  "id": "244",
+  "text": "6000Hz",
+  "path": "/Forms/EqualizerForm/Band6Label/Caption"
+ },
+ {
+  "id": "245",
+  "text": "15kHz band",
+  "path": "/Forms/EqualizerForm/Band7/Label"
+ },
+ {
+  "id": "246",
+  "text": "15kHz",
+  "path": "/Forms/EqualizerForm/Band7Label/Caption"
+ },
+ {
+  "id": "247",
+  "text": "Master (dB):",
+  "path": "/Forms/EqualizerForm/VolumeFrame/Caption"
+ },
+ {
+  "id": "248",
+  "text": "Compressor/Expander",
+  "path": "/Forms/ExpanderForm/Caption"
+ },
+ {
+  "id": "249",
+  "text": "Multiplier (dB):",
+  "path": "/Forms/ExpanderForm/Multiplier/Caption"
+ },
+ {
+  "id": "250",
+  "text": "Threshold (dB):",
+  "path": "/Forms/ExpanderForm/Threshold/Caption"
+ },
+ {
+  "id": "251",
+  "text": "Attack (s):",
+  "path": "/Forms/ExpanderForm/Attack/Caption"
+ },
+ {
+  "id": "252",
+  "text": "Release (s):",
+  "path": "/Forms/ExpanderForm/Release/Caption"
+ },
+ {
+  "id": "253",
+  "text": " Mode ",
+  "path": "/Forms/ExpanderForm/Mode/Caption"
+ },
+ {
+  "id": "254",
+  "text": "Expander",
+  "path": "/Forms/ExpanderForm/Mode/Items.Strings/0"
+ },
+ {
+  "id": "255",
+  "text": "Compressor",
+  "path": "/Forms/ExpanderForm/Mode/Items.Strings/1"
+ },
+ {
+  "id": "256",
+  "text": "Anticipate attack",
+  "path": "/Forms/ExpanderForm/Settings/Anticipate/Caption"
+ },
+ {
+  "id": "257",
+  "text": "Use smoother",
+  "path": "/Forms/ExpanderForm/Settings/Smoother/Caption"
+ },
+ {
+  "id": "258",
+  "text": "Process channels independently",
+  "path": "/Forms/ExpanderForm/Settings/Gang/Caption"
+ },
+ {
+  "id": "259",
+  "text": "Fade In",
+  "path": "/Forms/FadeForm/Caption"
+ },
+ {
+  "id": "260",
+  "text": "Initial volume (dB):",
+  "path": "/Forms/FadeForm/VolumeFrame/Caption"
+ },
+ {
+  "id": "261",
+  "text": " Fade curve ",
+  "path": "/Forms/FadeForm/FadeCurve/Caption"
+ },
+ {
+  "id": "262",
+  "text": "Logarithmic",
+  "path": "/Forms/FadeForm/FadeCurve/Items.Strings/0"
+ },
+ {
+  "id": "263",
+  "text": "Linear",
+  "path": "/Forms/FadeForm/FadeCurve/Items.Strings/1"
+ },
+ {
+  "id": "264",
+  "text": "Flanger",
+  "path": "/Forms/FlangerForm/Caption"
+ },
+ {
+  "id": "265",
+  "text": " Volume modulator / tremolo ",
+  "path": "/Forms/FlangerForm/VolumeModulatorGroup/Caption"
+ },
+ {
+  "id": "266",
+  "text": "Triangle modulator",
+  "path": "/Forms/FlangerForm/VolumeModulatorGroup/VolumeModulatorPanel/VolumeTriangle/Caption"
+ },
+ {
+  "id": "267",
+  "text": "Sine modulator",
+  "path": "/Forms/FlangerForm/VolumeModulatorGroup/VolumeModulatorPanel/VolumeSine/Caption"
+ },
+ {
+  "id": "268",
+  "text": "Frequency (Hz):",
+  "path": "/Forms/FlangerForm/VolumeModulatorGroup/VolumeFrequency/Caption"
+ },
+ {
+  "id": "269",
+  "text": "Depth (%):",
+  "path": "/Forms/FlangerForm/VolumeModulatorGroup/VolumeDepth/Caption"
+ },
+ {
+  "id": "270",
+  "text": " Frequency modulator / vibrato ",
+  "path": "/Forms/FlangerForm/SettingsBox/Caption"
+ },
+ {
+  "id": "271",
+  "text": "Fixed delay (ms):",
+  "path": "/Forms/FlangerForm/SettingsBox/Fixed/Caption"
+ },
+ {
+  "id": "272",
+  "text": "Variable delay (ms):",
+  "path": "/Forms/FlangerForm/SettingsBox/Delay/Caption"
+ },
+ {
+  "id": "273",
+  "text": " Volumes ",
+  "path": "/Forms/FlangerForm/VolumeGroup/Caption"
+ },
+ {
+  "id": "274",
+  "text": "Feedback volume",
+  "path": "/Forms/FlangerForm/VolumeGroup/Feedback/Label"
+ },
+ {
+  "id": "275",
+  "text": "Feedback (%):",
+  "path": "/Forms/FlangerForm/VolumeGroup/FeedbackLabel/Caption"
+ },
+ {
+  "id": "276",
+  "text": "Flanger volume",
+  "path": "/Forms/FlangerForm/VolumeGroup/Flanger/Label"
+ },
+ {
+  "id": "277",
+  "text": "Flanger (%):",
+  "path": "/Forms/FlangerForm/VolumeGroup/FlangerLabel/Caption"
+ },
+ {
+  "id": "278",
+  "text": "Source volume",
+  "path": "/Forms/FlangerForm/VolumeGroup/Source/Label"
+ },
+ {
+  "id": "279",
+  "text": "Source (%):",
+  "path": "/Forms/FlangerForm/VolumeGroup/SourceLabel/Caption"
+ },
+ {
+  "id": "280",
+  "text": "Frequency Blend",
+  "path": "/Forms/FrequencyBlendForm/Caption"
+ },
+ {
+  "id": "281",
+  "text": "Wet volume (dB):",
+  "path": "/Forms/FrequencyBlendForm/WetVolume/Caption"
+ },
+ {
+  "id": "282",
+  "text": "Sustain:",
+  "path": "/Forms/FrequencyBlendForm/Sustain/Caption"
+ },
+ {
+  "id": "283",
+  "text": "Pitch shift (%):",
+  "path": "/Forms/FrequencyBlendForm/Frequency/Caption"
+ },
+ {
+  "id": "284",
+  "text": "Dry volume (dB):",
+  "path": "/Forms/FrequencyBlendForm/DryVolume/Caption"
+ },
+ {
+  "id": "285",
+  "text": "Volume Match",
+  "path": "/Forms/LoudnessForm/Caption"
+ },
+ {
+  "id": "286",
+  "text": " Clipping control ",
+  "path": "/Forms/LoudnessForm/Clipping/Caption"
+ },
+ {
+  "id": "287",
+  "text": "Allow clipping",
+  "path": "/Forms/LoudnessForm/Clipping/Items.Strings/0"
+ },
+ {
+  "id": "288",
+  "text": "Reduce volume to avoid clipping",
+  "path": "/Forms/LoudnessForm/Clipping/Items.Strings/1"
+ },
+ {
+  "id": "289",
+  "text": "Abort processing if clipping is required",
+  "path": "/Forms/LoudnessForm/Clipping/Items.Strings/2"
+ },
+ {
+  "id": "290",
+  "text": "Volume (LUFS):",
+  "path": "/Forms/LoudnessForm/VolumeFrame/Caption"
+ },
+ {
+  "id": "291",
+  "text": "LUFS",
+  "path": "/Forms/LoudnessForm/List/Columns/1/Caption"
+ },
+ {
+  "id": "292",
+  "text": "LRA",
+  "path": "/Forms/LoudnessForm/List/Columns/2/Caption"
+ },
+ {
+  "id": "293",
+  "text": "Final Peak",
+  "path": "/Forms/LoudnessForm/List/Columns/3/Caption"
+ },
+ {
+  "id": "294",
+  "text": "Final dB",
+  "path": "/Forms/LoudnessForm/List/Columns/4/Caption"
+ },
+ {
+  "id": "295",
+  "text": "-100.0 LUFS",
+  "path": "/Forms/LoudnessForm/Current/Caption"
+ },
+ {
+  "id": "296",
+  "text": "Calculate Loudness Range",
+  "path": "/Forms/LoudnessForm/CalculateRange/Caption"
+ },
+ {
+  "id": "297",
+  "text": "Calculate Range (EBU LRA)",
+  "path": "/Forms/LoudnessForm/ActionList/ActionRange/Caption"
+ },
+ {
+  "id": "298",
+  "text": "Maximize",
+  "path": "/Forms/MaximizeForm/Caption"
+ },
+ {
+  "id": "299",
+  "text": "Maximum (dB):",
+  "path": "/Forms/MaximizeForm/VolumeFrame/Caption"
+ },
+ {
+  "id": "300",
+  "text": "Rank",
+  "path": "/Forms/MaximizeForm/List/Columns/1/Caption"
+ },
+ {
+  "id": "301",
+  "text": "Maximum",
+  "path": "/Forms/MaximizeForm/List/Columns/2/Caption"
+ },
+ {
+  "id": "302",
+  "text": "Independent channels",
+  "path": "/Forms/MaximizeForm/IndependentChannels/Caption"
+ },
+ {
+  "id": "303",
+  "text": "Copy &Time",
+  "path": "/Forms/MaximizeForm/PopupMenu/MenuCopyTime/Caption"
+ },
+ {
+  "id": "304",
+  "text": "Copy &Maximum",
+  "path": "/Forms/MaximizeForm/PopupMenu/MenuCopyMaximum/Caption"
+ },
+ {
+  "id": "305",
+  "text": "Mechanize",
+  "path": "/Forms/MechanizeForm/Caption"
+ },
+ {
+  "id": "306",
+  "text": " Modulator ",
+  "path": "/Forms/MechanizeForm/ModulatorGroup/Caption"
+ },
+ {
+  "id": "307",
+  "text": "Square",
+  "path": "/Forms/MechanizeForm/ModulatorGroup/Square/Caption"
+ },
+ {
+  "id": "308",
+  "text": "Triangle",
+  "path": "/Forms/MechanizeForm/ModulatorGroup/Triangle/Caption"
+ },
+ {
+  "id": "309",
+  "text": "Sine",
+  "path": "/Forms/MechanizeForm/ModulatorGroup/Sine/Caption"
+ },
+ {
+  "id": "310",
+  "text": "Spectrum time:",
+  "path": "/Forms/MultibandEffectForm/TimeLabel/Caption"
+ },
+ {
+  "id": "311",
+  "text": "Time index",
+  "path": "/Forms/MultibandEffectForm/Time/Label"
+ },
+ {
+  "id": "312",
+  "text": "Band 2  (Hz):",
+  "path": "/Forms/MultibandEffectForm/Low/Caption"
+ },
+ {
+  "id": "313",
+  "text": "Band 3  (Hz):",
+  "path": "/Forms/MultibandEffectForm/Medium/Caption"
+ },
+ {
+  "id": "314",
+  "text": "Band 4  (Hz):",
+  "path": "/Forms/MultibandEffectForm/High/Caption"
+ },
+ {
+  "id": "315",
+  "text": "Band 1",
+  "path": "/Forms/MultibandEffectForm/MultiBand1/Title/Caption"
+ },
+ {
+  "id": "316",
+  "text": "Band 2",
+  "path": "/Forms/MultibandEffectForm/MultiBand2/Title/Caption"
+ },
+ {
+  "id": "317",
+  "text": "Band 3",
+  "path": "/Forms/MultibandEffectForm/MultiBand3/Title/Caption"
+ },
+ {
+  "id": "318",
+  "text": "Band 4",
+  "path": "/Forms/MultibandEffectForm/MultiBand4/Title/Caption"
+ },
+ {
+  "id": "319",
+  "text": "Synchronize value changes",
+  "path": "/Forms/MultibandEffectForm/Sync/Caption"
+ }
+]

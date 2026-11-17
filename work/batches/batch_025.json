@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1920",
+  "text": "1m",
+  "path": "/Forms/GWMainForm/ActionList/View1Minute/ToolCaption"
+ },
+ {
+  "id": "1921",
+  "text": "10 &Minutes",
+  "path": "/Forms/GWMainForm/ActionList/View10Minutes/Caption"
+ },
+ {
+  "id": "1922",
+  "text": "Views 10 minutes of time",
+  "path": "/Forms/GWMainForm/ActionList/View10Minutes/Hint"
+ },
+ {
+  "id": "1923",
+  "text": "10m",
+  "path": "/Forms/GWMainForm/ActionList/View10Minutes/ToolCaption"
+ },
+ {
+  "id": "1924",
+  "text": "1 &Hour",
+  "path": "/Forms/GWMainForm/ActionList/View1Hour/Caption"
+ },
+ {
+  "id": "1925",
+  "text": "Views one hour of time",
+  "path": "/Forms/GWMainForm/ActionList/View1Hour/Hint"
+ },
+ {
+  "id": "1926",
+  "text": "1h",
+  "path": "/Forms/GWMainForm/ActionList/View1Hour/ToolCaption"
+ },
+ {
+  "id": "1927",
+  "text": "Vertical Zoom A&ll",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomAll/Caption"
+ },
+ {
+  "id": "1928",
+  "text": "Views the full amplitude range",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomAll/Hint"
+ },
+ {
+  "id": "1929",
+  "text": "V All",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomAll/ToolCaption"
+ },
+ {
+  "id": "1930",
+  "text": "Vertical Zoom I&n",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomIn/Caption"
+ },
+ {
+  "id": "1931",
+  "text": "Views more detailed amplitude levels",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomIn/Hint"
+ },
+ {
+  "id": "1932",
+  "text": "V In",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomIn/ToolCaption"
+ },
+ {
+  "id": "1933",
+  "text": "Vertical Zoom O&ut",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomOut/Caption"
+ },
+ {
+  "id": "1934",
+  "text": "Views less detailed amplitude levels",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomOut/Hint"
+ },
+ {
+  "id": "1935",
+  "text": "V Out",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalZoomOut/ToolCaption"
+ },
+ {
+  "id": "1936",
+  "text": "S&tart",
+  "path": "/Forms/GWMainForm/ActionList/ViewStart/Caption"
+ },
+ {
+  "id": "1937",
+  "text": "Centers the view on the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/ViewStart/Hint"
+ },
+ {
+  "id": "1938",
+  "text": "&Finish",
+  "path": "/Forms/GWMainForm/ActionList/ViewFinish/Caption"
+ },
+ {
+  "id": "1939",
+  "text": "Centers the view on the finish } marker",
+  "path": "/Forms/GWMainForm/ActionList/ViewFinish/Hint"
+ },
+ {
+  "id": "1940",
+  "text": "Beginning",
+  "path": "/Forms/GWMainForm/ActionList/ViewBeginning/Caption"
+ },
+ {
+  "id": "1941",
+  "text": "Views the beginning of the file",
+  "path": "/Forms/GWMainForm/ActionList/ViewBeginning/Hint"
+ },
+ {
+  "id": "1942",
+  "text": "Views the end of the file.",
+  "path": "/Forms/GWMainForm/ActionList/ViewEnd/Hint"
+ },
+ {
+  "id": "1943",
+  "text": "&Doppler...",
+  "path": "/Forms/GWMainForm/ActionList/EffectDoppler/Caption"
+ },
+ {
+  "id": "1944",
+  "text": "Doppler: Performs dynamic pitch shifting",
+  "path": "/Forms/GWMainForm/ActionList/EffectDoppler/Hint"
+ },
+ {
+  "id": "1945",
+  "text": "D&ynamics...",
+  "path": "/Forms/GWMainForm/ActionList/EffectDynamic/Caption"
+ },
+ {
+  "id": "1946",
+  "text": "Dynamics: Performs amplitude mapping",
+  "path": "/Forms/GWMainForm/ActionList/EffectDynamic/Hint"
+ },
+ {
+  "id": "1947",
+  "text": "&Echo...",
+  "path": "/Forms/GWMainForm/ActionList/EffectEcho/Caption"
+ },
+ {
+  "id": "1948",
+  "text": "Echo: Adds one or more echos to the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectEcho/Hint"
+ },
+ {
+  "id": "1949",
+  "text": "Flan&ger...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFlanger/Caption"
+ },
+ {
+  "id": "1950",
+  "text": "Flanger: Adds a flanger effect to the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectFlanger/Hint"
+ },
+ {
+  "id": "1951",
+  "text": "Frequency &Blend...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFrequencyBlend/Caption"
+ },
+ {
+  "id": "1952",
+  "text": "Frequency Blend: Adds older and shifted frequencies to the spectrum",
+  "path": "/Forms/GWMainForm/ActionList/EffectFrequencyBlend/Hint"
+ },
+ {
+  "id": "1953",
+  "text": "Interpo&late",
+  "path": "/Forms/GWMainForm/ActionList/EffectInterpolate/Caption"
+ },
+ {
+  "id": "1954",
+  "text": "Interpolate: Linearly interpolates from the start amplitude to the finish amplitude",
+  "path": "/Forms/GWMainForm/ActionList/EffectInterpolate/Hint"
+ },
+ {
+  "id": "1955",
+  "text": "&Invert",
+  "path": "/Forms/GWMainForm/ActionList/EffectInvert/Caption"
+ },
+ {
+  "id": "1956",
+  "text": "Invert: Turns the waveform upside down",
+  "path": "/Forms/GWMainForm/ActionList/EffectInvert/Hint"
+ },
+ {
+  "id": "1957",
+  "text": "Mechani&ze...",
+  "path": "/Forms/GWMainForm/ActionList/EffectMechanize/Caption"
+ },
+ {
+  "id": "1958",
+  "text": "Mechanize: Uses amplitude modulation to make the selection sound mechanical",
+  "path": "/Forms/GWMainForm/ActionList/EffectMechanize/Hint"
+ },
+ {
+  "id": "1959",
+  "text": "Multichannel Mixer...",
+  "path": "/Forms/GWMainForm/ActionList/EffectMultichannelMixer/Caption"
+ },
+ {
+  "id": "1960",
+  "text": "Multichannel Mixer: Mixes multiple channels together or mixes down or up.",
+  "path": "/Forms/GWMainForm/ActionList/EffectMultichannelMixer/Hint"
+ },
+ {
+  "id": "1961",
+  "text": "Multiband Compressor...",
+  "path": "/Forms/GWMainForm/ActionList/EffectMultiband/Caption"
+ },
+ {
+  "id": "1962",
+  "text": "Multiband Compressor: Compresses or expands audio dynamics in different frequency bands",
+  "path": "/Forms/GWMainForm/ActionList/EffectMultiband/Hint"
+ },
+ {
+  "id": "1963",
+  "text": "&Offset...",
+  "path": "/Forms/GWMainForm/ActionList/EffectOffset/Caption"
+ },
+ {
+  "id": "1964",
+  "text": "Offset: Adjusts the dc offset, raising or lowering the waveform",
+  "path": "/Forms/GWMainForm/ActionList/EffectOffset/Hint"
+ },
+ {
+  "id": "1965",
+  "text": "&Pitch...",
+  "path": "/Forms/GWMainForm/ActionList/EffectPitch/Caption"
+ },
+ {
+  "id": "1966",
+  "text": "Pitch: Changes the pitch of the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectPitch/Hint"
+ },
+ {
+  "id": "1967",
+  "text": "Displays menus for installed plug-ins",
+  "path": "/Forms/GWMainForm/ActionList/EffectPlugin/Hint"
+ },
+ {
+  "id": "1968",
+  "text": "Re&verb...",
+  "path": "/Forms/GWMainForm/ActionList/EffectReverb/Caption"
+ },
+ {
+  "id": "1969",
+  "text": "Reverb: Adds a reverberation to the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectReverb/Hint"
+ },
+ {
+  "id": "1970",
+  "text": "&Reverse",
+  "path": "/Forms/GWMainForm/ActionList/EffectReverse/Caption"
+ },
+ {
+  "id": "1971",
+  "text": "Reverse: Reverses the selection so it plays backwards",
+  "path": "/Forms/GWMainForm/ActionList/EffectReverse/Hint"
+ },
+ {
+  "id": "1972",
+  "text": "&Auto Offset Removal...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterAutoOffset/Caption"
+ },
+ {
+  "id": "1973",
+  "text": "Auto Offset Removal: Scans and automatically removes a dc offset from the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterAutoOffset/Hint"
+ },
+ {
+  "id": "1974",
+  "text": "&Equalizer...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterEqualizer/Caption"
+ },
+ {
+  "id": "1975",
+  "text": "Equalizer: Boosts or reduces bands of frequencies",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterEqualizer/Hint"
+ },
+ {
+  "id": "1976",
+  "text": "&Low/Highpass...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterPass/Caption"
+ },
+ {
+  "id": "1977",
+  "text": "Low/Highpass: Performs a lowpass or highpass filter",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterPass/Hint"
+ },
+ {
+  "id": "1978",
+  "text": "&Bandpass/stop...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterBand/Caption"
+ },
+ {
+  "id": "1979",
+  "text": "Bandpass/stop: Performs a bandpass or bandstop filter",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterBand/Hint"
+ },
+ {
+  "id": "1980",
+  "text": "&Parametric EQ...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterParametricEQ/Caption"
+ },
+ {
+  "id": "1981",
+  "text": "Parametric EQ: Performs parametric equalization",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterParametricEQ/Hint"
+ },
+ {
+  "id": "1982",
+  "text": "Noise &Gate...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterNoiseGate/Caption"
+ },
+ {
+  "id": "1983",
+  "text": "Noise Gate: Reduces noises in quiet sections",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterNoiseGate/Hint"
+ },
+ {
+  "id": "1984",
+  "text": "Noise &Reduction...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterNoiseReduction/Caption"
+ },
+ {
+  "id": "1985",
+  "text": "Noise Reduction: Reduces noise using frequency analysis",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterNoiseReduction/Hint"
+ },
+ {
+  "id": "1986",
+  "text": "Pop/&Click...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterPopClick/Caption"
+ },
+ {
+  "id": "1987",
+  "text": "Pop/Click: Removes pops and clicks from old recordings",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterPopClick/Hint"
+ },
+ {
+  "id": "1988",
+  "text": "S&ilence Reduction...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterSilence/Caption"
+ },
+ {
+  "id": "1989",
+  "text": "Silence Reduction: Removes or reduces quiet or silent sections from the sound",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterSilence/Hint"
+ },
+ {
+  "id": "1990",
+  "text": "&Smoother...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterSmoother/Caption"
+ },
+ {
+  "id": "1991",
+  "text": "Smoother: Smoothes the waveform using a running average",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterSmoother/Hint"
+ },
+ {
+  "id": "1992",
+  "text": "Spectrum &Filter...",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterSpectrum/Caption"
+ },
+ {
+  "id": "1993",
+  "text": "Spectrum Filter: Reduces or boosts frequencies based on a frequency graph",
+  "path": "/Forms/GWMainForm/ActionList/EffectFilterSpectrum/Hint"
+ },
+ {
+  "id": "1994",
+  "text": "&Auto Gain...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeAutoGain/Caption"
+ },
+ {
+  "id": "1995",
+  "text": "Auto Gain: Automatically adjusts the volume changes to level out the volume over the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeAutoGain/Hint"
+ },
+ {
+  "id": "1996",
+  "text": "&Change Volume...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeChange/Caption"
+ },
+ {
+  "id": "1997",
+  "text": "Change Volume: Adjusts the volume of the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeChange/Hint"
+ },
+ {
+  "id": "1998",
+  "text": "Fade &In...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeFadeIn/Caption"
+ },
+ {
+  "id": "1999",
+  "text": "Fade In: Fades in the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeFadeIn/Hint"
+ }
+]

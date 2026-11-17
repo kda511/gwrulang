@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2640",
+  "text": "Cannot open help.",
+  "path": "/Internal/sHelpCannotOpen"
+ },
+ {
+  "id": "2641",
+  "text": "Help index not found.  Program not installed correctly.",
+  "path": "/Internal/sHelpIndexMissing"
+ },
+ {
+  "id": "2642",
+  "text": "Help index isn't in the correct format.",
+  "path": "/Internal/sHelpIndexFormatBad"
+ },
+ {
+  "id": "2643",
+  "text": "Help index cannot be read.",
+  "path": "/Internal/sHelpIndexReadError"
+ },
+ {
+  "id": "2644",
+  "text": "Search text not found.",
+  "path": "/Internal/sHelpSearchNotFound"
+ },
+ {
+  "id": "2645",
+  "text": "Do you want GoldWave to automatically check the website for updates?",
+  "path": "/Internal/supConfirmCheck"
+ },
+ {
+  "id": "2646",
+  "text": "\nDownload and install now?",
+  "path": "/Internal/supConfirmDownload"
+ },
+ {
+  "id": "2647",
+  "text": "Unable to download the latest update.\n\nVisit the GoldWave website to download and install it manually? |",
+  "path": "/Internal/supDownloadFailed"
+ },
+ {
+  "id": "2648",
+  "text": "No new updates were found.",
+  "path": "/Internal/supNoUpdates"
+ },
+ {
+  "id": "2649",
+  "text": "More information about checking for updates.",
+  "path": "/Internal/supCheckForUpdatesInfo"
+ },
+ {
+  "id": "2650",
+  "text": "An invalid or unauthorized license was detected.|GoldWave Inc. is a very small company that dependsentirely on honest customers to support the software.\n\nPlease purchase a license.",
+  "path": "/Internal/supUnauthorizedID"
+ },
+ {
+  "id": "2651",
+  "text": "Please update your version of GWRemote to connect to this version of GoldWave.",
+  "path": "/Internal/sGWRemoteUpgrade"
+ },
+ {
+  "id": "2652",
+  "text": "Allow remote connection from GWRemote?||Use \"Apps\" on the \"Options\" menu to allow connections without confirming.",
+  "path": "/Internal/sGWRemoteAllow"
+ },
+ {
+  "id": "2653",
+  "text": "The GWRemote app has already connected to a different instance of GoldWave.",
+  "path": "/Internal/sGWRemoteAlreadyConnected"
+ },
+ {
+  "id": "2654",
+  "text": "The system clock is not set correctly.|The current year cannot be in the past.  You must set the correct time before entering your license.",
+  "path": "/Internal/sregSystemClockWrong"
+ },
+ {
+  "id": "2655",
+  "text": "Evaluation period expired!",
+  "path": "/Internal/sregEvaluationExpired"
+ },
+ {
+  "id": "2656",
+  "text": "Evaluation period will expire soon!",
+  "path": "/Internal/sregEvaluationExpiring"
+ },
+ {
+  "id": "2657",
+  "text": "Unlicensed version.",
+  "path": "/Internal/sregEvaluationUnlicensed"
+ },
+ {
+  "id": "2658",
+  "text": "Saves remaining: %0%.  A license is required for unlimited saves.",
+  "path": "/Internal/sregEvaluationSaves"
+ },
+ {
+  "id": "2659",
+  "text": " Please click here to buy a license.",
+  "path": "/Internal/sregLicenseBarClickHere"
+ },
+ {
+  "id": "2660",
+  "text": " Please click here to buy a new license.",
+  "path": "/Internal/sregLicenseBarClickHereNew"
+ },
+ {
+  "id": "2661",
+  "text": "Your license has expired!",
+  "path": "/Internal/sregLicenseBarExpired"
+ },
+ {
+  "id": "2662",
+  "text": "Your license expires today!",
+  "path": "/Internal/sregLicenseBarExpiresToday"
+ },
+ {
+  "id": "2663",
+  "text": "Your license will expire in %0% days.",
+  "path": "/Internal/sregLicenseBarExpiresDays"
+ },
+ {
+  "id": "2664",
+  "text": "This program must be run as Administrator to store a license for all users.|Please uncheck the \"License all users...\" box.",
+  "path": "/Internal/sregAdministratorRequired"
+ },
+ {
+  "id": "2665",
+  "text": "Incorrect User ID or License.|Please be sure to enter the User ID and License exactly as given.  Also make sure the year, date, and time on the device is correct.",
+  "path": "/Internal/sregLicenseInvalid"
+ },
+ {
+  "id": "2666",
+  "text": "The license has expired.  Please purchase a new license.",
+  "path": "/Internal/sregLicenseExpired"
+ },
+ {
+  "id": "2667",
+  "text": "License accepted.|Evaluation messages and usage limits have been removed.  GoldWave is now registered.  Thank you!",
+  "path": "/Internal/sregLicenseAccepted"
+ },
+ {
+  "id": "2668",
+  "text": "You can purchase a license on the GoldWave website to unlock the evaluation version and remove all reminder messages.  If you have a license, please enter it into the program by choosing the button below.  Occasionally free trial licenses are posted on the facebook page @GoldWaveInc.",
+  "path": "/Internal/sregEvaluationReminder"
+ },
+ {
+  "id": "2669",
+  "text": "Evaluation period will end soon (see usage counter in status bar)!\n\n",
+  "path": "/Internal/sregEvaluationExpiringSoon"
+ },
+ {
+  "id": "2670",
+  "text": "Session limit exceeded!  The evaluation version lets you use 200 commands each time the program is started.  You can save your work and restart.\n\n",
+  "path": "/Internal/sregEvaluationSessionLimit"
+ },
+ {
+  "id": "2671",
+  "text": "Your GoldWave license has expired.  The license was issued on %0% and lasts for one year.\n\n",
+  "path": "/Internal/sregLicenseExpiredDate"
+ },
+ {
+  "id": "2672",
+  "text": "Please purchase a new license.",
+  "path": "/Internal/sregLicensePurchase"
+ },
+ {
+  "id": "2673",
+  "text": "%0% : Unlicensed Usage",
+  "path": "/Internal/sregUnlicensedUsage"
+ },
+ {
+  "id": "2674",
+  "text": "License valid until %0%",
+  "path": "/Internal/sregLicenseValidUntil"
+ },
+ {
+  "id": "2675",
+  "text": "The User ID or License must be 9 characters long.",
+  "path": "/Internal/sregLicenseEntryError"
+ },
+ {
+  "id": "2676",
+  "text": "Continue in %0%",
+  "path": "/Internal/sregEvaluationContinue"
+ },
+ {
+  "id": "2677",
+  "text": "Licensed",
+  "path": "/Internal/sregAboutLicensed"
+ },
+ {
+  "id": "2678",
+  "text": "Valid until: %0%.",
+  "path": "/Internal/sregAboutValid"
+ },
+ {
+  "id": "2679",
+  "text": "Thank you for supporting GoldWave.",
+  "path": "/Internal/sregAboutThankYou"
+ },
+ {
+  "id": "2680",
+  "text": "Important!  Do not lose your license.|Make a printed, written, or backup copy of your license information (and how to use it) for future reference!\n\nYour license may be required again if need to reinstall GoldWave.\n\nIf you lose your license you will have to purchase a new license at full price.",
+  "path": "/Internal/sregDoNotLose"
+ },
+ {
+  "id": "2681",
+  "text": "Hours:Minutes:Seconds.Milliseconds",
+  "path": "/Internal/sStatusTextModeHint/0"
+ },
+ {
+  "id": "2682",
+  "text": "Hours:Minutes:Seconds.Frames (24 fps)",
+  "path": "/Internal/sStatusTextModeHint/1"
+ },
+ {
+  "id": "2683",
+  "text": "Hours:Minutes:Seconds.Frames (25 fps)",
+  "path": "/Internal/sStatusTextModeHint/2"
+ },
+ {
+  "id": "2684",
+  "text": "Hours:Minutes:Seconds.Frames (30 fps)",
+  "path": "/Internal/sStatusTextModeHint/3"
+ },
+ {
+  "id": "2685",
+  "text": "Hours:Minutes:Seconds.CD Frames (75 fps)",
+  "path": "/Internal/sStatusTextModeHint/4"
+ },
+ {
+  "id": "2686",
+  "text": "Hours:Minutes:Seconds.Microseconds",
+  "path": "/Internal/sStatusTextModeHint/5"
+ },
+ {
+  "id": "2687",
+  "text": "Minutes:Seconds.Microseconds",
+  "path": "/Internal/sStatusTextModeHint/6"
+ },
+ {
+  "id": "2688",
+  "text": "Seconds.Microseconds",
+  "path": "/Internal/sStatusTextModeHint/7"
+ },
+ {
+  "id": "2689",
+  "text": "Seconds.Milliseconds",
+  "path": "/Internal/sStatusTextModeHint/8"
+ },
+ {
+  "id": "2690",
+  "text": "Bytes",
+  "path": "/Internal/sStatusTextModeHint/10"
+ },
+ {
+  "id": "2691",
+  "text": "Time Shown",
+  "path": "/Internal/sStatusZoomModeHint/0"
+ },
+ {
+  "id": "2692",
+  "text": "Integer Ratio (pixels : samples)",
+  "path": "/Internal/sStatusZoomModeHint/1"
+ },
+ {
+  "id": "2693",
+  "text": "Unit Decimal (1 pixel : x samples)",
+  "path": "/Internal/sStatusZoomModeHint/2"
+ },
+ {
+  "id": "2694",
+  "text": "Set Marker/Selection",
+  "path": "/Internal/sBatchEditCommand/0"
+ },
+ {
+  "id": "2695",
+  "text": "Channel Selection",
+  "path": "/Internal/sBatchEditCommand/12"
+ },
+ {
+  "id": "2696",
+  "text": "Leading",
+  "path": "/Internal/sBatchTrimSilenceSetting/0"
+ },
+ {
+  "id": "2697",
+  "text": "Trailing",
+  "path": "/Internal/sBatchTrimSilenceSetting/1"
+ },
+ {
+  "id": "2698",
+  "text": "Loading settings",
+  "path": "/Internal/sSplashStrings/0"
+ },
+ {
+  "id": "2699",
+  "text": "Loading effect plug-ins",
+  "path": "/Internal/sSplashStrings/1"
+ },
+ {
+  "id": "2700",
+  "text": "Loading file plug-ins",
+  "path": "/Internal/sSplashStrings/2"
+ },
+ {
+  "id": "2701",
+  "text": "Creating toolbar icons",
+  "path": "/Internal/sSplashStrings/3"
+ },
+ {
+  "id": "2702",
+  "text": "Creating tool bars",
+  "path": "/Internal/sSplashStrings/4"
+ },
+ {
+  "id": "2703",
+  "text": "Creating control window and visuals",
+  "path": "/Internal/sSplashStrings/5"
+ },
+ {
+  "id": "2704",
+  "text": "Creating plug-in options",
+  "path": "/Internal/sSplashStrings/6"
+ },
+ {
+  "id": "2705",
+  "text": "Creating open file filter",
+  "path": "/Internal/sSplashStrings/7"
+ },
+ {
+  "id": "2706",
+  "text": "Loading keyboard settings",
+  "path": "/Internal/sSplashStrings/8"
+ },
+ {
+  "id": "2707",
+  "text": "Done",
+  "path": "/Internal/sSplashStrings/9"
+ },
+ {
+  "id": "2708",
+  "text": "Peak amplitude:",
+  "path": "/Internal/sAmplitudeStatistics/0"
+ },
+ {
+  "id": "2709",
+  "text": "Peak amplitude value:",
+  "path": "/Internal/sAmplitudeStatistics/1"
+ },
+ {
+  "id": "2710",
+  "text": "DC offset:",
+  "path": "/Internal/sAmplitudeStatistics/2"
+ },
+ {
+  "id": "2711",
+  "text": "Possibly clipped:",
+  "path": "/Internal/sAmplitudeStatistics/3"
+ },
+ {
+  "id": "2712",
+  "text": "Peak to loudness ratio:",
+  "path": "/Internal/sAmplitudeStatistics/6"
+ },
+ {
+  "id": "2713",
+  "text": "Could not create the file.  It may be opened in another program, marked Read Only, or has an invalid file name or folder name.",
+  "path": "/Internal/sException/1"
+ },
+ {
+  "id": "2714",
+  "text": "Could not open the file.  The file cannot be accessed or its format is not supported.",
+  "path": "/Internal/sException/2"
+ },
+ {
+  "id": "2715",
+  "text": "Could not read audio data.",
+  "path": "/Internal/sException/3"
+ },
+ {
+  "id": "2716",
+  "text": "Could not write to the file.  Not enough storage space is available or the drive/device is not ready.",
+  "path": "/Internal/sException/4"
+ },
+ {
+  "id": "2717",
+  "text": "Could not seek to a position within the file.",
+  "path": "/Internal/sException/5"
+ },
+ {
+  "id": "2718",
+  "text": "Could not close file.",
+  "path": "/Internal/sException/6"
+ },
+ {
+  "id": "2719",
+  "text": "Not enough memory is available for processing.  Try using the \"hard drive\" storage option.",
+  "path": "/Internal/sException/7"
+ }
+]

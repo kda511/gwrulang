@@ -1,0 +1,402 @@
+[
+ {
+  "id": "480",
+  "text": "Exchange",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartMemoryHow/Items.Strings/2"
+ },
+ {
+  "id": "481",
+  "text": " Finish marker position ",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Finish/Caption"
+ },
+ {
+  "id": "482",
+  "text": "After finish marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Finish/FinishWhere/Items.Strings/4"
+ },
+ {
+  "id": "483",
+  "text": "Quick settings:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSettingsPrompt/Caption"
+ },
+ {
+  "id": "484",
+  "text": "Select all",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/0"
+ },
+ {
+  "id": "485",
+  "text": "Select 1 second at beginning",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/1"
+ },
+ {
+  "id": "486",
+  "text": "Select 1 second at end",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/2"
+ },
+ {
+  "id": "487",
+  "text": "Select 5 seconds at beginning",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/3"
+ },
+ {
+  "id": "488",
+  "text": "Select 5 seconds at end",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/4"
+ },
+ {
+  "id": "489",
+  "text": "Select 30 seconds at start",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/5"
+ },
+ {
+  "id": "490",
+  "text": "Select 30 seconds at end",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/6"
+ },
+ {
+  "id": "491",
+  "text": "Select 30 seconds at middle",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/7"
+ },
+ {
+  "id": "492",
+  "text": "Set start to middle",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/8"
+ },
+ {
+  "id": "493",
+  "text": "Set start to end",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/9"
+ },
+ {
+  "id": "494",
+  "text": "Expand selection by 1 second",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/10"
+ },
+ {
+  "id": "495",
+  "text": "Contract selection by 2 second",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/11"
+ },
+ {
+  "id": "496",
+  "text": "Select between cues named \"Start\" and \"Finish\"",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/QuickSelect/Items.Strings/12"
+ },
+ {
+  "id": "497",
+  "text": "Snap to zero crossing (for time and percent only)",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Snap/Caption"
+ },
+ {
+  "id": "498",
+  "text": "Silence",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Silence/Caption"
+ },
+ {
+  "id": "499",
+  "text": "Location:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Silence/LocationLabel/Caption"
+ },
+ {
+  "id": "500",
+  "text": "Start { marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Silence/SilenceLocation/Text"
+ },
+ {
+  "id": "501",
+  "text": "Finish } marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Silence/SilenceLocation/Items.Strings/1"
+ },
+ {
+  "id": "502",
+  "text": "Beginning of file",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Silence/SilenceLocation/Items.Strings/2"
+ },
+ {
+  "id": "503",
+  "text": "End of file",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Silence/SilenceLocation/Items.Strings/3"
+ },
+ {
+  "id": "504",
+  "text": "Mix",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Mix/Caption"
+ },
+ {
+  "id": "505",
+  "text": "Mix volume (dB):",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Mix/MixVolume/Caption"
+ },
+ {
+  "id": "506",
+  "text": "Trim Silence",
+  "path": "/Forms/AddEditForm/Settings/PageControl/TrimSilence/Caption"
+ },
+ {
+  "id": "507",
+  "text": " Trim ",
+  "path": "/Forms/AddEditForm/Settings/PageControl/TrimSilence/TrimMode/Caption"
+ },
+ {
+  "id": "508",
+  "text": "Leading silence",
+  "path": "/Forms/AddEditForm/Settings/PageControl/TrimSilence/TrimMode/Items.Strings/0"
+ },
+ {
+  "id": "509",
+  "text": "Trailing silence",
+  "path": "/Forms/AddEditForm/Settings/PageControl/TrimSilence/TrimMode/Items.Strings/1"
+ },
+ {
+  "id": "510",
+  "text": "Both",
+  "path": "/Forms/AddEditForm/Settings/PageControl/TrimSilence/TrimMode/Items.Strings/2"
+ },
+ {
+  "id": "511",
+  "text": "Silence to keep (s):",
+  "path": "/Forms/AddEditForm/Settings/PageControl/TrimSilence/Length/Caption"
+ },
+ {
+  "id": "512",
+  "text": "Other",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Other/Caption"
+ },
+ {
+  "id": "513",
+  "text": "This command has no settings.",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Other/OtherNone/Caption"
+ },
+ {
+  "id": "514",
+  "text": "Copy",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Copy/Caption"
+ },
+ {
+  "id": "515",
+  "text": "Browse...",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Copy/CopyBrowse/Caption"
+ },
+ {
+  "id": "516",
+  "text": "Copy from the following file:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Copy/CopyFromFile/Caption"
+ },
+ {
+  "id": "517",
+  "text": "Copy selection",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Copy/CopySelection/Caption"
+ },
+ {
+  "id": "518",
+  "text": "Comment",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Comment/Caption"
+ },
+ {
+  "id": "519",
+  "text": "Comment:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Comment/LComment/Caption"
+ },
+ {
+  "id": "520",
+  "text": "A comment has no function other than to add some descriptive text to the Process list.",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Comment/LCommentInfo/Caption"
+ },
+ {
+  "id": "521",
+  "text": "Crossfade",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Crossfade/Caption"
+ },
+ {
+  "id": "522",
+  "text": "Playback Rate",
+  "path": "/Forms/AddEditForm/Settings/PageControl/PlaybackRate/Caption"
+ },
+ {
+  "id": "523",
+  "text": "Rate (Hz):",
+  "path": "/Forms/AddEditForm/Settings/PageControl/PlaybackRate/PlaybackRateLabel/Caption"
+ },
+ {
+  "id": "524",
+  "text": "Blend At Marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/BlendAtMarker/Caption"
+ },
+ {
+  "id": "525",
+  "text": "Edit command:",
+  "path": "/Forms/AddEditForm/EditCommandLabel/Caption"
+ },
+ {
+  "id": "526",
+  "text": "Copy File",
+  "path": "/Forms/AddEditForm/OpenDialog/Title"
+ },
+ {
+  "id": "527",
+  "text": "Add Effect",
+  "path": "/Forms/AddEffectForm/Caption"
+ },
+ {
+  "id": "528",
+  "text": "Select an effect preset, then use the Add button",
+  "path": "/Forms/AddEffectForm/SelectLabel/Caption"
+ },
+ {
+  "id": "529",
+  "text": "Add Logic",
+  "path": "/Forms/AddLogicForm/Caption"
+ },
+ {
+  "id": "530",
+  "text": "If value of",
+  "path": "/Forms/AddLogicForm/Conditional/Text"
+ },
+ {
+  "id": "531",
+  "text": "Label",
+  "path": "/Forms/AddLogicForm/Conditional/Items.Strings/1"
+ },
+ {
+  "id": "532",
+  "text": "cancel processing this file",
+  "path": "/Forms/AddLogicForm/Command/Text"
+ },
+ {
+  "id": "533",
+  "text": "goto",
+  "path": "/Forms/AddLogicForm/Command/Items.Strings/0"
+ },
+ {
+  "id": "534",
+  "text": "error",
+  "path": "/Forms/AddLogicForm/Command/Items.Strings/1"
+ },
+ {
+  "id": "535",
+  "text": "terminate all processing",
+  "path": "/Forms/AddLogicForm/Command/Items.Strings/3"
+ },
+ {
+  "id": "536",
+  "text": "file length",
+  "path": "/Forms/AddLogicForm/A/Text"
+ },
+ {
+  "id": "537",
+  "text": "channels",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/0"
+ },
+ {
+  "id": "538",
+  "text": "sampling rate",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/1"
+ },
+ {
+  "id": "539",
+  "text": "start marker",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/2"
+ },
+ {
+  "id": "540",
+  "text": "finish marker",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/3"
+ },
+ {
+  "id": "541",
+  "text": "selection length",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/4"
+ },
+ {
+  "id": "542",
+  "text": "clipboard length",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/6"
+ },
+ {
+  "id": "543",
+  "text": "file number",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/7"
+ },
+ {
+  "id": "544",
+  "text": "file count",
+  "path": "/Forms/AddLogicForm/A/Items.Strings/8"
+ },
+ {
+  "id": "545",
+  "text": "is equal to",
+  "path": "/Forms/AddLogicForm/Operator/Text"
+ },
+ {
+  "id": "546",
+  "text": "is greater than",
+  "path": "/Forms/AddLogicForm/Operator/Items.Strings/1"
+ },
+ {
+  "id": "547",
+  "text": "is less than",
+  "path": "/Forms/AddLogicForm/Operator/Items.Strings/2"
+ },
+ {
+  "id": "548",
+  "text": "parameter",
+  "path": "/Forms/AddLogicForm/B/Text"
+ },
+ {
+  "id": "549",
+  "text": "goto label or message",
+  "path": "/Forms/AddLogicForm/Label/TextHint"
+ },
+ {
+  "id": "550",
+  "text": "Parameter",
+  "path": "/Forms/AddLogicForm/Parameter/Label"
+ },
+ {
+  "id": "551",
+  "text": "number or time",
+  "path": "/Forms/AddLogicForm/Parameter/TextHint"
+ },
+ {
+  "id": "552",
+  "text": "Amplitude Statistics",
+  "path": "/Forms/AmplitudeStatisticsForm/Caption"
+ },
+ {
+  "id": "553",
+  "text": "Left",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/2/Caption"
+ },
+ {
+  "id": "554",
+  "text": "Right",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/3/Caption"
+ },
+ {
+  "id": "555",
+  "text": "Center",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/4/Caption"
+ },
+ {
+  "id": "556",
+  "text": "LFE",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/5/Caption"
+ },
+ {
+  "id": "557",
+  "text": "Side Left",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/6/Caption"
+ },
+ {
+  "id": "558",
+  "text": "Side Right",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/7/Caption"
+ },
+ {
+  "id": "559",
+  "text": "Back Left",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/8/Caption"
+ }
+]

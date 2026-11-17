@@ -1,0 +1,402 @@
+[
+ {
+  "id": "400",
+  "text": "Length (L):",
+  "path": "/Forms/SmootherForm/Length/Caption"
+ },
+ {
+  "id": "401",
+  "text": "Spectrum Filter",
+  "path": "/Forms/SpectrumFilterForm/Caption"
+ },
+ {
+  "id": "402",
+  "text": "Master &gain (dB):",
+  "path": "/Forms/SpectrumFilterForm/Gain/Caption"
+ },
+ {
+  "id": "403",
+  "text": "Mode",
+  "path": "/Forms/SpectrumFilterForm/Mode/Caption"
+ },
+ {
+  "id": "404",
+  "text": "Dynamic",
+  "path": "/Forms/SpectrumFilterForm/Mode/Items.Strings/1"
+ },
+ {
+  "id": "405",
+  "text": " Graph Range ",
+  "path": "/Forms/SpectrumFilterForm/RangeBox/Caption"
+ },
+ {
+  "id": "406",
+  "text": "Max",
+  "path": "/Forms/SpectrumFilterForm/RangeBox/Max/Label"
+ },
+ {
+  "id": "407",
+  "text": "Min:",
+  "path": "/Forms/SpectrumFilterForm/RangeBox/MinLabel/Caption"
+ },
+ {
+  "id": "408",
+  "text": "Max:",
+  "path": "/Forms/SpectrumFilterForm/RangeBox/MaxLabel/Caption"
+ },
+ {
+  "id": "409",
+  "text": "Min",
+  "path": "/Forms/SpectrumFilterForm/RangeBox/Min/Label"
+ },
+ {
+  "id": "410",
+  "text": " FFT Settings ",
+  "path": "/Forms/SpectrumFilterForm/SettingsGroup/Caption"
+ },
+ {
+  "id": "411",
+  "text": "&Time:",
+  "path": "/Forms/SpectrumFilterForm/PointPanel/TimeLabel/Caption"
+ },
+ {
+  "id": "412",
+  "text": "Next keyframe",
+  "path": "/Forms/SpectrumFilterForm/KeyFramePanel/KeyFrameSlot/KeyFrameNext/Hint"
+ },
+ {
+  "id": "413",
+  "text": "Previous keyframe",
+  "path": "/Forms/SpectrumFilterForm/KeyFramePanel/KeyFrameSlot/KeyframePrevious/Hint"
+ },
+ {
+  "id": "414",
+  "text": "Remove the current keyframe",
+  "path": "/Forms/SpectrumFilterForm/KeyFramePanel/Panel1/KeyFrameRemove/Hint"
+ },
+ {
+  "id": "415",
+  "text": "Remove Keyframe",
+  "path": "/Forms/SpectrumFilterForm/KeyFramePanel/Panel1/KeyFrameRemove/Caption"
+ },
+ {
+  "id": "416",
+  "text": "Keyframe:",
+  "path": "/Forms/SpectrumFilterForm/KeyFramePanel/Panel1/LabelKeyFrame/Caption"
+ },
+ {
+  "id": "417",
+  "text": "Keyframe time:",
+  "path": "/Forms/SpectrumFilterForm/KeyFramePanel/Panel1/LabelKeyFrameTime/Caption"
+ },
+ {
+  "id": "418",
+  "text": "Stereo Center",
+  "path": "/Forms/StereoCenterForm/Caption"
+ },
+ {
+  "id": "419",
+  "text": "Side channels",
+  "path": "/Forms/StereoCenterForm/SideGroup/Caption"
+ },
+ {
+  "id": "420",
+  "text": "Right (dB):",
+  "path": "/Forms/StereoCenterForm/SideGroup/RightVolume/Caption"
+ },
+ {
+  "id": "421",
+  "text": "Left (dB):",
+  "path": "/Forms/StereoCenterForm/SideGroup/LeftVolume/Caption"
+ },
+ {
+  "id": "422",
+  "text": " Center channel",
+  "path": "/Forms/StereoCenterForm/CenterGroup/Caption"
+ },
+ {
+  "id": "423",
+  "text": " Specify new relative change, length, or tempo",
+  "path": "/Forms/TimeForm/SpeedGroup/Caption"
+ },
+ {
+  "id": "424",
+  "text": "Change (%):",
+  "path": "/Forms/TimeForm/SpeedGroup/BySpeed/Caption"
+ },
+ {
+  "id": "425",
+  "text": "Length (s):",
+  "path": "/Forms/TimeForm/SpeedGroup/ByLength/Caption"
+ },
+ {
+  "id": "426",
+  "text": "Change",
+  "path": "/Forms/TimeForm/SpeedGroup/Speed/Label"
+ },
+ {
+  "id": "427",
+  "text": "Length",
+  "path": "/Forms/TimeForm/SpeedGroup/Time/Label"
+ },
+ {
+  "id": "428",
+  "text": "Tempo (BPM):",
+  "path": "/Forms/TimeForm/SpeedGroup/ByTempo/Caption"
+ },
+ {
+  "id": "429",
+  "text": "From:",
+  "path": "/Forms/TimeForm/SpeedGroup/TempoFrom/Caption"
+ },
+ {
+  "id": "430",
+  "text": "To:",
+  "path": "/Forms/TimeForm/SpeedGroup/TempoTo/Caption"
+ },
+ {
+  "id": "431",
+  "text": " Algorithm ",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Caption"
+ },
+ {
+  "id": "432",
+  "text": "Rate",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Rate/Caption"
+ },
+ {
+  "id": "433",
+  "text": "Changes the sampling rate.  Pitch is changed.  Gives best quality.  Processing is fast.",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Rate/RateDescription/Caption"
+ },
+ {
+  "id": "434",
+  "text": "Similarity",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Similarity/Caption"
+ },
+ {
+  "id": "435",
+  "text": "Overlaps or replicates small similar sections of audio to change the length.  Pitch does not change.  Gives good quality for voice and simple sounds.  Processing is slower.  ",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Similarity/SimilarityDescription/Caption"
+ },
+ {
+  "id": "436",
+  "text": "Window size (ms):",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Similarity/SimilarityWindow/Caption"
+ },
+ {
+  "id": "437",
+  "text": "Search range (ms):",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Similarity/SimilarityRange/Caption"
+ },
+ {
+  "id": "438",
+  "text": "Overlap (%):",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/Similarity/SimilarityOverlap/Caption"
+ },
+ {
+  "id": "439",
+  "text": "FFT",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/FFT/Caption"
+ },
+ {
+  "id": "440",
+  "text": "Applies a frequency transform and interpolation to change the length.  Pitch does not change.  Gives good quality for music.  Processing is slowest when using oscillator synthesis.",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/FFT/FFTDescription/Caption"
+ },
+ {
+  "id": "441",
+  "text": "Oscillator synthesis",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/FFT/Synthesis/Caption"
+ },
+ {
+  "id": "442",
+  "text": "Advanced STN modeling",
+  "path": "/Forms/TimeForm/AlgorithmGroup/Algorithm/FFT/STN/Caption"
+ },
+ {
+  "id": "443",
+  "text": "Voice Over",
+  "path": "/Forms/VoiceOver/Caption"
+ },
+ {
+  "id": "444",
+  "text": "Silence allowed (s):",
+  "path": "/Forms/VoiceOver/Duration/Caption"
+ },
+ {
+  "id": "445",
+  "text": "Voice volume (dB):",
+  "path": "/Forms/VoiceOver/VoiceVolume/Caption"
+ },
+ {
+  "id": "446",
+  "text": "Fade volume (dB):",
+  "path": "/Forms/VoiceOver/FadeVolume/Caption"
+ },
+ {
+  "id": "447",
+  "text": "Fade in time (s):",
+  "path": "/Forms/VoiceOver/FadeIn/Caption"
+ },
+ {
+  "id": "448",
+  "text": "Fade out time (s):",
+  "path": "/Forms/VoiceOver/FadeOut/Caption"
+ },
+ {
+  "id": "449",
+  "text": "Change Volume",
+  "path": "/Forms/VolumeForm/Caption"
+ },
+ {
+  "id": "450",
+  "text": "Reduce average level to avoid clipping",
+  "path": "/Forms/VolumeMatchForm/Clipping/Items.Strings/1"
+ },
+ {
+  "id": "451",
+  "text": "Average (dB):",
+  "path": "/Forms/VolumeMatchForm/VolumeFrame/Caption"
+ },
+ {
+  "id": "452",
+  "text": "Average",
+  "path": "/Forms/VolumeMatchForm/List/Columns/1/Caption"
+ },
+ {
+  "id": "453",
+  "text": "Volume Shape",
+  "path": "/Forms/VolumeShapeForm/Caption"
+ },
+ {
+  "id": "454",
+  "text": "Show envelope",
+  "path": "/Forms/VolumeShapeForm/Waveform/Caption"
+ },
+ {
+  "id": "455",
+  "text": "About GoldWave",
+  "path": "/Forms/AboutBox/Caption"
+ },
+ {
+  "id": "456",
+  "text": "OK",
+  "path": "/Forms/AboutBox/OKButton/Caption"
+ },
+ {
+  "id": "457",
+  "text": "Register",
+  "path": "/Forms/AboutBox/Register/Caption"
+ },
+ {
+  "id": "458",
+  "text": "Automatically check for updates",
+  "path": "/Forms/AboutBox/Panel/CheckUpdates/Caption"
+ },
+ {
+  "id": "459",
+  "text": "goldwave.ca",
+  "path": "/Forms/AboutBox/Panel/Mirror/Caption"
+ },
+ {
+  "id": "460",
+  "text": "goldwave.com",
+  "path": "/Forms/AboutBox/Panel/Link/Caption"
+ },
+ {
+  "id": "461",
+  "text": "This software is not free.  Please buy a license soon.",
+  "path": "/Forms/AboutBox/Panel/Status/Caption"
+ },
+ {
+  "id": "462",
+  "text": "GoldWave v",
+  "path": "/Forms/AboutBox/Panel/Program/Caption"
+ },
+ {
+  "id": "463",
+  "text": "o",
+  "path": "/Forms/AboutBox/Panel/Distribution/Caption"
+ },
+ {
+  "id": "464",
+  "text": "Add Edit",
+  "path": "/Forms/AddEditForm/Caption"
+ },
+ {
+  "id": "465",
+  "text": "Close",
+  "path": "/Forms/AddEditForm/ButtonCancel/Caption"
+ },
+ {
+  "id": "466",
+  "text": " Start marker position ",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/Caption"
+ },
+ {
+  "id": "467",
+  "text": "Where:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartWhereLabel/Caption"
+ },
+ {
+  "id": "468",
+  "text": "Percent",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartPercentEdit/Label"
+ },
+ {
+  "id": "469",
+  "text": "Percent:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartPercent/Caption"
+ },
+ {
+  "id": "470",
+  "text": "After beginning",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartWhere/Text"
+ },
+ {
+  "id": "471",
+  "text": "Before finish marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartWhere/Items.Strings/1"
+ },
+ {
+  "id": "472",
+  "text": "Before end",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartWhere/Items.Strings/2"
+ },
+ {
+  "id": "473",
+  "text": "Before start marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartWhere/Items.Strings/3"
+ },
+ {
+  "id": "474",
+  "text": "After start marker",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartWhere/Items.Strings/4"
+ },
+ {
+  "id": "475",
+  "text": "Cue:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartCue/Caption"
+ },
+ {
+  "id": "476",
+  "text": "Start",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartCueName/Text"
+ },
+ {
+  "id": "477",
+  "text": "Memory:",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartMemory/Caption"
+ },
+ {
+  "id": "478",
+  "text": "Store",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartMemoryHow/Text"
+ },
+ {
+  "id": "479",
+  "text": "Recall",
+  "path": "/Forms/AddEditForm/Settings/PageControl/Selection/Start/StartMemoryHow/Items.Strings/1"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3200",
+  "text": "Echoes and bass boosted",
+  "path": "/Preset/Echoes and bass boosted"
+ },
+ {
+  "id": "3201",
+  "text": "Black and gray",
+  "path": "/Preset/Black and gray"
+ },
+ {
+  "id": "3202",
+  "text": "Black and white",
+  "path": "/Preset/Black and white"
+ },
+ {
+  "id": "3203",
+  "text": "Green",
+  "path": "/Preset/Green"
+ },
+ {
+  "id": "3204",
+  "text": "Light background",
+  "path": "/Preset/Light background"
+ },
+ {
+  "id": "3205",
+  "text": "Pale blue and dark blue",
+  "path": "/Preset/Pale blue and dark blue"
+ },
+ {
+  "id": "3206",
+  "text": "Red",
+  "path": "/Preset/Red"
+ },
+ {
+  "id": "3207",
+  "text": "White and black",
+  "path": "/Preset/White and black"
+ },
+ {
+  "id": "3208",
+  "text": "White and gray",
+  "path": "/Preset/White and gray"
+ },
+ {
+  "id": "3209",
+  "text": "Classic green and red stereo",
+  "path": "/Preset/Classic green and red stereo"
+ },
+ {
+  "id": "3210",
+  "text": "Dark",
+  "path": "/Preset/Dark"
+ },
+ {
+  "id": "3211",
+  "text": "Green and black",
+  "path": "/Preset/Green and black"
+ },
+ {
+  "id": "3212",
+  "text": "Overlapped classic green and red stereo",
+  "path": "/Preset/Overlapped classic green and red stereo"
+ },
+ {
+  "id": "3213",
+  "text": "Overlapped standard",
+  "path": "/Preset/Overlapped standard"
+ },
+ {
+  "id": "3214",
+  "text": "AM Radio, mono, 5 minutes",
+  "path": "/Preset/AM Radio, mono, 5 minutes"
+ },
+ {
+  "id": "3215",
+  "text": "CD Quality, 5 minutes",
+  "path": "/Preset/CD Quality, 5 minutes"
+ },
+ {
+  "id": "3216",
+  "text": "CD Quality, 80 minutes",
+  "path": "/Preset/CD Quality, 80 minutes"
+ },
+ {
+  "id": "3217",
+  "text": "DAT Quality, 30 minutes",
+  "path": "/Preset/DAT Quality, 30 minutes"
+ },
+ {
+  "id": "3218",
+  "text": "DVD Quality, 5 minutes",
+  "path": "/Preset/DVD Quality, 5 minutes"
+ },
+ {
+  "id": "3219",
+  "text": "FM Radio/TV, stereo, 5 minutes",
+  "path": "/Preset/FM Radio/TV, stereo, 5 minutes"
+ },
+ {
+  "id": "3220",
+  "text": "Telephone quality, mono, 1 minute",
+  "path": "/Preset/Telephone quality, mono, 1 minute"
+ },
+ {
+  "id": "3221",
+  "text": "Vinyl LP record to CD, one side",
+  "path": "/Preset/Vinyl LP record to CD, one side"
+ },
+ {
+  "id": "3222",
+  "text": "Voice quality, mono, 30 seconds",
+  "path": "/Preset/Voice quality, mono, 30 seconds"
+ },
+ {
+  "id": "3223",
+  "text": "Surround Sound 3.1 , 5 minutes",
+  "path": "/Preset/Surround Sound 3.1 , 5 minutes"
+ },
+ {
+  "id": "3224",
+  "text": "Surround Sound 5.1, 5 minutes",
+  "path": "/Preset/Surround Sound 5.1, 5 minutes"
+ },
+ {
+  "id": "3225",
+  "text": "Surround Sound 7.1, 5 minutes",
+  "path": "/Preset/Surround Sound 7.1, 5 minutes"
+ },
+ {
+  "id": "3226",
+  "text": "Dial tones",
+  "path": "/Preset/Dial tones"
+ },
+ {
+  "id": "3227",
+  "text": "Dial tone",
+  "path": "/Preset/Dial tone"
+ },
+ {
+  "id": "3228",
+  "text": "Busy",
+  "path": "/Preset/Busy"
+ },
+ {
+  "id": "3229",
+  "text": "Intercept",
+  "path": "/Preset/Intercept"
+ },
+ {
+  "id": "3230",
+  "text": "Vacant",
+  "path": "/Preset/Vacant"
+ },
+ {
+  "id": "3231",
+  "text": "Effects",
+  "path": "/Preset/Effects"
+ },
+ {
+  "id": "3232",
+  "text": "Amplitude modulation",
+  "path": "/Preset/Amplitude modulation"
+ },
+ {
+  "id": "3233",
+  "text": "Bender",
+  "path": "/Preset/Bender"
+ },
+ {
+  "id": "3234",
+  "text": "Echoes, x = delay, y = volume",
+  "path": "/Preset/Echoes, x = delay, y = volume"
+ },
+ {
+  "id": "3235",
+  "text": "Envelope detector",
+  "path": "/Preset/Envelope detector"
+ },
+ {
+  "id": "3236",
+  "text": "Extreme slow vibrato",
+  "path": "/Preset/Extreme slow vibrato"
+ },
+ {
+  "id": "3237",
+  "text": "Frequency modulation",
+  "path": "/Preset/Frequency modulation"
+ },
+ {
+  "id": "3238",
+  "text": "Tremolo",
+  "path": "/Preset/Tremolo"
+ },
+ {
+  "id": "3239",
+  "text": "Unsigned to signed",
+  "path": "/Preset/Unsigned to signed"
+ },
+ {
+  "id": "3240",
+  "text": "Stutter, x=duration, y = fade",
+  "path": "/Preset/Stutter, x=duration, y = fade"
+ },
+ {
+  "id": "3241",
+  "text": "Harmonics",
+  "path": "/Preset/Harmonics"
+ },
+ {
+  "id": "3242",
+  "text": "Chord 1",
+  "path": "/Preset/Chord 1"
+ },
+ {
+  "id": "3243",
+  "text": "Chord 2",
+  "path": "/Preset/Chord 2"
+ },
+ {
+  "id": "3244",
+  "text": "Even and equal",
+  "path": "/Preset/Even and equal"
+ },
+ {
+  "id": "3245",
+  "text": "Odd and equal",
+  "path": "/Preset/Odd and equal"
+ },
+ {
+  "id": "3246",
+  "text": "Music",
+  "path": "/Preset/Music"
+ },
+ {
+  "id": "3247",
+  "text": "Twinkle on xylophone",
+  "path": "/Preset/Twinkle on xylophone"
+ },
+ {
+  "id": "3248",
+  "text": "Piano scale, x = notes per second, f = starting key",
+  "path": "/Preset/Piano scale, x = notes per second, f = starting key"
+ },
+ {
+  "id": "3249",
+  "text": "Middle C",
+  "path": "/Preset/Middle C"
+ },
+ {
+  "id": "3250",
+  "text": "A440",
+  "path": "/Preset/A440"
+ },
+ {
+  "id": "3251",
+  "text": "Noise",
+  "path": "/Preset/Noise"
+ },
+ {
+  "id": "3252",
+  "text": "Add hiss to wave",
+  "path": "/Preset/Add hiss to wave"
+ },
+ {
+  "id": "3253",
+  "text": "Brown",
+  "path": "/Preset/Brown"
+ },
+ {
+  "id": "3254",
+  "text": "Brown (softer)",
+  "path": "/Preset/Brown (softer)"
+ },
+ {
+  "id": "3255",
+  "text": "Fuzzy sound",
+  "path": "/Preset/Fuzzy sound"
+ },
+ {
+  "id": "3256",
+  "text": "Jet",
+  "path": "/Preset/Jet"
+ },
+ {
+  "id": "3257",
+  "text": "Vinyl, x and f = pop, y = hiss",
+  "path": "/Preset/Vinyl, x and f = pop, y = hiss"
+ },
+ {
+  "id": "3258",
+  "text": "White",
+  "path": "/Preset/White"
+ },
+ {
+  "id": "3259",
+  "text": "Waves",
+  "path": "/Preset/Waves"
+ },
+ {
+  "id": "3260",
+  "text": "Beam fade",
+  "path": "/Preset/Beam fade"
+ },
+ {
+  "id": "3261",
+  "text": "Chirp from y to f over x sec.",
+  "path": "/Preset/Chirp from y to f over x sec."
+ },
+ {
+  "id": "3262",
+  "text": "Chirping bird",
+  "path": "/Preset/Chirping bird"
+ },
+ {
+  "id": "3263",
+  "text": "Deep presence",
+  "path": "/Preset/Deep presence"
+ },
+ {
+  "id": "3264",
+  "text": "Freq. mod. 10 at 8%",
+  "path": "/Preset/Freq. mod. 10 at 8%"
+ },
+ {
+  "id": "3265",
+  "text": "Freq. mod. 2 at 2%",
+  "path": "/Preset/Freq. mod. 2 at 2%"
+ },
+ {
+  "id": "3266",
+  "text": "Freq. mod. 2 at 6% double",
+  "path": "/Preset/Freq. mod. 2 at 6% double"
+ },
+ {
+  "id": "3267",
+  "text": "Freq. mod. xHz at y%",
+  "path": "/Preset/Freq. mod. xHz at y%"
+ },
+ {
+  "id": "3268",
+  "text": "Metronome, f = Hz",
+  "path": "/Preset/Metronome, f = Hz"
+ },
+ {
+  "id": "3269",
+  "text": "One second tick",
+  "path": "/Preset/One second tick"
+ },
+ {
+  "id": "3270",
+  "text": "Overload",
+  "path": "/Preset/Overload"
+ },
+ {
+  "id": "3271",
+  "text": "Ping, hard",
+  "path": "/Preset/Ping, hard"
+ },
+ {
+  "id": "3272",
+  "text": "Ping, periodic, 10s",
+  "path": "/Preset/Ping, periodic, 10s"
+ },
+ {
+  "id": "3273",
+  "text": "Ping, soft",
+  "path": "/Preset/Ping, soft"
+ },
+ {
+  "id": "3274",
+  "text": "Pulse (x = width%)",
+  "path": "/Preset/Pulse (x = width%)"
+ },
+ {
+  "id": "3275",
+  "text": "Sawtooth, f = Hz",
+  "path": "/Preset/Sawtooth, f = Hz"
+ },
+ {
+  "id": "3276",
+  "text": "Sine, f = Hz",
+  "path": "/Preset/Sine, f = Hz"
+ },
+ {
+  "id": "3277",
+  "text": "Slow harmonic beat",
+  "path": "/Preset/Slow harmonic beat"
+ },
+ {
+  "id": "3278",
+  "text": "Sonar",
+  "path": "/Preset/Sonar"
+ },
+ {
+  "id": "3279",
+  "text": "Sonar2",
+  "path": "/Preset/Sonar2"
+ }
+]

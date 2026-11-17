@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1280",
+  "text": "Stop|Stops speaking or writing",
+  "path": "/Forms/SpeechForm/ActionManager/Halt/Hint"
+ },
+ {
+  "id": "1281",
+  "text": "Voice Settings...",
+  "path": "/Forms/SpeechForm/ActionManager/VoiceSettings/Caption"
+ },
+ {
+  "id": "1282",
+  "text": "Voice Settings|Changes the voice, pitch, speed, and volume",
+  "path": "/Forms/SpeechForm/ActionManager/VoiceSettings/Hint"
+ },
+ {
+  "id": "1283",
+  "text": "Speak To File...",
+  "path": "/Forms/SpeechForm/ActionManager/SpeakToFile/Caption"
+ },
+ {
+  "id": "1284",
+  "text": "Speak To File|Uses voice synthesis to read the text to an audio file",
+  "path": "/Forms/SpeechForm/ActionManager/SpeakToFile/Hint"
+ },
+ {
+  "id": "1285",
+  "text": "Save Text As...",
+  "path": "/Forms/SpeechForm/ActionManager/FileTextSaveAs/Caption"
+ },
+ {
+  "id": "1286",
+  "text": "Save Text As|Saves the text to a file",
+  "path": "/Forms/SpeechForm/ActionManager/FileTextSaveAs/Hint"
+ },
+ {
+  "id": "1287",
+  "text": "Audio Editing For ## Years!",
+  "path": "/Forms/SplashForm/Years/Caption"
+ },
+ {
+  "id": "1288",
+  "text": "Split File",
+  "path": "/Forms/SplitFileForm/Caption"
+ },
+ {
+  "id": "1289",
+  "text": " File format ",
+  "path": "/Forms/SplitFileForm/Format/Caption"
+ },
+ {
+  "id": "1290",
+  "text": "Use &CD compatible wave format and alignment",
+  "path": "/Forms/SplitFileForm/Format/Items.Strings/0"
+ },
+ {
+  "id": "1291",
+  "text": "Use &default save format and attributes",
+  "path": "/Forms/SplitFileForm/Format/Items.Strings/1"
+ },
+ {
+  "id": "1292",
+  "text": "Use &file's current format and attributes",
+  "path": "/Forms/SplitFileForm/Format/Items.Strings/2"
+ },
+ {
+  "id": "1293",
+  "text": " Split filenames ",
+  "path": "/Forms/SplitFileForm/NamingBox/Caption"
+ },
+ {
+  "id": "1294",
+  "text": "First number",
+  "path": "/Forms/SplitFileForm/NamingBox/Number/Label"
+ },
+ {
+  "id": "1295",
+  "text": "First number:",
+  "path": "/Forms/SplitFileForm/NamingBox/BaseNumberLabel/Caption"
+ },
+ {
+  "id": "1296",
+  "text": "Filename template:",
+  "path": "/Forms/SplitFileForm/NamingBox/TemplateLabel/Caption"
+ },
+ {
+  "id": "1297",
+  "text": "Filename preview:",
+  "path": "/Forms/SplitFileForm/NamingBox/PreviewLabel/Caption"
+ },
+ {
+  "id": "1298",
+  "text": "Skip audio at beginning without cue point",
+  "path": "/Forms/SplitFileForm/NamingBox/SkipBeginning/Caption"
+ },
+ {
+  "id": "1299",
+  "text": " Destination folder ",
+  "path": "/Forms/SplitFileForm/DestinationGroup/Caption"
+ },
+ {
+  "id": "1300",
+  "text": "Use file's current folder",
+  "path": "/Forms/SplitFileForm/DestinationGroup/FolderCurrent/Caption"
+ },
+ {
+  "id": "1301",
+  "text": "Use this folder:",
+  "path": "/Forms/SplitFileForm/DestinationGroup/FolderCustom/Caption"
+ },
+ {
+  "id": "1302",
+  "text": " Information ",
+  "path": "/Forms/SplitFileForm/MetadataBox/Caption"
+ },
+ {
+  "id": "1303",
+  "text": "Original title",
+  "path": "/Forms/SplitFileForm/MetadataBox/SetTitle/Items.Strings/1"
+ },
+ {
+  "id": "1304",
+  "text": "Filename",
+  "path": "/Forms/SplitFileForm/MetadataBox/SetTitle/Items.Strings/2"
+ },
+ {
+  "id": "1305",
+  "text": "Cue name",
+  "path": "/Forms/SplitFileForm/MetadataBox/SetTitle/Items.Strings/3"
+ },
+ {
+  "id": "1306",
+  "text": "Replace track number",
+  "path": "/Forms/SplitFileForm/MetadataBox/SetTrack/Caption"
+ },
+ {
+  "id": "1307",
+  "text": "Discard cue point",
+  "path": "/Forms/SplitFileForm/MetadataBox/DiscardCue/Caption"
+ },
+ {
+  "id": "1308",
+  "text": "Set...",
+  "path": "/Forms/SplitFileForm/SetFormat/Caption"
+ },
+ {
+  "id": "1309",
+  "text": "GoldWave Setup Options",
+  "path": "/Forms/StartupOptionsForm/Caption"
+ },
+ {
+  "id": "1310",
+  "text": "Save all settings and presets to a file",
+  "path": "/Forms/StartupOptionsForm/ButtonOk/Hint"
+ },
+ {
+  "id": "1311",
+  "text": "Backup Settings...",
+  "path": "/Forms/StartupOptionsForm/Backup/Caption"
+ },
+ {
+  "id": "1312",
+  "text": "Restore all settings and presets from a file",
+  "path": "/Forms/StartupOptionsForm/Restore/Hint"
+ },
+ {
+  "id": "1313",
+  "text": "Restore Settings...",
+  "path": "/Forms/StartupOptionsForm/Restore/Caption"
+ },
+ {
+  "id": "1314",
+  "text": "Transfer all settings and presets from GoldWave v5",
+  "path": "/Forms/StartupOptionsForm/Transfer/Hint"
+ },
+ {
+  "id": "1315",
+  "text": "Transfer Settings From v5...",
+  "path": "/Forms/StartupOptionsForm/Transfer/Caption"
+ },
+ {
+  "id": "1316",
+  "text": "GoldWave Settings",
+  "path": "/Forms/StartupOptionsForm/OpenDialog/FileTypes/0/DisplayName"
+ },
+ {
+  "id": "1317",
+  "text": "Restore",
+  "path": "/Forms/StartupOptionsForm/OpenDialog/OkButtonLabel"
+ },
+ {
+  "id": "1318",
+  "text": "Backup",
+  "path": "/Forms/StartupOptionsForm/SaveDialog/OkButtonLabel"
+ },
+ {
+  "id": "1319",
+  "text": "Storage Options",
+  "path": "/Forms/StorageForm/Caption"
+ },
+ {
+  "id": "1320",
+  "text": " Cue points storage ",
+  "path": "/Forms/StorageForm/CuePointsGroup/Caption"
+ },
+ {
+  "id": "1321",
+  "text": "Automatically import and export separate cue file",
+  "path": "/Forms/StorageForm/CuePointsGroup/UseCueFile/Caption"
+ },
+ {
+  "id": "1322",
+  "text": " Temporary storage ",
+  "path": "/Forms/StorageForm/TemporaryStorageBox/Caption"
+ },
+ {
+  "id": "1323",
+  "text": "Undo levels",
+  "path": "/Forms/StorageForm/TemporaryStorageBox/UndoLevels/Label"
+ },
+ {
+  "id": "1324",
+  "text": "Undo levels:",
+  "path": "/Forms/StorageForm/TemporaryStorageBox/UndoLabel/Caption"
+ },
+ {
+  "id": "1325",
+  "text": "Hard drive:",
+  "path": "/Forms/StorageForm/TemporaryStorageBox/UseDisk/Caption"
+ },
+ {
+  "id": "1326",
+  "text": "Memory",
+  "path": "/Forms/StorageForm/TemporaryStorageBox/UseRAM/Caption"
+ },
+ {
+  "id": "1327",
+  "text": "Allow undo after save",
+  "path": "/Forms/StorageForm/TemporaryStorageBox/UndoAfterSave/Caption"
+ },
+ {
+  "id": "1328",
+  "text": " Open sound folder ",
+  "path": "/Forms/StorageForm/OpenFolderBox/Caption"
+ },
+ {
+  "id": "1329",
+  "text": "Clear Recent File List",
+  "path": "/Forms/StorageForm/OpenFolderBox/ClearRecentFileList/Caption"
+ },
+ {
+  "id": "1330",
+  "text": "Always start with this folder:",
+  "path": "/Forms/StorageForm/OpenFolderBox/OpenUseInitial/Caption"
+ },
+ {
+  "id": "1331",
+  "text": "Remember folder used last session",
+  "path": "/Forms/StorageForm/OpenFolderBox/OpenUseLast/Caption"
+ },
+ {
+  "id": "1332",
+  "text": "Use current file's folder (or last folder if no files opened)",
+  "path": "/Forms/StorageForm/OpenFolderBox/OpenUseCurrent/Caption"
+ },
+ {
+  "id": "1333",
+  "text": " Save sound folder ",
+  "path": "/Forms/StorageForm/SaveFolderBox/Caption"
+ },
+ {
+  "id": "1334",
+  "text": "Always use this folder:",
+  "path": "/Forms/StorageForm/SaveFolderBox/SaveUseAlways/Caption"
+ },
+ {
+  "id": "1335",
+  "text": "Use file's current folder or folder last used (for new files)",
+  "path": "/Forms/StorageForm/SaveFolderBox/SaveUseCurrent/Caption"
+ },
+ {
+  "id": "1336",
+  "text": "Theme Options",
+  "path": "/Forms/ThemeForm/Caption"
+ },
+ {
+  "id": "1337",
+  "text": " Icons ",
+  "path": "/Forms/ThemeForm/IconGroup/Caption"
+ },
+ {
+  "id": "1338",
+  "text": "Coloured",
+  "path": "/Forms/ThemeForm/IconGroup/IconStyle/Text"
+ },
+ {
+  "id": "1339",
+  "text": "Monochromatic",
+  "path": "/Forms/ThemeForm/IconGroup/IconStyle/Items.Strings/1"
+ },
+ {
+  "id": "1340",
+  "text": "Hue",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/Hue/Caption"
+ },
+ {
+  "id": "1341",
+  "text": "Saturation",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/Saturation/Caption"
+ },
+ {
+  "id": "1342",
+  "text": "Luminosity",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/Luminosity/Caption"
+ },
+ {
+  "id": "1343",
+  "text": "Apply Colour",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/Apply/Caption"
+ },
+ {
+  "id": "1344",
+  "text": "H:",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/HueLabel/Caption"
+ },
+ {
+  "id": "1345",
+  "text": "S:",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/SaturationLabel/Caption"
+ },
+ {
+  "id": "1346",
+  "text": "L:",
+  "path": "/Forms/ThemeForm/IconGroup/ColourPanel/LuminosityLabel/Caption"
+ },
+ {
+  "id": "1347",
+  "text": "Toolbar Options",
+  "path": "/Forms/ToolBarForm/Caption"
+ },
+ {
+  "id": "1348",
+  "text": "Main",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/Caption"
+ },
+ {
+  "id": "1349",
+  "text": "Available main toolbar buttons:",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainArranger/MainAvailableLabel/Caption"
+ },
+ {
+  "id": "1350",
+  "text": "Current main toolbar buttons:",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainArranger/MainCurrentLabel/Caption"
+ },
+ {
+  "id": "1351",
+  "text": "Available tool bar buttons:",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainArranger/FromBar/Columns/0/Caption"
+ },
+ {
+  "id": "1352",
+  "text": "Current tool bar buttons:",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainArranger/ToBar/Columns/0/Caption"
+ },
+ {
+  "id": "1353",
+  "text": "Large icons and captions",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainConfig/Text"
+ },
+ {
+  "id": "1354",
+  "text": "Large icons only",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainConfig/Items.Strings/1"
+ },
+ {
+  "id": "1355",
+  "text": "No toolbar",
+  "path": "/Forms/ToolBarForm/PageControl/MainTab/MainConfig/Items.Strings/3"
+ },
+ {
+  "id": "1356",
+  "text": "Effect",
+  "path": "/Forms/ToolBarForm/PageControl/EffectPage/Caption"
+ },
+ {
+  "id": "1357",
+  "text": "Available effect toolbar buttons:",
+  "path": "/Forms/ToolBarForm/PageControl/EffectPage/EffectArranger/MainAvailableLabel/Caption"
+ },
+ {
+  "id": "1358",
+  "text": "Current effect toolbar buttons:",
+  "path": "/Forms/ToolBarForm/PageControl/EffectPage/EffectArranger/MainCurrentLabel/Caption"
+ },
+ {
+  "id": "1359",
+  "text": "Large icons",
+  "path": "/Forms/ToolBarForm/PageControl/EffectPage/EffectConfig/Text"
+ }
+]

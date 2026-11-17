@@ -1,0 +1,402 @@
+[
+ {
+  "id": "560",
+  "text": "Back Right",
+  "path": "/Forms/AmplitudeStatisticsForm/List/Columns/9/Caption"
+ },
+ {
+  "id": "561",
+  "text": "Loudness:",
+  "path": "/Forms/AmplitudeStatisticsForm/LoudnessPanel/LoudnessLabel/Caption"
+ },
+ {
+  "id": "562",
+  "text": "Loudness range:",
+  "path": "/Forms/AmplitudeStatisticsForm/LoudnessPanel/RangeLabel/Caption"
+ },
+ {
+  "id": "563",
+  "text": "LU",
+  "path": "/Forms/AmplitudeStatisticsForm/LoudnessPanel/LULabel/Caption"
+ },
+ {
+  "id": "564",
+  "text": "Associate Format",
+  "path": "/Forms/AssociateFormatForm/Caption"
+ },
+ {
+  "id": "565",
+  "text": "Extension:",
+  "path": "/Forms/AssociateFormatForm/TypeLabel/Caption"
+ },
+ {
+  "id": "566",
+  "text": "(vox, snd, dat, aud,  ...)",
+  "path": "/Forms/AssociateFormatForm/SampleTypesLabel/Caption"
+ },
+ {
+  "id": "567",
+  "text": "Settings",
+  "path": "/Forms/AudioForm/Caption"
+ },
+ {
+  "id": "568",
+  "text": "Select Audio Attributes",
+  "path": "/Forms/AudioAttributesForm/Caption"
+ },
+ {
+  "id": "569",
+  "text": "Auto Cue",
+  "path": "/Forms/AutoCueForm/Caption"
+ },
+ {
+  "id": "570",
+  "text": "Mark Silence",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/Caption"
+ },
+ {
+  "id": "571",
+  "text": " Search for silences with the following properties: ",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/SilenceSettings/Caption"
+ },
+ {
+  "id": "572",
+  "text": "Below threshold (dB):",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/SilenceSettings/Threshold/Caption"
+ },
+ {
+  "id": "573",
+  "text": "Minimum length (s):",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/SilenceSettings/Length/Caption"
+ },
+ {
+  "id": "574",
+  "text": " Set a cue point within a silent area as follows: ",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/PlacementSettings/Caption"
+ },
+ {
+  "id": "575",
+  "text": "Minimum separation between cues (s):",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/PlacementSettings/SeparationLabel/Caption"
+ },
+ {
+  "id": "576",
+  "text": "Separation",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/PlacementSettings/Separation/Label"
+ },
+ {
+  "id": "577",
+  "text": "Cue placement within area (%):",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/PlacementSettings/PlacementLabel/Caption"
+ },
+ {
+  "id": "578",
+  "text": "Placement",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/PlacementSettings/Placement/Label"
+ },
+ {
+  "id": "579",
+  "text": "Calculate...",
+  "path": "/Forms/AutoCueForm/PageControl/Silence/PlacementSettings/Calculate/Caption"
+ },
+ {
+  "id": "580",
+  "text": "Spacing",
+  "path": "/Forms/AutoCueForm/PageControl/Space/Caption"
+ },
+ {
+  "id": "581",
+  "text": " Set cue points at equal intervals: ",
+  "path": "/Forms/AutoCueForm/PageControl/Space/SpacingSettings/Caption"
+ },
+ {
+  "id": "582",
+  "text": "Starting at time:",
+  "path": "/Forms/AutoCueForm/PageControl/Space/SpacingSettings/StartLabel/Caption"
+ },
+ {
+  "id": "583",
+  "text": "Starting Time",
+  "path": "/Forms/AutoCueForm/PageControl/Space/SpacingSettings/Start/Label"
+ },
+ {
+  "id": "584",
+  "text": "Interval (s):",
+  "path": "/Forms/AutoCueForm/PageControl/Space/SpacingSettings/IntervalLabel/Caption"
+ },
+ {
+  "id": "585",
+  "text": " Cue naming: ",
+  "path": "/Forms/AutoCueForm/CueNaming/Caption"
+ },
+ {
+  "id": "586",
+  "text": "Time based (H:M:S)",
+  "path": "/Forms/AutoCueForm/CueNaming/Items.Strings/0"
+ },
+ {
+  "id": "587",
+  "text": "Numbered (1, 2, 3...)",
+  "path": "/Forms/AutoCueForm/CueNaming/Items.Strings/1"
+ },
+ {
+  "id": "588",
+  "text": "Lettered (A, B, C...)",
+  "path": "/Forms/AutoCueForm/CueNaming/Items.Strings/2"
+ },
+ {
+  "id": "589",
+  "text": " Duplicates ",
+  "path": "/Forms/AutoCueForm/DuplicatesGroup/Caption"
+ },
+ {
+  "id": "590",
+  "text": "No exact duplicates",
+  "path": "/Forms/AutoCueForm/DuplicatesGroup/Duplicates/Text"
+ },
+ {
+  "id": "591",
+  "text": "Allow duplicates",
+  "path": "/Forms/AutoCueForm/DuplicatesGroup/Duplicates/Items.Strings/0"
+ },
+ {
+  "id": "592",
+  "text": "No duplicates within +/- 0.01 seconds",
+  "path": "/Forms/AutoCueForm/DuplicatesGroup/Duplicates/Items.Strings/2"
+ },
+ {
+  "id": "593",
+  "text": "No duplicates within +/- 0.10 seconds",
+  "path": "/Forms/AutoCueForm/DuplicatesGroup/Duplicates/Items.Strings/3"
+ },
+ {
+  "id": "594",
+  "text": "No duplicates within +/- 1.00 second",
+  "path": "/Forms/AutoCueForm/DuplicatesGroup/Duplicates/Items.Strings/4"
+ },
+ {
+  "id": "595",
+  "text": "Batch Processing",
+  "path": "/Forms/BatchForm/Caption"
+ },
+ {
+  "id": "596",
+  "text": "&Source",
+  "path": "/Forms/BatchForm/PageControl/Source/Caption"
+ },
+ {
+  "id": "597",
+  "text": "Any date",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterDateMode/Text"
+ },
+ {
+  "id": "598",
+  "text": "After date:",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterDateMode/Items.Strings/1"
+ },
+ {
+  "id": "599",
+  "text": "Before date:",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterDateMode/Items.Strings/2"
+ },
+ {
+  "id": "600",
+  "text": "Filters:",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterLabel/Caption"
+ },
+ {
+  "id": "601",
+  "text": "Any channels",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterChannelMode/Text"
+ },
+ {
+  "id": "602",
+  "text": "Mono only",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterChannelMode/Items.Strings/1"
+ },
+ {
+  "id": "603",
+  "text": "Stereo only",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterChannelMode/Items.Strings/2"
+ },
+ {
+  "id": "604",
+  "text": "Mono and stereo",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterChannelMode/Items.Strings/3"
+ },
+ {
+  "id": "605",
+  "text": "Multichannel only",
+  "path": "/Forms/BatchForm/PageControl/Source/FilterPanel/FilterChannelMode/Items.Strings/4"
+ },
+ {
+  "id": "606",
+  "text": "&Add Files...",
+  "path": "/Forms/BatchForm/PageControl/Source/FilePanel/FileControlPanel/AddFiles/Caption"
+ },
+ {
+  "id": "607",
+  "text": "Add &Folder...",
+  "path": "/Forms/BatchForm/PageControl/Source/FilePanel/FileControlPanel/AddFolder/Caption"
+ },
+ {
+  "id": "608",
+  "text": "C&lear",
+  "path": "/Forms/BatchForm/PageControl/Source/FilePanel/FileControlPanel/RemoveAllFiles/Caption"
+ },
+ {
+  "id": "609",
+  "text": "&Remove",
+  "path": "/Forms/BatchForm/PageControl/Source/FilePanel/FileControlPanel/RemoveFile/Caption"
+ },
+ {
+  "id": "610",
+  "text": "Name",
+  "path": "/Forms/BatchForm/PageControl/Source/FilePanel/FileList/Columns/0/Caption"
+ },
+ {
+  "id": "611",
+  "text": "All Sound windows",
+  "path": "/Forms/BatchForm/PageControl/Source/SourceOptionPanel/SourceAll/Caption"
+ },
+ {
+  "id": "612",
+  "text": "Current Sound window: ",
+  "path": "/Forms/BatchForm/PageControl/Source/SourceOptionPanel/SourceCurrent/Caption"
+ },
+ {
+  "id": "613",
+  "text": "Files and folders:",
+  "path": "/Forms/BatchForm/PageControl/Source/SourceOptionPanel/SourceList/Caption"
+ },
+ {
+  "id": "614",
+  "text": "Proc&ess",
+  "path": "/Forms/BatchForm/PageControl/Process/Caption"
+ },
+ {
+  "id": "615",
+  "text": "Effect, Chain, or Edit",
+  "path": "/Forms/BatchForm/PageControl/Process/EffectList/Columns/0/Caption"
+ },
+ {
+  "id": "616",
+  "text": "Add &Chain...",
+  "path": "/Forms/BatchForm/PageControl/Process/ProcessControlPanel/AddChain/Caption"
+ },
+ {
+  "id": "617",
+  "text": "&Add Edit...",
+  "path": "/Forms/BatchForm/PageControl/Process/ProcessControlPanel/AddEdit/Caption"
+ },
+ {
+  "id": "618",
+  "text": "Add Effec&t...",
+  "path": "/Forms/BatchForm/PageControl/Process/ProcessControlPanel/AddEffect/Caption"
+ },
+ {
+  "id": "619",
+  "text": "Add &Logic...",
+  "path": "/Forms/BatchForm/PageControl/Process/ProcessControlPanel/AddLogic/Caption"
+ },
+ {
+  "id": "620",
+  "text": "Small icons",
+  "path": "/Forms/BatchForm/PageControl/Process/ProcessControlPanel/SmallIcons/Caption"
+ },
+ {
+  "id": "621",
+  "text": "Con&vert",
+  "path": "/Forms/BatchForm/PageControl/Convert/Caption"
+ },
+ {
+  "id": "622",
+  "text": "Preserve mono or stereo attribute of original file (if possible)",
+  "path": "/Forms/BatchForm/PageControl/Convert/ConvertOptionsPanel/NoChannelConvert/Caption"
+ },
+ {
+  "id": "623",
+  "text": "Rate (H&z):",
+  "path": "/Forms/BatchForm/PageControl/Convert/ConvertOptionsPanel/RateBox/Caption"
+ },
+ {
+  "id": "624",
+  "text": "&Destination",
+  "path": "/Forms/BatchForm/PageControl/Destination/Caption"
+ },
+ {
+  "id": "625",
+  "text": "Delete original files (not recommended)",
+  "path": "/Forms/BatchForm/PageControl/Destination/DeleteOriginal/Caption"
+ },
+ {
+  "id": "626",
+  "text": "Only if older than the original",
+  "path": "/Forms/BatchForm/PageControl/Destination/OverwriteOlder/Caption"
+ },
+ {
+  "id": "627",
+  "text": "&Overwrite existing files (not recommended)",
+  "path": "/Forms/BatchForm/PageControl/Destination/Overwrite/Caption"
+ },
+ {
+  "id": "628",
+  "text": "Preserve subfolder structure",
+  "path": "/Forms/BatchForm/PageControl/Destination/PreserveSubfolders/Caption"
+ },
+ {
+  "id": "629",
+  "text": "Store all files in this folder:",
+  "path": "/Forms/BatchForm/PageControl/Destination/CommonFolder/Caption"
+ },
+ {
+  "id": "630",
+  "text": "Store all files in their original folders",
+  "path": "/Forms/BatchForm/PageControl/Destination/OriginalFolders/Caption"
+ },
+ {
+  "id": "631",
+  "text": "Create log file:",
+  "path": "/Forms/BatchForm/PageControl/Destination/CreateLog/Caption"
+ },
+ {
+  "id": "632",
+  "text": "Set Log File",
+  "path": "/Forms/BatchForm/PageControl/Destination/SetLogFile/Caption"
+ },
+ {
+  "id": "633",
+  "text": "&Information",
+  "path": "/Forms/BatchForm/PageControl/Information/Caption"
+ },
+ {
+  "id": "634",
+  "text": " File Information, Metadata ",
+  "path": "/Forms/BatchForm/PageControl/Information/InfoMode/Caption"
+ },
+ {
+  "id": "635",
+  "text": "Retain current text information",
+  "path": "/Forms/BatchForm/PageControl/Information/InfoMode/Items.Strings/0"
+ },
+ {
+  "id": "636",
+  "text": "Replace all text information and picture",
+  "path": "/Forms/BatchForm/PageControl/Information/InfoMode/Items.Strings/1"
+ },
+ {
+  "id": "637",
+  "text": "Replace specified text information and picture only",
+  "path": "/Forms/BatchForm/PageControl/Information/InfoMode/Items.Strings/2"
+ },
+ {
+  "id": "638",
+  "text": "Remove text information",
+  "path": "/Forms/BatchForm/PageControl/Information/InfoMode/Items.Strings/3"
+ },
+ {
+  "id": "639",
+  "text": "Remove text information and pictures",
+  "path": "/Forms/BatchForm/PageControl/Information/InfoMode/Items.Strings/4"
+ }
+]

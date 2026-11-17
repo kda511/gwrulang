@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1440",
+  "text": "Time shown for the View Preset command:",
+  "path": "/Forms/WindowOptionsForm/ZoomBox/ZoomPresetLabel/Caption"
+ },
+ {
+  "id": "1441",
+  "text": "Overview height:",
+  "path": "/Forms/WindowOptionsForm/ZoomBox/OverviewHeightLabel/Caption"
+ },
+ {
+  "id": "1442",
+  "text": " Sound windows layout ",
+  "path": "/Forms/WindowOptionsForm/SoundWindow/Caption"
+ },
+ {
+  "id": "1443",
+  "text": "Cascade",
+  "path": "/Forms/WindowOptionsForm/SoundWindow/Items.Strings/0"
+ },
+ {
+  "id": "1444",
+  "text": "Maximized",
+  "path": "/Forms/WindowOptionsForm/SoundWindow/Items.Strings/1"
+ },
+ {
+  "id": "1445",
+  "text": "Auto-tile",
+  "path": "/Forms/WindowOptionsForm/SoundWindow/Items.Strings/2"
+ },
+ {
+  "id": "1446",
+  "text": "Show tabs",
+  "path": "/Forms/WindowOptionsForm/Tabs/Caption"
+ },
+ {
+  "id": "1447",
+  "text": "Windows Store License Replacement",
+  "path": "/Forms/WinStoreRegForm/Caption"
+ },
+ {
+  "id": "1448",
+  "text": "Windows Store licenses are being replaced with lifetime GoldWave licenses.  Please provide your name and email address to request your lifetime license.  Once you've received your license, please choose the Enter License button to enter it into the program.",
+  "path": "/Forms/WinStoreRegForm/LabelInfo/Caption"
+ },
+ {
+  "id": "1449",
+  "text": "Email address:",
+  "path": "/Forms/WinStoreRegForm/LabelEmail/Caption"
+ },
+ {
+  "id": "1450",
+  "text": "Request License",
+  "path": "/Forms/WinStoreRegForm/RequestLicense/Caption"
+ },
+ {
+  "id": "1451",
+  "text": "500 kbps to 1000 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Text"
+ },
+ {
+  "id": "1452",
+  "text": "All bitrates",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/0"
+ },
+ {
+  "id": "1453",
+  "text": "Below 20 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/1"
+ },
+ {
+  "id": "1454",
+  "text": "20 kbps to 50 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/2"
+ },
+ {
+  "id": "1455",
+  "text": "50 kbps to 100 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/3"
+ },
+ {
+  "id": "1456",
+  "text": "100 kbps to 200 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/4"
+ },
+ {
+  "id": "1457",
+  "text": "200 kbps to 500 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/5"
+ },
+ {
+  "id": "1458",
+  "text": "Above 1000 kbps",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Bitrate/Items.Strings/7"
+ },
+ {
+  "id": "1459",
+  "text": "2 channels (stereo)",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Channels/Text"
+ },
+ {
+  "id": "1460",
+  "text": "1 channel (mono)",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Channels/Items.Strings/1"
+ },
+ {
+  "id": "1461",
+  "text": "4 channels (3.1)",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Channels/Items.Strings/3"
+ },
+ {
+  "id": "1462",
+  "text": "6 channels (5.1)",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Channels/Items.Strings/4"
+ },
+ {
+  "id": "1463",
+  "text": "8 channels (7.1)",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Channels/Items.Strings/5"
+ },
+ {
+  "id": "1464",
+  "text": "All rates",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Text"
+ },
+ {
+  "id": "1465",
+  "text": "Any rate",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/1"
+ },
+ {
+  "id": "1466",
+  "text": "5500 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/2"
+ },
+ {
+  "id": "1467",
+  "text": "6000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/3"
+ },
+ {
+  "id": "1468",
+  "text": "7333 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/4"
+ },
+ {
+  "id": "1469",
+  "text": "8000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/5"
+ },
+ {
+  "id": "1470",
+  "text": "11025 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/6"
+ },
+ {
+  "id": "1471",
+  "text": "16000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/7"
+ },
+ {
+  "id": "1472",
+  "text": "22050 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/8"
+ },
+ {
+  "id": "1473",
+  "text": "24000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/9"
+ },
+ {
+  "id": "1474",
+  "text": "32000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/10"
+ },
+ {
+  "id": "1475",
+  "text": "44100 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/11"
+ },
+ {
+  "id": "1476",
+  "text": "48000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/12"
+ },
+ {
+  "id": "1477",
+  "text": "64000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/13"
+ },
+ {
+  "id": "1478",
+  "text": "88200 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/14"
+ },
+ {
+  "id": "1479",
+  "text": "96000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/15"
+ },
+ {
+  "id": "1480",
+  "text": "176400 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/16"
+ },
+ {
+  "id": "1481",
+  "text": "192000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/17"
+ },
+ {
+  "id": "1482",
+  "text": "352800 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/18"
+ },
+ {
+  "id": "1483",
+  "text": "384000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/19"
+ },
+ {
+  "id": "1484",
+  "text": "768000 Hz",
+  "path": "/Forms/AudioAttributesFrame/AtributesFilterPanel/Rate/Items.Strings/20"
+ },
+ {
+  "id": "1485",
+  "text": "Custom...",
+  "path": "/Forms/AudioAttributesFrame/AttributesActionList/AttributesActionCustom/Caption"
+ },
+ {
+  "id": "1486",
+  "text": "Duration of blend (s):",
+  "path": "/Forms/BlendFrame/Duration/Caption"
+ },
+ {
+  "id": "1487",
+  "text": "Marker:",
+  "path": "/Forms/BlendFrame/MarkerLabel/Caption"
+ },
+ {
+  "id": "1488",
+  "text": "Both markers",
+  "path": "/Forms/BlendFrame/Markers/Items.Strings/2"
+ },
+ {
+  "id": "1489",
+  "text": "Fade curve:",
+  "path": "/Forms/BlendFrame/TypeLabel/Caption"
+ },
+ {
+  "id": "1490",
+  "text": "Equal power",
+  "path": "/Forms/BlendFrame/FadeCurve/Text"
+ },
+ {
+  "id": "1491",
+  "text": " Clipboard position ",
+  "path": "/Forms/CrossfadeFrame/Position/Caption"
+ },
+ {
+  "id": "1492",
+  "text": "End of selection",
+  "path": "/Forms/CrossfadeFrame/Position/Items.Strings/0"
+ },
+ {
+  "id": "1493",
+  "text": "Beginning of selection",
+  "path": "/Forms/CrossfadeFrame/Position/Items.Strings/1"
+ },
+ {
+  "id": "1494",
+  "text": " Fade curves ",
+  "path": "/Forms/CrossfadeFrame/FadeCurveBox/Caption"
+ },
+ {
+  "id": "1495",
+  "text": "Fade out:",
+  "path": "/Forms/CrossfadeFrame/FadeCurveBox/FadeOutText/Caption"
+ },
+ {
+  "id": "1496",
+  "text": "Sine squared",
+  "path": "/Forms/CrossfadeFrame/FadeCurveBox/OutCurve/Items.Strings/4"
+ },
+ {
+  "id": "1497",
+  "text": "Fade in:",
+  "path": "/Forms/CrossfadeFrame/FadeCurveBox/FadeInText/Caption"
+ },
+ {
+  "id": "1498",
+  "text": "Confidence (%):",
+  "path": "/Forms/FindFrame/Text/Confidence/Caption"
+ },
+ {
+  "id": "1499",
+  "text": "Find:",
+  "path": "/Forms/FindFrame/LFind/Caption"
+ },
+ {
+  "id": "1500",
+  "text": "Peak/clipping",
+  "path": "/Forms/FindFrame/What/Items.Strings/1"
+ },
+ {
+  "id": "1501",
+  "text": "Pop/click",
+  "path": "/Forms/FindFrame/What/Items.Strings/2"
+ },
+ {
+  "id": "1502",
+  "text": "Entire file",
+  "path": "/Forms/FindFrame/Where/Text"
+ },
+ {
+  "id": "1503",
+  "text": "Past selection",
+  "path": "/Forms/FindFrame/Where/Items.Strings/2"
+ },
+ {
+  "id": "1504",
+  "text": "Above (dB):",
+  "path": "/Forms/FindFrame/Peak/PeakThreshold/Caption"
+ },
+ {
+  "id": "1505",
+  "text": "Below (dB):",
+  "path": "/Forms/FindFrame/Silence/SilenceThreshold/Caption"
+ },
+ {
+  "id": "1506",
+  "text": "Fader",
+  "path": "/Forms/GainFrame/Fader/Caption"
+ },
+ {
+  "id": "1507",
+  "text": "Gain",
+  "path": "/Forms/GainFrame/Gain/Label"
+ },
+ {
+  "id": "1508",
+  "text": "Waiting for WebView installation to complete...",
+  "path": "/Forms/InstallWebViewFrame/Wait/Caption"
+ },
+ {
+  "id": "1509",
+  "text": "Please click here to install Microsoft WebView to view GoldWave news feed",
+  "path": "/Forms/InstallWebViewFrame/Install/Caption"
+ },
+ {
+  "id": "1510",
+  "text": "GoldWave News",
+  "path": "/Forms/InstallWebViewFrame/Title/Caption"
+ },
+ {
+  "id": "1511",
+  "text": "&Up",
+  "path": "/Forms/ListButtons/MoveUp/Caption"
+ },
+ {
+  "id": "1512",
+  "text": "&Down",
+  "path": "/Forms/ListButtons/MoveDown/Caption"
+ },
+ {
+  "id": "1513",
+  "text": "Removes the selected items from the list",
+  "path": "/Forms/ListButtons/ListButtonActions/ListActionsRemove/Hint"
+ },
+ {
+  "id": "1514",
+  "text": "Clears the list, removing all items",
+  "path": "/Forms/ListButtons/ListButtonActions/ListActionsRemoveAll/Hint"
+ },
+ {
+  "id": "1515",
+  "text": "Move up in the list",
+  "path": "/Forms/ListButtons/ListButtonActions/ListActionsMoveUp/Hint"
+ },
+ {
+  "id": "1516",
+  "text": "Move down in the list",
+  "path": "/Forms/ListButtons/ListButtonActions/ListActionsMoveDown/Hint"
+ },
+ {
+  "id": "1517",
+  "text": "ListActionsSelectAll",
+  "path": "/Forms/ListButtons/ListButtonActions/ListActionsSelectAll/Caption"
+ },
+ {
+  "id": "1518",
+  "text": "Knee (dB):",
+  "path": "/Forms/Multiband/Band/Knee/Caption"
+ },
+ {
+  "id": "1519",
+  "text": "Gain:",
+  "path": "/Forms/Multiband/Band/Gain/Caption"
+ }
+]

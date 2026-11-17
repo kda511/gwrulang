@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2560",
+  "text": "Dictation could not be started on this computer.",
+  "path": "/Internal/sSpeechDictationUnavailable"
+ },
+ {
+  "id": "2561",
+  "text": "Dictation Training",
+  "path": "/Internal/sSpeechDictationTraining"
+ },
+ {
+  "id": "2562",
+  "text": "Dictation training properties are not available for this recognizer.",
+  "path": "/Internal/sSpeechTrainingUnavailable"
+ },
+ {
+  "id": "2563",
+  "text": "Dictation unsupported",
+  "path": "/Internal/sSpeechDictationUnsupported"
+ },
+ {
+  "id": "2564",
+  "text": "Microphone Setup",
+  "path": "/Internal/sSpeechMicrophoneSetup"
+ },
+ {
+  "id": "2565",
+  "text": "Microphone setup is not available.",
+  "path": "/Internal/sSpeechMicrophoneSetupUnavailable"
+ },
+ {
+  "id": "2566",
+  "text": "Current Selection",
+  "path": "/Internal/sTranscribeCurrentSelection"
+ },
+ {
+  "id": "2567",
+  "text": "Audio Files...",
+  "path": "/Internal/sTranscribeAudioFile"
+ },
+ {
+  "id": "2568",
+  "text": "Translate",
+  "path": "/Internal/sTranscribeTranslate"
+ },
+ {
+  "id": "2569",
+  "text": "Colour",
+  "path": "/Internal/sTranscribeColour"
+ },
+ {
+  "id": "2570",
+  "text": "Settings: ",
+  "path": "/Internal/sTranscribeSettings"
+ },
+ {
+  "id": "2571",
+  "text": "Loading: ",
+  "path": "/Internal/sTranscribeLoading"
+ },
+ {
+  "id": "2572",
+  "text": "Zoom in closer for transcription...",
+  "path": "/Internal/sTranscribeZoomIn"
+ },
+ {
+  "id": "2573",
+  "text": "Please select transcription model and other settings in Window Options or click here.",
+  "path": "/Internal/sTranscribeNotSetup"
+ },
+ {
+  "id": "2574",
+  "text": "Close transcription without saving?",
+  "path": "/Internal/sTranscribeClose"
+ },
+ {
+  "id": "2575",
+  "text": "Unable to download the AI model.  Try again later or check your firewall settings.",
+  "path": "/Internal/sTranscribeDownloadFail"
+ },
+ {
+  "id": "2576",
+  "text": "Transcription failed.  Try selecting a smaller model.|If a smaller model does not work, try deleting the model in the settings so that it will be downloaded again.",
+  "path": "/Internal/sTranscribeFailed"
+ },
+ {
+  "id": "2577",
+  "text": "'%0%' is not a valid shortcut.",
+  "path": "/Internal/sKeyboardShortCutInvalid"
+ },
+ {
+  "id": "2578",
+  "text": "Shortcut '%0%' is already assigned to '%1%'.  Reassign to '%2%' function?",
+  "path": "/Internal/sKeyboardReplaceShortCut"
+ },
+ {
+  "id": "2579",
+  "text": "Keyboard file could not be saved.|%0%",
+  "path": "/Internal/sKeyboardCannotSave"
+ },
+ {
+  "id": "2580",
+  "text": "Reset all keyboard assignments to defaults?",
+  "path": "/Internal/sKeyboardDefaults"
+ },
+ {
+  "id": "2581",
+  "text": "Restart GoldWave to load original keyboard assignments.",
+  "path": "/Internal/sKeyboardRestart"
+ },
+ {
+  "id": "2582",
+  "text": "The current chain has not been saved and will be discarded.|To save the chain, choose Cancel, then enter a name for the preset and choose the Add Preset [+] button.",
+  "path": "/Internal/sChainUnsaved"
+ },
+ {
+  "id": "2583",
+  "text": "Close the effect's settings window before removing the effect.",
+  "path": "/Internal/sChainCloseEffect"
+ },
+ {
+  "id": "2584",
+  "text": "Discard the current chain?",
+  "path": "/Internal/sChainRemoveAll"
+ },
+ {
+  "id": "2585",
+  "text": "Discard Chain",
+  "path": "/Internal/sChainDiscardButton"
+ },
+ {
+  "id": "2586",
+  "text": "Effect Chain",
+  "path": "/Internal/sChainEffect"
+ },
+ {
+  "id": "2587",
+  "text": "Success",
+  "path": "/Internal/sBatchSuccess"
+ },
+ {
+  "id": "2588",
+  "text": "Warning",
+  "path": "/Internal/sBatchWarning"
+ },
+ {
+  "id": "2589",
+  "text": "Processed: %0% of %1%.",
+  "path": "/Internal/sBatchSummary"
+ },
+ {
+  "id": "2590",
+  "text": "Errors: %0%,  Warnings: %1%",
+  "path": "/Internal/sBatchSummaryResult"
+ },
+ {
+  "id": "2591",
+  "text": "Please select a source or add files for processing.",
+  "path": "/Internal/sBatchNoSource"
+ },
+ {
+  "id": "2592",
+  "text": "No processing, conversion, or changes have been selected.|Please do one or more of the following:\n - Check the \"Convert files\" box under the Convert tab\n - Add effects under the Process tab\n - Or change the settings under the Information tab.",
+  "path": "/Internal/sBatchNothing"
+ },
+ {
+  "id": "2593",
+  "text": "Are you sure you want to delete the original files?|The option to delete original files is selected under the Folder tab.  Original files may have higher quality than the processed files and the quality cannot be recovered if the original files are deleted.",
+  "path": "/Internal/sBatchDelete"
+ },
+ {
+  "id": "2594",
+  "text": "Clipboard is empty.",
+  "path": "/Internal/sBatchEditNoClipboard"
+ },
+ {
+  "id": "2595",
+  "text": "Nothing is selected.  Selection has zero length.",
+  "path": "/Internal/sBatchEditNoSelection"
+ },
+ {
+  "id": "2596",
+  "text": "Cannot set finish marker before start marker.",
+  "path": "/Internal/sBatchEditBadFinishMarker"
+ },
+ {
+  "id": "2597",
+  "text": "Marker position is negative or precedes file beginning.",
+  "path": "/Internal/sBatchEditMarkerNegative"
+ },
+ {
+  "id": "2598",
+  "text": "Marker position exceeds file length.",
+  "path": "/Internal/sBatchEditMarkerExceedsLength"
+ },
+ {
+  "id": "2599",
+  "text": "No appropriate cue point named \"%0%\" was found to set selection marker.",
+  "path": "/Internal/sBatchEditNoCueFound"
+ },
+ {
+  "id": "2600",
+  "text": "A cue name or index must be provided.",
+  "path": "/Internal/sBatchEditCueBlank"
+ },
+ {
+  "id": "2601",
+  "text": "An edit command in preset \"%0%\" cannot be read or is incompatible with this version.",
+  "path": "/Internal/sBatchEditIncompatible"
+ },
+ {
+  "id": "2602",
+  "text": "Channel selection cannot be changed because no channels would be selected.",
+  "path": "/Internal/sBatchEditNoChannelsSelected"
+ },
+ {
+  "id": "2603",
+  "text": "Cannot select all channels for the given channel selection.",
+  "path": "/Internal/sBatchEditNotAllChannelsSelected"
+ },
+ {
+  "id": "2604",
+  "text": "Sampling rate conversion from %0% to %1% to %2%.",
+  "path": "/Internal/sBatchDoubleRateConversion"
+ },
+ {
+  "id": "2605",
+  "text": "Final sampling rate does not match original rate.  Use the Convert tab to enable file conversion to support the new sampling rate.",
+  "path": "/Internal/sBatchRateNotCompatible"
+ },
+ {
+  "id": "2606",
+  "text": "Step %0%",
+  "path": "/Internal/sBatchStep"
+ },
+ {
+  "id": "2607",
+  "text": "Folder List",
+  "path": "/Internal/sBatchFolderList"
+ },
+ {
+  "id": "2608",
+  "text": "No files found.",
+  "path": "/Internal/sBatchNoFiles"
+ },
+ {
+  "id": "2609",
+  "text": "Apply batch processing to all opened Sound windows?",
+  "path": "/Internal/sBatchApplyAll"
+ },
+ {
+  "id": "2610",
+  "text": "The sampling rate for the selected output file type and attributes cannot be changed.",
+  "path": "/Internal/sBatchCannotSetRate"
+ },
+ {
+  "id": "2611",
+  "text": "The mono/stereo attribute cannot be preserved.  Conversion attributes cannot be changed for this file type.",
+  "path": "/Internal/sBatchCannotSetChannels"
+ },
+ {
+  "id": "2612",
+  "text": "Running as user: ",
+  "path": "/Internal/sBatchRunningAs"
+ },
+ {
+  "id": "2613",
+  "text": "List file cannot be opened.",
+  "path": "/Internal/sBatchNoListFile"
+ },
+ {
+  "id": "2614",
+  "text": "A filename is required for the \"Copy\" Edit Command.  Choose the Browse button to select a file to copy.",
+  "path": "/Internal/sBatchCopyFileBlank"
+ },
+ {
+  "id": "2615",
+  "text": "Added command \"%0%\"",
+  "path": "/Internal/sBatchStatusAdded"
+ },
+ {
+  "id": "2616",
+  "text": "This file does not match the date required by the date filter on the Source tab.",
+  "path": "/Internal/sBatchDateFilter"
+ },
+ {
+  "id": "2617",
+  "text": "This file does not have the number of channels specified on the Source tab.",
+  "path": "/Internal/sBatchChannelFilter"
+ },
+ {
+  "id": "2618",
+  "text": "A label is required.",
+  "path": "/Internal/sBatchLogicLabel"
+ },
+ {
+  "id": "2619",
+  "text": "Label already exists: %0%",
+  "path": "/Internal/sBatchLogicLabelExists"
+ },
+ {
+  "id": "2620",
+  "text": "Label was not found: %0%",
+  "path": "/Internal/sBatchLogicLabelNotFound"
+ },
+ {
+  "id": "2621",
+  "text": "Processing loops exceeded maximum allowed.",
+  "path": "/Internal/sBatchLogicLoopsExceeded"
+ },
+ {
+  "id": "2622",
+  "text": "Cancelled.",
+  "path": "/Internal/sBatchLogicCancelled"
+ },
+ {
+  "id": "2623",
+  "text": "Terminated.",
+  "path": "/Internal/sBatchLogicTerminated"
+ },
+ {
+  "id": "2624",
+  "text": "Technical background required!|Custom modification of the language may be harmful to program stability and performance.  Do not proceed if you are a non-technical user.",
+  "path": "/Internal/sLanguageWarning"
+ },
+ {
+  "id": "2625",
+  "text": "Unable to open English language file.\n",
+  "path": "/Internal/sLanguageEnglishNotFound"
+ },
+ {
+  "id": "2626",
+  "text": "Unable to open or process the file language.|The file may not contain the required language format.",
+  "path": "/Internal/sLanguageFileBad"
+ },
+ {
+  "id": "2627",
+  "text": "The number of substitutions (%x%) does not match the original text.  Text containing the substitutions must match, though the order can be different.",
+  "path": "/Internal/sLanguageTranslationPercentError"
+ },
+ {
+  "id": "2628",
+  "text": "The number of vertical bar characters does not match the original text.  Vertical bars are required to organize the text correctly.",
+  "path": "/Internal/sLanguageTranslationBarError"
+ },
+ {
+  "id": "2629",
+  "text": "The number of lines must match the English text.",
+  "path": "/Internal/sLanguageTranslationLinesError"
+ },
+ {
+  "id": "2630",
+  "text": "Text was not found.",
+  "path": "/Internal/sLanguageTextNotFound"
+ },
+ {
+  "id": "2631",
+  "text": "Lines required in list: %0%",
+  "path": "/Internal/sLanguageLinesRequired"
+ },
+ {
+  "id": "2632",
+  "text": "Replace All %0% Occurrences",
+  "path": "/Internal/sLanguageReplaceAll"
+ },
+ {
+  "id": "2633",
+  "text": "No Duplicates",
+  "path": "/Internal/sLanguageNoDuplicates"
+ },
+ {
+  "id": "2634",
+  "text": "Translation is not complete.  Remaining items: %0%.",
+  "path": "/Internal/sLanguageItemsRemaining"
+ },
+ {
+  "id": "2635",
+  "text": "An error occurred when saving the translation text.  Translation not saved.",
+  "path": "/Internal/sLanguageSaveFailed"
+ },
+ {
+  "id": "2636",
+  "text": "Save changes to the language file?",
+  "path": "/Internal/sLanguageAskSave"
+ },
+ {
+  "id": "2637",
+  "text": "Unable to create the Application Data GoldWave settings folder for the active language file.",
+  "path": "/Internal/sLanguageFolderError"
+ },
+ {
+  "id": "2638",
+  "text": "Program must be restarted to update language.|These AI translations need improvement.  Please help us improve language support by providing correct translations and reporting any issues.",
+  "path": "/Internal/sLanguageRestartRequired"
+ },
+ {
+  "id": "2639",
+  "text": "Unable to copy the selected language to activate it.",
+  "path": "/Internal/sLanguageNotSet"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3120",
+  "text": "Bandpass 1000Hz to 2000Hz",
+  "path": "/Preset/Bandpass 1000Hz to 2000Hz"
+ },
+ {
+  "id": "3121",
+  "text": "Highpass 1000Hz",
+  "path": "/Preset/Highpass 1000Hz"
+ },
+ {
+  "id": "3122",
+  "text": "Lowpass 1000Hz",
+  "path": "/Preset/Lowpass 1000Hz"
+ },
+ {
+  "id": "3123",
+  "text": "Bandpass, 1000Hz to 2000Hz, @192kHz",
+  "path": "/Preset/Bandpass, 1000Hz to 2000Hz, @192kHz"
+ },
+ {
+  "id": "3124",
+  "text": "Inverse RIAA curve",
+  "path": "/Preset/Inverse RIAA curve"
+ },
+ {
+  "id": "3125",
+  "text": "RIAA equalization curve",
+  "path": "/Preset/RIAA equalization curve"
+ },
+ {
+  "id": "3126",
+  "text": "Boost bass (magnified)",
+  "path": "/Preset/Boost bass (magnified)"
+ },
+ {
+  "id": "3127",
+  "text": "Boost mid range (magnified)",
+  "path": "/Preset/Boost mid range (magnified)"
+ },
+ {
+  "id": "3128",
+  "text": "Boost treble (magnified)",
+  "path": "/Preset/Boost treble (magnified)"
+ },
+ {
+  "id": "3129",
+  "text": "5dB gain range",
+  "path": "/Preset/5dB gain range"
+ },
+ {
+  "id": "3130",
+  "text": "Rumble filter (heavy)",
+  "path": "/Preset/Rumble filter (heavy)"
+ },
+ {
+  "id": "3131",
+  "text": "Rumble filter (light)",
+  "path": "/Preset/Rumble filter (light)"
+ },
+ {
+  "id": "3132",
+  "text": "Bandpass 150Hz to 10000Hz",
+  "path": "/Preset/Bandpass 150Hz to 10000Hz"
+ },
+ {
+  "id": "3133",
+  "text": "Remove vocals",
+  "path": "/Preset/Remove vocals"
+ },
+ {
+  "id": "3134",
+  "text": "Remove center channel",
+  "path": "/Preset/Remove center channel"
+ },
+ {
+  "id": "3135",
+  "text": "Remove side channels",
+  "path": "/Preset/Remove side channels"
+ },
+ {
+  "id": "3136",
+  "text": "Boost center",
+  "path": "/Preset/Boost center"
+ },
+ {
+  "id": "3137",
+  "text": "Boost vocals",
+  "path": "/Preset/Boost vocals"
+ },
+ {
+  "id": "3138",
+  "text": "Boost sides",
+  "path": "/Preset/Boost sides"
+ },
+ {
+  "id": "3139",
+  "text": "Reduce sides",
+  "path": "/Preset/Reduce sides"
+ },
+ {
+  "id": "3140",
+  "text": "Left side only",
+  "path": "/Preset/Left side only"
+ },
+ {
+  "id": "3141",
+  "text": "Right side only",
+  "path": "/Preset/Right side only"
+ },
+ {
+  "id": "3142",
+  "text": "Reduce music",
+  "path": "/Preset/Reduce music"
+ },
+ {
+  "id": "3143",
+  "text": "Sides only",
+  "path": "/Preset/Sides only"
+ },
+ {
+  "id": "3144",
+  "text": "Instrumental",
+  "path": "/Preset/Instrumental"
+ },
+ {
+  "id": "3145",
+  "text": "Vocals",
+  "path": "/Preset/Vocals"
+ },
+ {
+  "id": "3146",
+  "text": "200% via FFT",
+  "path": "/Preset/200% via FFT"
+ },
+ {
+  "id": "3147",
+  "text": "200% via rate",
+  "path": "/Preset/200% via rate"
+ },
+ {
+  "id": "3148",
+  "text": "200% via similarity",
+  "path": "/Preset/200% via similarity"
+ },
+ {
+  "id": "3149",
+  "text": "50% via similarity",
+  "path": "/Preset/50% via similarity"
+ },
+ {
+  "id": "3150",
+  "text": "50% via rate",
+  "path": "/Preset/50% via rate"
+ },
+ {
+  "id": "3151",
+  "text": "60% via FFT",
+  "path": "/Preset/60% via FFT"
+ },
+ {
+  "id": "3152",
+  "text": "Make it 30 seconds long, if possible",
+  "path": "/Preset/Make it 30 seconds long, if possible"
+ },
+ {
+  "id": "3153",
+  "text": "Deep voice",
+  "path": "/Preset/Deep voice"
+ },
+ {
+  "id": "3154",
+  "text": "80% via similarity",
+  "path": "/Preset/80% via similarity"
+ },
+ {
+  "id": "3155",
+  "text": "Vinyl 45 to 33 1/3",
+  "path": "/Preset/Vinyl 45 to 33 1/3"
+ },
+ {
+  "id": "3156",
+  "text": "150% similarity",
+  "path": "/Preset/150% similarity"
+ },
+ {
+  "id": "3157",
+  "text": "50% via FFT synth",
+  "path": "/Preset/50% via FFT synth"
+ },
+ {
+  "id": "3158",
+  "text": "Fast fading",
+  "path": "/Preset/Fast fading"
+ },
+ {
+  "id": "3159",
+  "text": "Slow fading",
+  "path": "/Preset/Slow fading"
+ },
+ {
+  "id": "3160",
+  "text": "Half second fade",
+  "path": "/Preset/Half second fade"
+ },
+ {
+  "id": "3161",
+  "text": "Fade background to silence",
+  "path": "/Preset/Fade background to silence"
+ },
+ {
+  "id": "3162",
+  "text": "Loud background",
+  "path": "/Preset/Loud background"
+ },
+ {
+  "id": "3163",
+  "text": "Swap channels",
+  "path": "/Preset/Swap channels"
+ },
+ {
+  "id": "3164",
+  "text": "Multichannel to stereo, 100%",
+  "path": "/Preset/Multichannel to stereo, 100%"
+ },
+ {
+  "id": "3165",
+  "text": "Multichannel to stereo, 50%",
+  "path": "/Preset/Multichannel to stereo, 50%"
+ },
+ {
+  "id": "3166",
+  "text": "Multichannel to stereo, 25%",
+  "path": "/Preset/Multichannel to stereo, 25%"
+ },
+ {
+  "id": "3167",
+  "text": "Stereo to multichannel",
+  "path": "/Preset/Stereo to multichannel"
+ },
+ {
+  "id": "3168",
+  "text": "Mono left to multichannel",
+  "path": "/Preset/Mono left to multichannel"
+ },
+ {
+  "id": "3169",
+  "text": "7.1 front to back",
+  "path": "/Preset/7.1 front to back"
+ },
+ {
+  "id": "3170",
+  "text": "High noise",
+  "path": "/Preset/High noise"
+ },
+ {
+  "id": "3171",
+  "text": "Slow attack and release",
+  "path": "/Preset/Slow attack and release"
+ },
+ {
+  "id": "3172",
+  "text": "No ignoring of brief sounds",
+  "path": "/Preset/No ignoring of brief sounds"
+ },
+ {
+  "id": "3173",
+  "text": "Ignore mouse clicks",
+  "path": "/Preset/Ignore mouse clicks"
+ },
+ {
+  "id": "3174",
+  "text": "Extra bass",
+  "path": "/Preset/Extra bass"
+ },
+ {
+  "id": "3175",
+  "text": "Chipmunk sing-along",
+  "path": "/Preset/Chipmunk sing-along"
+ },
+ {
+  "id": "3176",
+  "text": "Pitch slide up",
+  "path": "/Preset/Pitch slide up"
+ },
+ {
+  "id": "3177",
+  "text": "Pitch slide down",
+  "path": "/Preset/Pitch slide down"
+ },
+ {
+  "id": "3178",
+  "text": "Frequency blur",
+  "path": "/Preset/Frequency blur"
+ },
+ {
+  "id": "3179",
+  "text": "Sustain pedal",
+  "path": "/Preset/Sustain pedal"
+ },
+ {
+  "id": "3180",
+  "text": "Standard",
+  "path": "/Preset/Standard"
+ },
+ {
+  "id": "3181",
+  "text": "Electronic dance music",
+  "path": "/Preset/Electronic dance music"
+ },
+ {
+  "id": "3182",
+  "text": "Average online music",
+  "path": "/Preset/Average online music"
+ },
+ {
+  "id": "3183",
+  "text": "Loud (modern compressed)",
+  "path": "/Preset/Loud (modern compressed)"
+ },
+ {
+  "id": "3184",
+  "text": "Classical",
+  "path": "/Preset/Classical"
+ },
+ {
+  "id": "3185",
+  "text": "2:1 at -30dB, hard knee",
+  "path": "/Preset/2:1 at -30dB, hard knee"
+ },
+ {
+  "id": "3186",
+  "text": "2:1 at -30dB, soft knee",
+  "path": "/Preset/2:1 at -30dB, soft knee"
+ },
+ {
+  "id": "3187",
+  "text": "Sibilance reduction",
+  "path": "/Preset/Sibilance reduction"
+ },
+ {
+  "id": "3188",
+  "text": "De-esser, wide reduction",
+  "path": "/Preset/De-esser, wide reduction"
+ },
+ {
+  "id": "3189",
+  "text": "Low end 200Hz gate",
+  "path": "/Preset/Low end 200Hz gate"
+ },
+ {
+  "id": "3190",
+  "text": "High end 10000Hz gate",
+  "path": "/Preset/High end 10000Hz gate"
+ },
+ {
+  "id": "3191",
+  "text": "Raise quiet vocals",
+  "path": "/Preset/Raise quiet vocals"
+ },
+ {
+  "id": "3192",
+  "text": "Low end 200Hz limiter",
+  "path": "/Preset/Low end 200Hz limiter"
+ },
+ {
+  "id": "3193",
+  "text": "High end 6000Hz limiter",
+  "path": "/Preset/High end 6000Hz limiter"
+ },
+ {
+  "id": "3194",
+  "text": "Breath filter",
+  "path": "/Preset/Breath filter"
+ },
+ {
+  "id": "3195",
+  "text": "Multiflanger",
+  "path": "/Preset/Multiflanger"
+ },
+ {
+  "id": "3196",
+  "text": "Similarity pitch down",
+  "path": "/Preset/Similarity pitch down"
+ },
+ {
+  "id": "3197",
+  "text": "Similarity pitch up",
+  "path": "/Preset/Similarity pitch up"
+ },
+ {
+  "id": "3198",
+  "text": "Slow, echo, flanger, more bass",
+  "path": "/Preset/Slow, echo, flanger, more bass"
+ },
+ {
+  "id": "3199",
+  "text": "Cavern echo",
+  "path": "/Preset/Cavern echo"
+ }
+]

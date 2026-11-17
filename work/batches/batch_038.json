@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2960",
+  "text": "2:1, soft",
+  "path": "/Preset/2:1, soft"
+ },
+ {
+  "id": "2961",
+  "text": "Spin the record",
+  "path": "/Preset/Spin the record"
+ },
+ {
+  "id": "2962",
+  "text": "Vibrato",
+  "path": "/Preset/Vibrato"
+ },
+ {
+  "id": "2963",
+  "text": "Faster",
+  "path": "/Preset/Faster"
+ },
+ {
+  "id": "2964",
+  "text": "Slower",
+  "path": "/Preset/Slower"
+ },
+ {
+  "id": "2965",
+  "text": "Speed up",
+  "path": "/Preset/Speed up"
+ },
+ {
+  "id": "2966",
+  "text": "Slow down",
+  "path": "/Preset/Slow down"
+ },
+ {
+  "id": "2967",
+  "text": "Blare",
+  "path": "/Preset/Blare"
+ },
+ {
+  "id": "2968",
+  "text": "Clip",
+  "path": "/Preset/Clip"
+ },
+ {
+  "id": "2969",
+  "text": "Hiss noise",
+  "path": "/Preset/Hiss noise"
+ },
+ {
+  "id": "2970",
+  "text": "Sign change",
+  "path": "/Preset/Sign change"
+ },
+ {
+  "id": "2971",
+  "text": "Weird",
+  "path": "/Preset/Weird"
+ },
+ {
+  "id": "2972",
+  "text": "Soft clip",
+  "path": "/Preset/Soft clip"
+ },
+ {
+  "id": "2973",
+  "text": "Amplify light",
+  "path": "/Preset/Amplify light"
+ },
+ {
+  "id": "2974",
+  "text": "Negative clip",
+  "path": "/Preset/Negative clip"
+ },
+ {
+  "id": "2975",
+  "text": "Absolute value",
+  "path": "/Preset/Absolute value"
+ },
+ {
+  "id": "2976",
+  "text": "Amplify low volume",
+  "path": "/Preset/Amplify low volume"
+ },
+ {
+  "id": "2977",
+  "text": "Mid-level scratch and crackle",
+  "path": "/Preset/Mid-level scratch and crackle"
+ },
+ {
+  "id": "2978",
+  "text": "Coarse quantize",
+  "path": "/Preset/Coarse quantize"
+ },
+ {
+  "id": "2979",
+  "text": "Cut center amplitude 25%",
+  "path": "/Preset/Cut center amplitude 25%"
+ },
+ {
+  "id": "2980",
+  "text": "Computer stutter",
+  "path": "/Preset/Computer stutter"
+ },
+ {
+  "id": "2981",
+  "text": "Heavy robotic",
+  "path": "/Preset/Heavy robotic"
+ },
+ {
+  "id": "2982",
+  "text": "Robotic",
+  "path": "/Preset/Robotic"
+ },
+ {
+  "id": "2983",
+  "text": "Robotic feedback",
+  "path": "/Preset/Robotic feedback"
+ },
+ {
+  "id": "2984",
+  "text": "Stereo reverb",
+  "path": "/Preset/Stereo reverb"
+ },
+ {
+  "id": "2985",
+  "text": "Tunnel reverb",
+  "path": "/Preset/Tunnel reverb"
+ },
+ {
+  "id": "2986",
+  "text": "5 one second echoes",
+  "path": "/Preset/5 one second echoes"
+ },
+ {
+  "id": "2987",
+  "text": "Short stereo echoes",
+  "path": "/Preset/Short stereo echoes"
+ },
+ {
+  "id": "2988",
+  "text": "Stereo echoes",
+  "path": "/Preset/Stereo echoes"
+ },
+ {
+  "id": "2989",
+  "text": "Boost bass",
+  "path": "/Preset/Boost bass"
+ },
+ {
+  "id": "2990",
+  "text": "Boost mid",
+  "path": "/Preset/Boost mid"
+ },
+ {
+  "id": "2991",
+  "text": "Boost treble",
+  "path": "/Preset/Boost treble"
+ },
+ {
+  "id": "2992",
+  "text": "No bass",
+  "path": "/Preset/No bass"
+ },
+ {
+  "id": "2993",
+  "text": "Only bass",
+  "path": "/Preset/Only bass"
+ },
+ {
+  "id": "2994",
+  "text": "Reduce bass",
+  "path": "/Preset/Reduce bass"
+ },
+ {
+  "id": "2995",
+  "text": "Reduce mid",
+  "path": "/Preset/Reduce mid"
+ },
+ {
+  "id": "2996",
+  "text": "Reduce treble",
+  "path": "/Preset/Reduce treble"
+ },
+ {
+  "id": "2997",
+  "text": "Thin",
+  "path": "/Preset/Thin"
+ },
+ {
+  "id": "2998",
+  "text": "Equal loudness",
+  "path": "/Preset/Equal loudness"
+ },
+ {
+  "id": "2999",
+  "text": "RIAA EQ curve",
+  "path": "/Preset/RIAA EQ curve"
+ },
+ {
+  "id": "3000",
+  "text": "Inverse RIAA EQ curve",
+  "path": "/Preset/Inverse RIAA EQ curve"
+ },
+ {
+  "id": "3001",
+  "text": "Silence to full volume, linear",
+  "path": "/Preset/Silence to full volume, linear"
+ },
+ {
+  "id": "3002",
+  "text": "Silence to full volume, logarithmic",
+  "path": "/Preset/Silence to full volume, logarithmic"
+ },
+ {
+  "id": "3003",
+  "text": "50% to full volume, linear",
+  "path": "/Preset/50% to full volume, linear"
+ },
+ {
+  "id": "3004",
+  "text": "-90dB to 0dB, logarithmic",
+  "path": "/Preset/-90dB to 0dB, logarithmic"
+ },
+ {
+  "id": "3005",
+  "text": "-12dB to 0dB, logarithmic",
+  "path": "/Preset/-12dB to 0dB, logarithmic"
+ },
+ {
+  "id": "3006",
+  "text": "Full volume to silence, linear",
+  "path": "/Preset/Full volume to silence, linear"
+ },
+ {
+  "id": "3007",
+  "text": "Full volume to silence, logarithmic",
+  "path": "/Preset/Full volume to silence, logarithmic"
+ },
+ {
+  "id": "3008",
+  "text": "0dB to -12dB, logarithmic",
+  "path": "/Preset/0dB to -12dB, logarithmic"
+ },
+ {
+  "id": "3009",
+  "text": "Full volume to 50%, linear",
+  "path": "/Preset/Full volume to 50%, linear"
+ },
+ {
+  "id": "3010",
+  "text": "Alien",
+  "path": "/Preset/Alien"
+ },
+ {
+  "id": "3011",
+  "text": "Big and small",
+  "path": "/Preset/Big and small"
+ },
+ {
+  "id": "3012",
+  "text": "Classic",
+  "path": "/Preset/Classic"
+ },
+ {
+  "id": "3013",
+  "text": "Classic 2",
+  "path": "/Preset/Classic 2"
+ },
+ {
+  "id": "3014",
+  "text": "Delay 100ms",
+  "path": "/Preset/Delay 100ms"
+ },
+ {
+  "id": "3015",
+  "text": "Double voice",
+  "path": "/Preset/Double voice"
+ },
+ {
+  "id": "3016",
+  "text": "Fix off-center 45rpm",
+  "path": "/Preset/Fix off-center 45rpm"
+ },
+ {
+  "id": "3017",
+  "text": "Gargle",
+  "path": "/Preset/Gargle"
+ },
+ {
+  "id": "3018",
+  "text": "Heavy reverb",
+  "path": "/Preset/Heavy reverb"
+ },
+ {
+  "id": "3019",
+  "text": "Hollow",
+  "path": "/Preset/Hollow"
+ },
+ {
+  "id": "3020",
+  "text": "Invert feedback",
+  "path": "/Preset/Invert feedback"
+ },
+ {
+  "id": "3021",
+  "text": "Robot",
+  "path": "/Preset/Robot"
+ },
+ {
+  "id": "3022",
+  "text": "Robot hollow",
+  "path": "/Preset/Robot hollow"
+ },
+ {
+  "id": "3023",
+  "text": "Scary",
+  "path": "/Preset/Scary"
+ },
+ {
+  "id": "3024",
+  "text": "Scary in stereo",
+  "path": "/Preset/Scary in stereo"
+ },
+ {
+  "id": "3025",
+  "text": "Shakey",
+  "path": "/Preset/Shakey"
+ },
+ {
+  "id": "3026",
+  "text": "Sick record player",
+  "path": "/Preset/Sick record player"
+ },
+ {
+  "id": "3027",
+  "text": "Stereo echo",
+  "path": "/Preset/Stereo echo"
+ },
+ {
+  "id": "3028",
+  "text": "Through the skull",
+  "path": "/Preset/Through the skull"
+ },
+ {
+  "id": "3029",
+  "text": "Warped",
+  "path": "/Preset/Warped"
+ },
+ {
+  "id": "3030",
+  "text": "Wobble",
+  "path": "/Preset/Wobble"
+ },
+ {
+  "id": "3031",
+  "text": "Heavy long echoes",
+  "path": "/Preset/Heavy long echoes"
+ },
+ {
+  "id": "3032",
+  "text": "Slow, slight flanger",
+  "path": "/Preset/Slow, slight flanger"
+ },
+ {
+  "id": "3033",
+  "text": "Drunk",
+  "path": "/Preset/Drunk"
+ },
+ {
+  "id": "3034",
+  "text": "Chorus",
+  "path": "/Preset/Chorus"
+ },
+ {
+  "id": "3035",
+  "text": "Pitch bend",
+  "path": "/Preset/Pitch bend"
+ },
+ {
+  "id": "3036",
+  "text": "Tremolo, 50%, 10Hz",
+  "path": "/Preset/Tremolo, 50%, 10Hz"
+ },
+ {
+  "id": "3037",
+  "text": "Tremolo, full, 5Hz",
+  "path": "/Preset/Tremolo, full, 5Hz"
+ },
+ {
+  "id": "3038",
+  "text": "Classic 3",
+  "path": "/Preset/Classic 3"
+ },
+ {
+  "id": "3039",
+  "text": "Chorus 3",
+  "path": "/Preset/Chorus 3"
+ }
+]

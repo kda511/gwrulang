@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2080",
+  "text": "&Cascade",
+  "path": "/Forms/GWMainForm/ActionList/WindowCascade/Caption"
+ },
+ {
+  "id": "2081",
+  "text": "Arranges sound windows in a cascade layout",
+  "path": "/Forms/GWMainForm/ActionList/WindowCascade/Hint"
+ },
+ {
+  "id": "2082",
+  "text": "Tile &Horizontally",
+  "path": "/Forms/GWMainForm/ActionList/WindowTileHorizontal/Caption"
+ },
+ {
+  "id": "2083",
+  "text": "Arranges sound windows in a horizontal tile layout",
+  "path": "/Forms/GWMainForm/ActionList/WindowTileHorizontal/Hint"
+ },
+ {
+  "id": "2084",
+  "text": "Tile &Vertically",
+  "path": "/Forms/GWMainForm/ActionList/WindowTileVertical/Caption"
+ },
+ {
+  "id": "2085",
+  "text": "Arranges sound windows in a vertical tile layout",
+  "path": "/Forms/GWMainForm/ActionList/WindowTileVertical/Hint"
+ },
+ {
+  "id": "2086",
+  "text": "&Minimize All",
+  "path": "/Forms/GWMainForm/ActionList/WindowMinimizeAll/Caption"
+ },
+ {
+  "id": "2087",
+  "text": "Minimizes all sound windows to title bars",
+  "path": "/Forms/GWMainForm/ActionList/WindowMinimizeAll/Hint"
+ },
+ {
+  "id": "2088",
+  "text": "&Arrange All",
+  "path": "/Forms/GWMainForm/ActionList/WindowArrangeAll/Caption"
+ },
+ {
+  "id": "2089",
+  "text": "Arranges all minimized windows",
+  "path": "/Forms/GWMainForm/ActionList/WindowArrangeAll/Hint"
+ },
+ {
+  "id": "2090",
+  "text": "&Contents",
+  "path": "/Forms/GWMainForm/ActionList/HelpContents/Caption"
+ },
+ {
+  "id": "2091",
+  "text": "Help Contents|Displays help table of contents",
+  "path": "/Forms/GWMainForm/ActionList/HelpContents/Hint"
+ },
+ {
+  "id": "2092",
+  "text": "&Manual",
+  "path": "/Forms/GWMainForm/ActionList/HelpManual/Caption"
+ },
+ {
+  "id": "2093",
+  "text": "Manual|Displays the GoldWave manual",
+  "path": "/Forms/GWMainForm/ActionList/HelpManual/Hint"
+ },
+ {
+  "id": "2094",
+  "text": "Man",
+  "path": "/Forms/GWMainForm/ActionList/HelpManual/ToolCaption"
+ },
+ {
+  "id": "2095",
+  "text": "Check For &Updates",
+  "path": "/Forms/GWMainForm/ActionList/HelpUpdates/Caption"
+ },
+ {
+  "id": "2096",
+  "text": "Updates|Checks for updates on the GoldWave website",
+  "path": "/Forms/GWMainForm/ActionList/HelpUpdates/Hint"
+ },
+ {
+  "id": "2097",
+  "text": "&About...",
+  "path": "/Forms/GWMainForm/ActionList/HelpAbout/Caption"
+ },
+ {
+  "id": "2098",
+  "text": "About|Displays program information, version number, and copyright",
+  "path": "/Forms/GWMainForm/ActionList/HelpAbout/Hint"
+ },
+ {
+  "id": "2099",
+  "text": "&Register...",
+  "path": "/Forms/GWMainForm/ActionList/OptionRegister/Caption"
+ },
+ {
+  "id": "2100",
+  "text": "Lets you enter your license",
+  "path": "/Forms/GWMainForm/ActionList/OptionRegister/Hint"
+ },
+ {
+  "id": "2101",
+  "text": "Clas&sic Control",
+  "path": "/Forms/GWMainForm/ActionList/WindowClassicControls/Caption"
+ },
+ {
+  "id": "2102",
+  "text": "Arranges the Control window to a box in the lower right corner of the screen",
+  "path": "/Forms/GWMainForm/ActionList/WindowClassicControls/Hint"
+ },
+ {
+  "id": "2103",
+  "text": "Hori&zontal Control",
+  "path": "/Forms/GWMainForm/ActionList/WindowHorizontalControls/Caption"
+ },
+ {
+  "id": "2104",
+  "text": "Arranges the control window to a horizontal rectangle below the Main window",
+  "path": "/Forms/GWMainForm/ActionList/WindowHorizontalControls/Hint"
+ },
+ {
+  "id": "2105",
+  "text": "Ver&tical Control",
+  "path": "/Forms/GWMainForm/ActionList/WindowVerticalControls/Caption"
+ },
+ {
+  "id": "2106",
+  "text": "Arranges the Control window to a vertical rectangle to the right of the Main window",
+  "path": "/Forms/GWMainForm/ActionList/WindowVerticalControls/Hint"
+ },
+ {
+  "id": "2107",
+  "text": "Switches focus between the Main window and the Control window",
+  "path": "/Forms/GWMainForm/ActionList/KeySwitchWindow/Hint"
+ },
+ {
+  "id": "2108",
+  "text": "Show Cue &Lines",
+  "path": "/Forms/GWMainForm/ActionList/EditCueShowLines/Caption"
+ },
+ {
+  "id": "2109",
+  "text": "Displays vertical cue point lines on the waveform",
+  "path": "/Forms/GWMainForm/ActionList/EditCueShowLines/Hint"
+ },
+ {
+  "id": "2110",
+  "text": "Zoom In/Out",
+  "path": "/Forms/GWMainForm/ActionList/WheelZoom/Caption"
+ },
+ {
+  "id": "2111",
+  "text": "Sets the mouse wheel to zoom mode",
+  "path": "/Forms/GWMainForm/ActionList/WheelZoom/Hint"
+ },
+ {
+  "id": "2112",
+  "text": "Playback Speed",
+  "path": "/Forms/GWMainForm/ActionList/WheelSpeed/Caption"
+ },
+ {
+  "id": "2113",
+  "text": "Sets the mouse wheel to playback speed mode",
+  "path": "/Forms/GWMainForm/ActionList/WheelSpeed/Hint"
+ },
+ {
+  "id": "2114",
+  "text": "Scroll And Select",
+  "path": "/Forms/GWMainForm/ActionList/WheelScroll/Caption"
+ },
+ {
+  "id": "2115",
+  "text": "Sets the mouse wheel to scroll mode",
+  "path": "/Forms/GWMainForm/ActionList/WheelScroll/Hint"
+ },
+ {
+  "id": "2116",
+  "text": "Playback Volume",
+  "path": "/Forms/GWMainForm/ActionList/WheelVolume/Caption"
+ },
+ {
+  "id": "2117",
+  "text": "Sets the mouse wheel to volume mode",
+  "path": "/Forms/GWMainForm/ActionList/WheelVolume/Hint"
+ },
+ {
+  "id": "2118",
+  "text": "Fast forwards playback",
+  "path": "/Forms/GWMainForm/ActionList/NavigationFastForward/Hint"
+ },
+ {
+  "id": "2119",
+  "text": "Skip Back",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSkipBack/Caption"
+ },
+ {
+  "id": "2120",
+  "text": "Skips backward a few seconds and resumes playback",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSkipBack/Hint"
+ },
+ {
+  "id": "2121",
+  "text": "Reduces playback speed",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSpeedSlower/Hint"
+ },
+ {
+  "id": "2122",
+  "text": "Increases playback speed",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSpeedFaster/Hint"
+ },
+ {
+  "id": "2123",
+  "text": "Resets playback speed to normal",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSpeedNormal/Hint"
+ },
+ {
+  "id": "2124",
+  "text": "Displays the Cue Points tool",
+  "path": "/Forms/GWMainForm/ActionList/KeyCue/Hint"
+ },
+ {
+  "id": "2125",
+  "text": "Starts playback before the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/NavigationBeforeStart/Hint"
+ },
+ {
+  "id": "2126",
+  "text": "Starts playback at the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/NavigationAfterStart/Hint"
+ },
+ {
+  "id": "2127",
+  "text": "Starts playback before the finish } marker",
+  "path": "/Forms/GWMainForm/ActionList/NavigationBeforeFinish/Hint"
+ },
+ {
+  "id": "2128",
+  "text": "Starts playback at the finish } marker",
+  "path": "/Forms/GWMainForm/ActionList/NavigationAfterFinish/Hint"
+ },
+ {
+  "id": "2129",
+  "text": "Starts playback from the mouse pointer",
+  "path": "/Forms/GWMainForm/ActionList/NavigationPlayFromHere/Hint"
+ },
+ {
+  "id": "2130",
+  "text": "Starts or stops playback using Play 1",
+  "path": "/Forms/GWMainForm/ActionList/NavigationTogglePlay1/Hint"
+ },
+ {
+  "id": "2131",
+  "text": "Starts or stops playback using Play 2",
+  "path": "/Forms/GWMainForm/ActionList/NavigationTogglePlay2/Hint"
+ },
+ {
+  "id": "2132",
+  "text": "Starts or stops playback using Play 3",
+  "path": "/Forms/GWMainForm/ActionList/NavigationTogglePlay3/Hint"
+ },
+ {
+  "id": "2133",
+  "text": "Starts or stops recording in a new file",
+  "path": "/Forms/GWMainForm/ActionList/NavigationRecordNewToggle/Hint"
+ },
+ {
+  "id": "2134",
+  "text": "Starts or stops recording in the selection",
+  "path": "/Forms/GWMainForm/ActionList/NavigationRecordSelectionToggle/Hint"
+ },
+ {
+  "id": "2135",
+  "text": "Sets the playback marker",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSetPlayback/Hint"
+ },
+ {
+  "id": "2136",
+  "text": "Set Playback Here",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSetPlaybackHere/Caption"
+ },
+ {
+  "id": "2137",
+  "text": "Moves the playback marker to the mouse pointer",
+  "path": "/Forms/GWMainForm/ActionList/NavigationSetPlaybackHere/Hint"
+ },
+ {
+  "id": "2138",
+  "text": "Sets the selection to the area between the cue points closest to the start { marker or next closest area",
+  "path": "/Forms/GWMainForm/ActionList/EditCueSelectBetweenNext/Hint"
+ },
+ {
+  "id": "2139",
+  "text": "Clear List",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentProperties/Caption"
+ },
+ {
+  "id": "2140",
+  "text": "Clears all files from the recent list",
+  "path": "/Forms/GWMainForm/ActionList/FileRecentProperties/Hint"
+ },
+ {
+  "id": "2141",
+  "text": "Allow Toolbar Reordering",
+  "path": "/Forms/GWMainForm/ActionList/ToolbarReorder/Caption"
+ },
+ {
+  "id": "2142",
+  "text": "Allows bands on the toolbar to be reordered",
+  "path": "/Forms/GWMainForm/ActionList/ToolbarReorder/Hint"
+ },
+ {
+  "id": "2143",
+  "text": "Reset Toolbar",
+  "path": "/Forms/GWMainForm/ActionList/ToolbarReset/Caption"
+ },
+ {
+  "id": "2144",
+  "text": "Resets the toolbar to is original layout",
+  "path": "/Forms/GWMainForm/ActionList/ToolbarReset/Hint"
+ },
+ {
+  "id": "2145",
+  "text": "Scrolls the view left",
+  "path": "/Forms/GWMainForm/ActionList/ViewScrollLeft/Hint"
+ },
+ {
+  "id": "2146",
+  "text": "Scrolls the view right",
+  "path": "/Forms/GWMainForm/ActionList/ViewScrollRight/Hint"
+ },
+ {
+  "id": "2147",
+  "text": "Scrolls the view left one page",
+  "path": "/Forms/GWMainForm/ActionList/ViewScrollPageLeft/Hint"
+ },
+ {
+  "id": "2148",
+  "text": "Scrolls the view right one page",
+  "path": "/Forms/GWMainForm/ActionList/ViewScrollPageRight/Hint"
+ },
+ {
+  "id": "2149",
+  "text": "Moves the start { marker left",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartLeft/Hint"
+ },
+ {
+  "id": "2150",
+  "text": "Moves the start marker { right",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartRight/Hint"
+ },
+ {
+  "id": "2151",
+  "text": "Moves the start marker { one screen left",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartPageLeft/Hint"
+ },
+ {
+  "id": "2152",
+  "text": "Moves the start marker { one screen right",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartPageRight/Hint"
+ },
+ {
+  "id": "2153",
+  "text": "Moves the finish } marker left",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishLeft/Hint"
+ },
+ {
+  "id": "2154",
+  "text": "Moves the finish } marker right",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishRight/Hint"
+ },
+ {
+  "id": "2155",
+  "text": "Moves the finish } marker one screen left",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishPageLeft/Hint"
+ },
+ {
+  "id": "2156",
+  "text": "Moves the finish } marker one screen right",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishPageRight/Hint"
+ },
+ {
+  "id": "2157",
+  "text": "Scrolls the view up",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalScrollUp/Hint"
+ },
+ {
+  "id": "2158",
+  "text": "Scrolls the view down",
+  "path": "/Forms/GWMainForm/ActionList/ViewVerticalScrollDown/Hint"
+ },
+ {
+  "id": "2159",
+  "text": "Zoom Selection",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomInSelection/Caption"
+ }
+]

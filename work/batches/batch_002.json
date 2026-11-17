@@ -1,0 +1,402 @@
+[
+ {
+  "id": "80",
+  "text": "Record",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/Caption"
+ },
+ {
+  "id": "81",
+  "text": " Recording options ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/Caption"
+ },
+ {
+  "id": "82",
+  "text": "Power down system",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordPowerDown/Caption"
+ },
+ {
+  "id": "83",
+  "text": "Auto save",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordAutoSave/Caption"
+ },
+ {
+  "id": "84",
+  "text": "Filter dc offset",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordFilterOffset/Caption"
+ },
+ {
+  "id": "85",
+  "text": "Show settings window",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordShowSettings/Caption"
+ },
+ {
+  "id": "86",
+  "text": "Set finish marker at stop",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordSetFinish/Caption"
+ },
+ {
+  "id": "87",
+  "text": "Ctrl key safety",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordSafety/Caption"
+ },
+ {
+  "id": "88",
+  "text": "Monitor input on visuals",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordMonitor/Caption"
+ },
+ {
+  "id": "89",
+  "text": "New File Duration",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordNewDuration/Label"
+ },
+ {
+  "id": "90",
+  "text": "Use new file duration:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordOptionsGroup/RecordUseDuration/Caption"
+ },
+ {
+  "id": "91",
+  "text": " Delayed recording ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/Caption"
+ },
+ {
+  "id": "92",
+  "text": "&Timer",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordTimer/Caption"
+ },
+ {
+  "id": "93",
+  "text": "Time",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordTimeEdit/Label"
+ },
+ {
+  "id": "94",
+  "text": "T&ime:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordTimeLabel/Caption"
+ },
+ {
+  "id": "95",
+  "text": "Today",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Text"
+ },
+ {
+  "id": "96",
+  "text": "Tomorrow",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/1"
+ },
+ {
+  "id": "97",
+  "text": "Sunday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/2"
+ },
+ {
+  "id": "98",
+  "text": "Monday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/3"
+ },
+ {
+  "id": "99",
+  "text": "Tuesday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/4"
+ },
+ {
+  "id": "100",
+  "text": "Wednesday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/5"
+ },
+ {
+  "id": "101",
+  "text": "Thursday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/6"
+ },
+ {
+  "id": "102",
+  "text": "Friday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/7"
+ },
+ {
+  "id": "103",
+  "text": "Saturday",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayBox/Items.Strings/8"
+ },
+ {
+  "id": "104",
+  "text": "Da&y:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDayLabel/Caption"
+ },
+ {
+  "id": "105",
+  "text": "Le&vel activated",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordLevel/Caption"
+ },
+ {
+  "id": "106",
+  "text": "Threshold",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordThresholdEdit/Label"
+ },
+ {
+  "id": "107",
+  "text": "Thres&hold (dB):",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordThresholdLabel/Caption"
+ },
+ {
+  "id": "108",
+  "text": "Level Duration",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDurationEdit/Label"
+ },
+ {
+  "id": "109",
+  "text": "Minimum &duration (s):",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordDurationLabel/Caption"
+ },
+ {
+  "id": "110",
+  "text": "Prebuffer",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordPrebufferEdit/Label"
+ },
+ {
+  "id": "111",
+  "text": "&Prebuffer (s):",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordPrebufferLabel/Caption"
+ },
+ {
+  "id": "112",
+  "text": "Time stamp cues:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordTimeStamp/Caption"
+ },
+ {
+  "id": "113",
+  "text": "%Y-%m-%d, %H:%M:%S",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordDelayedGroup/RecordTimeStampFormat/Text"
+ },
+ {
+  "id": "114",
+  "text": " Record mode ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/RecordSheet/RecordModeGroup/Caption"
+ },
+ {
+  "id": "115",
+  "text": "Volume device:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VolumeSheet/VolumeDeviceBoxLabel/Caption"
+ },
+ {
+  "id": "116",
+  "text": "Master control",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VolumeSheet/VolumeMasterNum/Label"
+ },
+ {
+  "id": "117",
+  "text": "Master control:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VolumeSheet/VolumeMasterLabel/Caption"
+ },
+ {
+  "id": "118",
+  "text": "Mute all",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VolumeSheet/VolumeMasterSelect/Caption"
+ },
+ {
+  "id": "119",
+  "text": "Master Volume",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VolumeSheet/VolumeMasterBar/Caption"
+ },
+ {
+  "id": "120",
+  "text": "Visual",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/Caption"
+ },
+ {
+  "id": "121",
+  "text": "Visuals:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLVisuals/Caption"
+ },
+ {
+  "id": "122",
+  "text": "2 Mixed",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualCount/Text"
+ },
+ {
+  "id": "123",
+  "text": "Frame rate:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualFrameRate/Caption"
+ },
+ {
+  "id": "124",
+  "text": "Status:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLStatus/Caption"
+ },
+ {
+  "id": "125",
+  "text": "Visual Properties",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualStatusProperties/Caption"
+ },
+ {
+  "id": "126",
+  "text": "Level:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLLevel/Caption"
+ },
+ {
+  "id": "127",
+  "text": "Left:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLLeft/Caption"
+ },
+ {
+  "id": "128",
+  "text": "Right:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLRight/Caption"
+ },
+ {
+  "id": "129",
+  "text": "Center:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLCenter/Caption"
+ },
+ {
+  "id": "130",
+  "text": "LFE/Woofer:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLLFE/Caption"
+ },
+ {
+  "id": "131",
+  "text": "Back left:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLLeftBack/Caption"
+ },
+ {
+  "id": "132",
+  "text": "Back right:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLRightBack/Caption"
+ },
+ {
+  "id": "133",
+  "text": "Side left:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLLeftSide/Caption"
+ },
+ {
+  "id": "134",
+  "text": "Side right:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VLRightSide/Caption"
+ },
+ {
+  "id": "135",
+  "text": "Quick select menu:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/QuickMenuLabel/Caption"
+ },
+ {
+  "id": "136",
+  "text": " Visual FFT settings ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/Caption"
+ },
+ {
+  "id": "137",
+  "text": "FFT window:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/FFTWindowLabel/Caption"
+ },
+ {
+  "id": "138",
+  "text": "Kaiser 7",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualFFTWindowBox/Text"
+ },
+ {
+  "id": "139",
+  "text": "None",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualFFTWindowBox/Items.Strings/0"
+ },
+ {
+  "id": "140",
+  "text": "Hann",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualFFTWindowBox/Items.Strings/1"
+ },
+ {
+  "id": "141",
+  "text": "Triangular",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualFFTWindowBox/Items.Strings/2"
+ },
+ {
+  "id": "142",
+  "text": "Minimum dB:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualMinimumdB/Caption"
+ },
+ {
+  "id": "143",
+  "text": "FFT si&ze:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualFFTSizePrompt/Caption"
+ },
+ {
+  "id": "144",
+  "text": "Auto",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/VisualSheet/VisualSettings/VisualFFTSize/Items.Strings/8"
+ },
+ {
+  "id": "145",
+  "text": "Device",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/Caption"
+ },
+ {
+  "id": "146",
+  "text": "Foot pedal or buttons (HID)",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceHidInput/Items.Strings/1"
+ },
+ {
+  "id": "147",
+  "text": "Game controller",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceHidInput/Items.Strings/2"
+ },
+ {
+  "id": "148",
+  "text": "Joystick/pedal control:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceJoystickLabel/Caption"
+ },
+ {
+  "id": "149",
+  "text": " Record ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/Caption"
+ },
+ {
+  "id": "150",
+  "text": "PCM 16 bit",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordQuality/Items.Strings/0"
+ },
+ {
+  "id": "151",
+  "text": "PCM 24 bit",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordQuality/Items.Strings/1"
+ },
+ {
+  "id": "152",
+  "text": "IEEE 32 bit",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordQuality/Items.Strings/2"
+ },
+ {
+  "id": "153",
+  "text": "Shared",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordQuality/Items.Strings/3"
+ },
+ {
+  "id": "154",
+  "text": "Quality:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordQualityLabel/Caption"
+ },
+ {
+  "id": "155",
+  "text": "Channels:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceMonoSourceLabel/Caption"
+ },
+ {
+  "id": "156",
+  "text": "Volume (dB):",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordVolume/Caption"
+ },
+ {
+  "id": "157",
+  "text": "Test",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordTest/Caption"
+ },
+ {
+  "id": "158",
+  "text": "All channels",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Text"
+ },
+ {
+  "id": "159",
+  "text": "Stereo: mix down",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/1"
+ }
+]

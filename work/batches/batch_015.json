@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1120",
+  "text": "Telugu",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/41"
+ },
+ {
+  "id": "1121",
+  "text": "Persian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/42"
+ },
+ {
+  "id": "1122",
+  "text": "Latvian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/43"
+ },
+ {
+  "id": "1123",
+  "text": "Bengali",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/44"
+ },
+ {
+  "id": "1124",
+  "text": "Serbian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/45"
+ },
+ {
+  "id": "1125",
+  "text": "Azerbaijani",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/46"
+ },
+ {
+  "id": "1126",
+  "text": "Slovenian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/47"
+ },
+ {
+  "id": "1127",
+  "text": "Kannada",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/48"
+ },
+ {
+  "id": "1128",
+  "text": "Estonian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/49"
+ },
+ {
+  "id": "1129",
+  "text": "Macedonian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/50"
+ },
+ {
+  "id": "1130",
+  "text": "Breton",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/51"
+ },
+ {
+  "id": "1131",
+  "text": "Basque",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/52"
+ },
+ {
+  "id": "1132",
+  "text": "Icelandic",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/53"
+ },
+ {
+  "id": "1133",
+  "text": "Armenian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/54"
+ },
+ {
+  "id": "1134",
+  "text": "Nepali",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/55"
+ },
+ {
+  "id": "1135",
+  "text": "Mongolian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/56"
+ },
+ {
+  "id": "1136",
+  "text": "Bosnian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/57"
+ },
+ {
+  "id": "1137",
+  "text": "Kazakh",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/58"
+ },
+ {
+  "id": "1138",
+  "text": "Albanian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/59"
+ },
+ {
+  "id": "1139",
+  "text": "Swahili",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/60"
+ },
+ {
+  "id": "1140",
+  "text": "Galician",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/61"
+ },
+ {
+  "id": "1141",
+  "text": "Marathi",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/62"
+ },
+ {
+  "id": "1142",
+  "text": "Punjabi",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/63"
+ },
+ {
+  "id": "1143",
+  "text": "Sinhala",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/64"
+ },
+ {
+  "id": "1144",
+  "text": "Khmer",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/65"
+ },
+ {
+  "id": "1145",
+  "text": "Shona",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/66"
+ },
+ {
+  "id": "1146",
+  "text": "Yoruba",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/67"
+ },
+ {
+  "id": "1147",
+  "text": "Somali",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/68"
+ },
+ {
+  "id": "1148",
+  "text": "Afrikaans",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/69"
+ },
+ {
+  "id": "1149",
+  "text": "Occitan",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/70"
+ },
+ {
+  "id": "1150",
+  "text": "Georgian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/71"
+ },
+ {
+  "id": "1151",
+  "text": "Belarusian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/72"
+ },
+ {
+  "id": "1152",
+  "text": "Tajik",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/73"
+ },
+ {
+  "id": "1153",
+  "text": "Sindhi",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/74"
+ },
+ {
+  "id": "1154",
+  "text": "Gujarati",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/75"
+ },
+ {
+  "id": "1155",
+  "text": "Amharic",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/76"
+ },
+ {
+  "id": "1156",
+  "text": "Yiddish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/77"
+ },
+ {
+  "id": "1157",
+  "text": "Lao",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/78"
+ },
+ {
+  "id": "1158",
+  "text": "Uzbek",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/79"
+ },
+ {
+  "id": "1159",
+  "text": "Faroese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/80"
+ },
+ {
+  "id": "1160",
+  "text": "Haitian Creole",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/81"
+ },
+ {
+  "id": "1161",
+  "text": "Pashto",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/82"
+ },
+ {
+  "id": "1162",
+  "text": "Turkmen",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/83"
+ },
+ {
+  "id": "1163",
+  "text": "Nynorsk",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/84"
+ },
+ {
+  "id": "1164",
+  "text": "Maltese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/85"
+ },
+ {
+  "id": "1165",
+  "text": "Sanskrit",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/86"
+ },
+ {
+  "id": "1166",
+  "text": "Luxembourgish",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/87"
+ },
+ {
+  "id": "1167",
+  "text": "Myanmar",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/88"
+ },
+ {
+  "id": "1168",
+  "text": "Tibetan",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/89"
+ },
+ {
+  "id": "1169",
+  "text": "Tagalog",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/90"
+ },
+ {
+  "id": "1170",
+  "text": "Malagasy",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/91"
+ },
+ {
+  "id": "1171",
+  "text": "Assamese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/92"
+ },
+ {
+  "id": "1172",
+  "text": "Tatar",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/93"
+ },
+ {
+  "id": "1173",
+  "text": "Hawaiian",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/94"
+ },
+ {
+  "id": "1174",
+  "text": "Lingala",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/95"
+ },
+ {
+  "id": "1175",
+  "text": "Hausa",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/96"
+ },
+ {
+  "id": "1176",
+  "text": "Bashkir",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/97"
+ },
+ {
+  "id": "1177",
+  "text": "Javanese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/98"
+ },
+ {
+  "id": "1178",
+  "text": "Sundanese",
+  "path": "/Forms/TranscribeOptionsForm/Panel2/Language/Items.Strings/99"
+ },
+ {
+  "id": "1179",
+  "text": "Whisper Tiny, 75 MB (English Only)",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Text"
+ },
+ {
+  "id": "1180",
+  "text": "Whisper Tiny, 75 MB",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/1"
+ },
+ {
+  "id": "1181",
+  "text": "Whisper Base, 142 MB (English Only)",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/2"
+ },
+ {
+  "id": "1182",
+  "text": "Whisper Base, 142 MB",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/3"
+ },
+ {
+  "id": "1183",
+  "text": "Whisper Small, 466 MB (English Only)",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/4"
+ },
+ {
+  "id": "1184",
+  "text": "Whisper Small, 466 MB",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/5"
+ },
+ {
+  "id": "1185",
+  "text": "Whisper Medium, 1500 MB (English Only)",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/6"
+ },
+ {
+  "id": "1186",
+  "text": "Whisper Medium, 1500 MB",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/7"
+ },
+ {
+  "id": "1187",
+  "text": "Whisper Large, 2900 MB",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/8"
+ },
+ {
+  "id": "1188",
+  "text": "Whisper Large Turbo, 1600 MB",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/Model/Items.Strings/9"
+ },
+ {
+  "id": "1189",
+  "text": "AI model:",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/AIModelLabel/Caption"
+ },
+ {
+  "id": "1190",
+  "text": "Deletes the model to free storage or redownload",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/ButtonDelete/Hint"
+ },
+ {
+  "id": "1191",
+  "text": "Delete Model",
+  "path": "/Forms/TranscribeOptionsForm/Panel1/ButtonDelete/Caption"
+ },
+ {
+  "id": "1192",
+  "text": "Confidence colours",
+  "path": "/Forms/TranscribeOptionsForm/Panel3/Colour/Caption"
+ },
+ {
+  "id": "1193",
+  "text": "Translate to English",
+  "path": "/Forms/TranscribeOptionsForm/Panel3/Translate/Caption"
+ },
+ {
+  "id": "1194",
+  "text": "Timestamp",
+  "path": "/Forms/TranscribeOptionsForm/Panel3/Timestamp/Caption"
+ },
+ {
+  "id": "1195",
+  "text": "Font size:",
+  "path": "/Forms/TranscribeOptionsForm/FontSize/Caption"
+ },
+ {
+  "id": "1196",
+  "text": "Show transcription bar in Sound windows",
+  "path": "/Forms/TranscribeOptionsForm/DisableBar/Caption"
+ },
+ {
+  "id": "1197",
+  "text": "Properties",
+  "path": "/Forms/PageForm/Caption"
+ },
+ {
+  "id": "1198",
+  "text": "&Update",
+  "path": "/Forms/PageForm/ActionList/ApplyAction/Caption"
+ },
+ {
+  "id": "1199",
+  "text": "Uses the current settings now",
+  "path": "/Forms/PageForm/ActionList/ApplyAction/Hint"
+ }
+]

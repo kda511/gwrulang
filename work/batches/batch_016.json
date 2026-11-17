@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1200",
+  "text": "Test Playback",
+  "path": "/Forms/TestPlaybackForm/Caption"
+ },
+ {
+  "id": "1201",
+  "text": "Rate: ",
+  "path": "/Forms/TestPlaybackForm/RateLabel/Caption"
+ },
+ {
+  "id": "1202",
+  "text": "Channels: ",
+  "path": "/Forms/TestPlaybackForm/ChannelsLabel/Caption"
+ },
+ {
+  "id": "1203",
+  "text": "Quality: ",
+  "path": "/Forms/TestPlaybackForm/QualityLabel/Caption"
+ },
+ {
+  "id": "1204",
+  "text": " Sound ",
+  "path": "/Forms/TestPlaybackForm/Sound/Caption"
+ },
+ {
+  "id": "1205",
+  "text": "1000Hz tone",
+  "path": "/Forms/TestPlaybackForm/Sound/Items.Strings/0"
+ },
+ {
+  "id": "1206",
+  "text": "Full sweep",
+  "path": "/Forms/TestPlaybackForm/Sound/Items.Strings/1"
+ },
+ {
+  "id": "1207",
+  "text": "Static noise",
+  "path": "/Forms/TestPlaybackForm/Sound/Items.Strings/2"
+ },
+ {
+  "id": "1208",
+  "text": "Preset",
+  "path": "/Forms/PresetForm/Caption"
+ },
+ {
+  "id": "1209",
+  "text": "Processing ",
+  "path": "/Forms/ProgressForm/Caption"
+ },
+ {
+  "id": "1210",
+  "text": "Time remaining ??:??:?? (0%)",
+  "path": "/Forms/ProgressForm/Label/Caption"
+ },
+ {
+  "id": "1211",
+  "text": "Maximum priority",
+  "path": "/Forms/ProgressForm/Priority/Text"
+ },
+ {
+  "id": "1212",
+  "text": "High priority",
+  "path": "/Forms/ProgressForm/Priority/Items.Strings/1"
+ },
+ {
+  "id": "1213",
+  "text": "Medium priority",
+  "path": "/Forms/ProgressForm/Priority/Items.Strings/2"
+ },
+ {
+  "id": "1214",
+  "text": "Low priority",
+  "path": "/Forms/ProgressForm/Priority/Items.Strings/3"
+ },
+ {
+  "id": "1215",
+  "text": "Very low priority",
+  "path": "/Forms/ProgressForm/Priority/Items.Strings/4"
+ },
+ {
+  "id": "1216",
+  "text": "Pause",
+  "path": "/Forms/ProgressForm/Priority/Items.Strings/5"
+ },
+ {
+  "id": "1217",
+  "text": "Silent notification",
+  "path": "/Forms/ProgressForm/Notification/Text"
+ },
+ {
+  "id": "1218",
+  "text": "Default beep",
+  "path": "/Forms/ProgressForm/Notification/Items.Strings/1"
+ },
+ {
+  "id": "1219",
+  "text": "Exclamation beep",
+  "path": "/Forms/ProgressForm/Notification/Items.Strings/2"
+ },
+ {
+  "id": "1220",
+  "text": "Voice notification",
+  "path": "/Forms/ProgressForm/Notification/Items.Strings/3"
+ },
+ {
+  "id": "1221",
+  "text": "Always use this duration",
+  "path": "/Forms/RecordDurationForm/AlwaysUse/Caption"
+ },
+ {
+  "id": "1222",
+  "text": "Recording duration (HH:MM:SS.T):",
+  "path": "/Forms/RecordDurationForm/LengthLabel/Caption"
+ },
+ {
+  "id": "1223",
+  "text": "Record Properties",
+  "path": "/Forms/RecordHint/Caption"
+ },
+ {
+  "id": "1224",
+  "text": "Settings:",
+  "path": "/Forms/RecordHint/SettingsLink/Text"
+ },
+ {
+  "id": "1225",
+  "text": "Volume:",
+  "path": "/Forms/RecordHint/VolumeLink/Text"
+ },
+ {
+  "id": "1226",
+  "text": "Device:",
+  "path": "/Forms/RecordHint/DeviceLink/Text"
+ },
+ {
+  "id": "1227",
+  "text": "Duration:",
+  "path": "/Forms/RecordHint/DurationLink/Text"
+ },
+ {
+  "id": "1228",
+  "text": "Test Device",
+  "path": "/Forms/TestRecordingForm/Caption"
+ },
+ {
+  "id": "1229",
+  "text": "Register License",
+  "path": "/Forms/RegisterForm/Caption"
+ },
+ {
+  "id": "1230",
+  "text": "User ID:",
+  "path": "/Forms/RegisterForm/UserIdLabel/Caption"
+ },
+ {
+  "id": "1231",
+  "text": "License:",
+  "path": "/Forms/RegisterForm/LicenseLabel/Caption"
+ },
+ {
+  "id": "1232",
+  "text": "Lost your license?",
+  "path": "/Forms/RegisterForm/LostLicense/Caption"
+ },
+ {
+  "id": "1233",
+  "text": "License all users for this computer",
+  "path": "/Forms/RegisterForm/AllUsers/Caption"
+ },
+ {
+  "id": "1234",
+  "text": "GoldWave Evaluation Version Reminder",
+  "path": "/Forms/ReminderForm/Caption"
+ },
+ {
+  "id": "1235",
+  "text": "Free Trial License",
+  "path": "/Forms/ReminderForm/Extension/Caption"
+ },
+ {
+  "id": "1236",
+  "text": "Enter License",
+  "path": "/Forms/ReminderForm/License/Caption"
+ },
+ {
+  "id": "1237",
+  "text": "Thank you for trying GoldWave!  The evaluation period has expired.   Please purchase a license to continue.",
+  "path": "/Forms/ReminderForm/Message/Lines.Strings/0"
+ },
+ {
+  "id": "1238",
+  "text": " Benefits include:",
+  "path": "/Forms/ReminderForm/Message/Lines.Strings/1"
+ },
+ {
+  "id": "1239",
+  "text": "  • Unlimited saves",
+  "path": "/Forms/ReminderForm/Message/Lines.Strings/2"
+ },
+ {
+  "id": "1240",
+  "text": "  • Free upgrades",
+  "path": "/Forms/ReminderForm/Message/Lines.Strings/3"
+ },
+ {
+  "id": "1241",
+  "text": "  • Covers all major systems: Windows, Android, iOS, MacOS, Linux",
+  "path": "/Forms/ReminderForm/Message/Lines.Strings/4"
+ },
+ {
+  "id": "1242",
+  "text": "You may request a Free Trial License for unlimited saves for one month.",
+  "path": "/Forms/ReminderForm/Message/Lines.Strings/6"
+ },
+ {
+  "id": "1243",
+  "text": "Buy License",
+  "path": "/Forms/ReminderForm/Purchase/Caption"
+ },
+ {
+  "id": "1244",
+  "text": "Playback position:",
+  "path": "/Forms/SetPlaybackForm/TimeLabel/Caption"
+ },
+ {
+  "id": "1245",
+  "text": "Location",
+  "path": "/Forms/SetPlaybackForm/Time/Label"
+ },
+ {
+  "id": "1246",
+  "text": "Absolute",
+  "path": "/Forms/SetPlaybackForm/Mode/Text"
+ },
+ {
+  "id": "1247",
+  "text": "Subtract",
+  "path": "/Forms/SetPlaybackForm/Mode/Items.Strings/2"
+ },
+ {
+  "id": "1248",
+  "text": "Set Selection",
+  "path": "/Forms/SetSelectionForm/Caption"
+ },
+ {
+  "id": "1249",
+  "text": "&Time based range ",
+  "path": "/Forms/SetSelectionForm/ByTime/Caption"
+ },
+ {
+  "id": "1250",
+  "text": "&Sample based range ",
+  "path": "/Forms/SetSelectionForm/BySample/Caption"
+ },
+ {
+  "id": "1251",
+  "text": " Range alignment ",
+  "path": "/Forms/SetSelectionForm/Alignment/Caption"
+ },
+ {
+  "id": "1252",
+  "text": "&None",
+  "path": "/Forms/SetSelectionForm/Alignment/Items.Strings/0"
+ },
+ {
+  "id": "1253",
+  "text": "&CD sector (2352 bytes/588 samples)",
+  "path": "/Forms/SetSelectionForm/Alignment/Items.Strings/1"
+ },
+ {
+  "id": "1254",
+  "text": "1 &kilosample (1024 samples)",
+  "path": "/Forms/SetSelectionForm/Alignment/Items.Strings/2"
+ },
+ {
+  "id": "1255",
+  "text": "System Shutdown",
+  "path": "/Forms/ShutdownForm/Caption"
+ },
+ {
+  "id": "1256",
+  "text": "System shutdown imminent!",
+  "path": "/Forms/ShutdownForm/LWarning/Caption"
+ },
+ {
+  "id": "1257",
+  "text": "Specify View",
+  "path": "/Forms/SpecifyViewForm/Caption"
+ },
+ {
+  "id": "1258",
+  "text": "Start time",
+  "path": "/Forms/SpecifyViewForm/Start/Label"
+ },
+ {
+  "id": "1259",
+  "text": "Start time:",
+  "path": "/Forms/SpecifyViewForm/StartLabel/Caption"
+ },
+ {
+  "id": "1260",
+  "text": "Ratio:",
+  "path": "/Forms/SpecifyViewForm/RatioRadio/Caption"
+ },
+ {
+  "id": "1261",
+  "text": "Ratio",
+  "path": "/Forms/SpecifyViewForm/Ratio/Label"
+ },
+ {
+  "id": "1262",
+  "text": "Command Menu",
+  "path": "/Forms/SpeechForm/MenuButton/Hint"
+ },
+ {
+  "id": "1263",
+  "text": "Paste text here and use the Speak button to read it.",
+  "path": "/Forms/SpeechForm/Words/Lines.Strings/0"
+ },
+ {
+  "id": "1264",
+  "text": "Use the Dictate button to convert spoken audio to text in this window.",
+  "path": "/Forms/SpeechForm/Words/Lines.Strings/2"
+ },
+ {
+  "id": "1265",
+  "text": "ToolBar",
+  "path": "/Forms/SpeechForm/TextToolBar/Caption"
+ },
+ {
+  "id": "1266",
+  "text": "SpeechToolBar",
+  "path": "/Forms/SpeechForm/SpeechToolBar/Caption"
+ },
+ {
+  "id": "1267",
+  "text": "Voice",
+  "path": "/Forms/SpeechForm/StatusBar/Panels/0/Text"
+ },
+ {
+  "id": "1268",
+  "text": "Recognizer",
+  "path": "/Forms/SpeechForm/StatusBar/Panels/1/Text"
+ },
+ {
+  "id": "1269",
+  "text": "Copy|Copies the selection and puts it on the Clipboard",
+  "path": "/Forms/SpeechForm/ActionManager/EditCopy/Hint"
+ },
+ {
+  "id": "1270",
+  "text": "Cut",
+  "path": "/Forms/SpeechForm/ActionManager/EditCut/Caption"
+ },
+ {
+  "id": "1271",
+  "text": "Cut|Cuts the selection and puts it on the Clipboard",
+  "path": "/Forms/SpeechForm/ActionManager/EditCut/Hint"
+ },
+ {
+  "id": "1272",
+  "text": "Paste|Inserts Clipboard contents",
+  "path": "/Forms/SpeechForm/ActionManager/EditPaste/Hint"
+ },
+ {
+  "id": "1273",
+  "text": "Select All|Selects the entire document",
+  "path": "/Forms/SpeechForm/ActionManager/EditSelectAll/Hint"
+ },
+ {
+  "id": "1274",
+  "text": "Open Text...",
+  "path": "/Forms/SpeechForm/ActionManager/FileOpen/Caption"
+ },
+ {
+  "id": "1275",
+  "text": "Open|Opens an existing text file",
+  "path": "/Forms/SpeechForm/ActionManager/FileOpen/Hint"
+ },
+ {
+  "id": "1276",
+  "text": "Speak",
+  "path": "/Forms/SpeechForm/ActionManager/Speak/Caption"
+ },
+ {
+  "id": "1277",
+  "text": "Speak|Uses voice synthesis to read the text (text to speech)",
+  "path": "/Forms/SpeechForm/ActionManager/Speak/Hint"
+ },
+ {
+  "id": "1278",
+  "text": "Dictate...",
+  "path": "/Forms/SpeechForm/ActionManager/Dictate/Caption"
+ },
+ {
+  "id": "1279",
+  "text": "Dictate|Uses voice recognition to convert spoken audio to text",
+  "path": "/Forms/SpeechForm/ActionManager/Dictate/Hint"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2000",
+  "text": "Fade &Out...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeFadeOut/Caption"
+ },
+ {
+  "id": "2001",
+  "text": "Fade Out: Fades out the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeFadeOut/Hint"
+ },
+ {
+  "id": "2002",
+  "text": "Loudness...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeLoudness/Caption"
+ },
+ {
+  "id": "2003",
+  "text": "Loudness: Sets the loudness of a file to a standard level",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeLoudness/Hint"
+ },
+ {
+  "id": "2004",
+  "text": "M&atch Volume...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeMatch/Caption"
+ },
+ {
+  "id": "2005",
+  "text": "Match Volume: Matches the average volume to an absolute level",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeMatch/Hint"
+ },
+ {
+  "id": "2006",
+  "text": "&Maximize Volume...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeMaximize/Caption"
+ },
+ {
+  "id": "2007",
+  "text": "Maximize Volume: Normalizes/maximizes the volume",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeMaximize/Hint"
+ },
+ {
+  "id": "2008",
+  "text": "&Shape Volume...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeShape/Caption"
+ },
+ {
+  "id": "2009",
+  "text": "Shape Volume: Dynamically shapes the volume",
+  "path": "/Forms/GWMainForm/ActionList/EffectVolumeShape/Hint"
+ },
+ {
+  "id": "2010",
+  "text": "&Pan...",
+  "path": "/Forms/GWMainForm/ActionList/EffectPan/Caption"
+ },
+ {
+  "id": "2011",
+  "text": "Pan: Dynamically controls left and right balance",
+  "path": "/Forms/GWMainForm/ActionList/EffectPan/Hint"
+ },
+ {
+  "id": "2012",
+  "text": "&Reduce Vocals...",
+  "path": "/Forms/GWMainForm/ActionList/EffectRemoveVocals/Caption"
+ },
+ {
+  "id": "2013",
+  "text": "Reduce Vocals: Removes or reduces the vocals in music",
+  "path": "/Forms/GWMainForm/ActionList/EffectRemoveVocals/Hint"
+ },
+ {
+  "id": "2014",
+  "text": "Stereo Center...",
+  "path": "/Forms/GWMainForm/ActionList/EffectStereoCenter/Caption"
+ },
+ {
+  "id": "2015",
+  "text": "Stereo Center: Extracts the center audio from the stereo side channels and adjust the volumes",
+  "path": "/Forms/GWMainForm/ActionList/EffectStereoCenter/Hint"
+ },
+ {
+  "id": "2016",
+  "text": "&Channel Mixer...",
+  "path": "/Forms/GWMainForm/ActionList/EffectChannelMix/Caption"
+ },
+ {
+  "id": "2017",
+  "text": "Channel Mixer: Mixes or combines the left and right channels",
+  "path": "/Forms/GWMainForm/ActionList/EffectChannelMix/Hint"
+ },
+ {
+  "id": "2018",
+  "text": "&MaxMatch",
+  "path": "/Forms/GWMainForm/ActionList/EffectMaxMatch/Caption"
+ },
+ {
+  "id": "2019",
+  "text": "MaxMatch: Automatically matches and maximizes left and right channels volumes",
+  "path": "/Forms/GWMainForm/ActionList/EffectMaxMatch/Hint"
+ },
+ {
+  "id": "2020",
+  "text": "&Time...",
+  "path": "/Forms/GWMainForm/ActionList/EffectTime/Caption"
+ },
+ {
+  "id": "2021",
+  "text": "Time: Changes the duration or tempo of the selection",
+  "path": "/Forms/GWMainForm/ActionList/EffectTime/Hint"
+ },
+ {
+  "id": "2022",
+  "text": "Voice Over...",
+  "path": "/Forms/GWMainForm/ActionList/EffectVoiceOver/Caption"
+ },
+ {
+  "id": "2023",
+  "text": "Voice Over: Fades and mixes the clipboard over the selection for voice overs",
+  "path": "/Forms/GWMainForm/ActionList/EffectVoiceOver/Hint"
+ },
+ {
+  "id": "2024",
+  "text": "&Playback Rate...",
+  "path": "/Forms/GWMainForm/ActionList/EffectPlaybackRate/Caption"
+ },
+ {
+  "id": "2025",
+  "text": "Playback Rate: Changes the playback sampling rate",
+  "path": "/Forms/GWMainForm/ActionList/EffectPlaybackRate/Hint"
+ },
+ {
+  "id": "2026",
+  "text": "Resa&mple...",
+  "path": "/Forms/GWMainForm/ActionList/EffectResample/Caption"
+ },
+ {
+  "id": "2027",
+  "text": "Resample: Converts the sampling rate to a different rate",
+  "path": "/Forms/GWMainForm/ActionList/EffectResample/Hint"
+ },
+ {
+  "id": "2028",
+  "text": "&Amplitude Statistics...",
+  "path": "/Forms/GWMainForm/ActionList/ToolAmplitudeStatistics/Caption"
+ },
+ {
+  "id": "2029",
+  "text": "Shows various statistics related to the selection's amplitude",
+  "path": "/Forms/GWMainForm/ActionList/ToolAmplitudeStatistics/Hint"
+ },
+ {
+  "id": "2030",
+  "text": "Amp",
+  "path": "/Forms/GWMainForm/ActionList/ToolAmplitudeStatistics/ToolCaption"
+ },
+ {
+  "id": "2031",
+  "text": "CD &Reader...",
+  "path": "/Forms/GWMainForm/ActionList/ToolCDReader/Caption"
+ },
+ {
+  "id": "2032",
+  "text": "Reads audio directly from a CD",
+  "path": "/Forms/GWMainForm/ActionList/ToolCDReader/Hint"
+ },
+ {
+  "id": "2033",
+  "text": "CD",
+  "path": "/Forms/GWMainForm/ActionList/ToolCDReader/ToolCaption"
+ },
+ {
+  "id": "2034",
+  "text": "Compare Files...",
+  "path": "/Forms/GWMainForm/ActionList/ToolCompare/Caption"
+ },
+ {
+  "id": "2035",
+  "text": "Compares two audio files and graphs differences",
+  "path": "/Forms/GWMainForm/ActionList/ToolCompare/Hint"
+ },
+ {
+  "id": "2036",
+  "text": "Cmp",
+  "path": "/Forms/GWMainForm/ActionList/ToolCompare/ToolCaption"
+ },
+ {
+  "id": "2037",
+  "text": "Con&trol...",
+  "path": "/Forms/GWMainForm/ActionList/ToolControl/Caption"
+ },
+ {
+  "id": "2038",
+  "text": "Show or hide the playback and recording Control window",
+  "path": "/Forms/GWMainForm/ActionList/ToolControl/Hint"
+ },
+ {
+  "id": "2039",
+  "text": "Cue &Points...",
+  "path": "/Forms/GWMainForm/ActionList/ToolCuePoints/Caption"
+ },
+ {
+  "id": "2040",
+  "text": "Manages and edits cue points",
+  "path": "/Forms/GWMainForm/ActionList/ToolCuePoints/Hint"
+ },
+ {
+  "id": "2041",
+  "text": "Cues",
+  "path": "/Forms/GWMainForm/ActionList/ToolCuePoints/ToolCaption"
+ },
+ {
+  "id": "2042",
+  "text": "Effect &Chain Editor...",
+  "path": "/Forms/GWMainForm/ActionList/ToolEffectChainEditor/Caption"
+ },
+ {
+  "id": "2043",
+  "text": "Creates a chain of effects",
+  "path": "/Forms/GWMainForm/ActionList/ToolEffectChainEditor/Hint"
+ },
+ {
+  "id": "2044",
+  "text": "Chain",
+  "path": "/Forms/GWMainForm/ActionList/ToolEffectChainEditor/ToolCaption"
+ },
+ {
+  "id": "2045",
+  "text": "&Expression Evaluator...",
+  "path": "/Forms/GWMainForm/ActionList/ToolExpressionEvaluator/Caption"
+ },
+ {
+  "id": "2046",
+  "text": "Evaluates mathematical waveforms and expressions",
+  "path": "/Forms/GWMainForm/ActionList/ToolExpressionEvaluator/Hint"
+ },
+ {
+  "id": "2047",
+  "text": "Eval",
+  "path": "/Forms/GWMainForm/ActionList/ToolExpressionEvaluator/ToolCaption"
+ },
+ {
+  "id": "2048",
+  "text": "File &Merger...",
+  "path": "/Forms/GWMainForm/ActionList/ToolMerger/Caption"
+ },
+ {
+  "id": "2049",
+  "text": "Joins many files into one",
+  "path": "/Forms/GWMainForm/ActionList/ToolMerger/Hint"
+ },
+ {
+  "id": "2050",
+  "text": "Join",
+  "path": "/Forms/GWMainForm/ActionList/ToolMerger/ToolCaption"
+ },
+ {
+  "id": "2051",
+  "text": "Multi-Device &Recorder...",
+  "path": "/Forms/GWMainForm/ActionList/ToolMultiRecorder/Caption"
+ },
+ {
+  "id": "2052",
+  "text": "Records multiple inputs at the same time",
+  "path": "/Forms/GWMainForm/ActionList/ToolMultiRecorder/Hint"
+ },
+ {
+  "id": "2053",
+  "text": "Rec+",
+  "path": "/Forms/GWMainForm/ActionList/ToolMultiRecorder/ToolCaption"
+ },
+ {
+  "id": "2054",
+  "text": "Speech Converter...",
+  "path": "/Forms/GWMainForm/ActionList/ToolSpeech/Caption"
+ },
+ {
+  "id": "2055",
+  "text": "Converts text to speech or speech to text",
+  "path": "/Forms/GWMainForm/ActionList/ToolSpeech/Hint"
+ },
+ {
+  "id": "2056",
+  "text": "Talk",
+  "path": "/Forms/GWMainForm/ActionList/ToolSpeech/ToolCaption"
+ },
+ {
+  "id": "2057",
+  "text": "&Colour...",
+  "path": "/Forms/GWMainForm/ActionList/OptionColour/Caption"
+ },
+ {
+  "id": "2058",
+  "text": "Sets waveform colours",
+  "path": "/Forms/GWMainForm/ActionList/OptionColour/Hint"
+ },
+ {
+  "id": "2059",
+  "text": "ColOp",
+  "path": "/Forms/GWMainForm/ActionList/OptionColour/ToolCaption"
+ },
+ {
+  "id": "2060",
+  "text": "Control &Properties...",
+  "path": "/Forms/GWMainForm/ActionList/OptionControlProperties/Caption"
+ },
+ {
+  "id": "2061",
+  "text": "Displays the Control properties window",
+  "path": "/Forms/GWMainForm/ActionList/OptionControlProperties/Hint"
+ },
+ {
+  "id": "2062",
+  "text": "&File Formats...",
+  "path": "/Forms/GWMainForm/ActionList/OptionFileFormats/Caption"
+ },
+ {
+  "id": "2063",
+  "text": "File Formats|Sets how certain file formats are opened",
+  "path": "/Forms/GWMainForm/ActionList/OptionFileFormats/Hint"
+ },
+ {
+  "id": "2064",
+  "text": "FmtOp",
+  "path": "/Forms/GWMainForm/ActionList/OptionFileFormats/ToolCaption"
+ },
+ {
+  "id": "2065",
+  "text": "&Keyboard...",
+  "path": "/Forms/GWMainForm/ActionList/OptionKeyboard/Caption"
+ },
+ {
+  "id": "2066",
+  "text": "Sets keyboard shortcuts",
+  "path": "/Forms/GWMainForm/ActionList/OptionKeyboard/Hint"
+ },
+ {
+  "id": "2067",
+  "text": "&Language...",
+  "path": "/Forms/GWMainForm/ActionList/OptionLanguage/Caption"
+ },
+ {
+  "id": "2068",
+  "text": "Sets the language for the program",
+  "path": "/Forms/GWMainForm/ActionList/OptionLanguage/Hint"
+ },
+ {
+  "id": "2069",
+  "text": "&Storage...",
+  "path": "/Forms/GWMainForm/ActionList/OptionStorage/Caption"
+ },
+ {
+  "id": "2070",
+  "text": "Sets storage options and folders",
+  "path": "/Forms/GWMainForm/ActionList/OptionStorage/Hint"
+ },
+ {
+  "id": "2071",
+  "text": "StgOp",
+  "path": "/Forms/GWMainForm/ActionList/OptionStorage/ToolCaption"
+ },
+ {
+  "id": "2072",
+  "text": "T&heme...",
+  "path": "/Forms/GWMainForm/ActionList/OptionTheme/Caption"
+ },
+ {
+  "id": "2073",
+  "text": "Configures the theme",
+  "path": "/Forms/GWMainForm/ActionList/OptionTheme/Hint"
+ },
+ {
+  "id": "2074",
+  "text": "&Toolbar...",
+  "path": "/Forms/GWMainForm/ActionList/OptionToolbar/Caption"
+ },
+ {
+  "id": "2075",
+  "text": "Configures the toolbar",
+  "path": "/Forms/GWMainForm/ActionList/OptionToolbar/Hint"
+ },
+ {
+  "id": "2076",
+  "text": "BarOp",
+  "path": "/Forms/GWMainForm/ActionList/OptionToolbar/ToolCaption"
+ },
+ {
+  "id": "2077",
+  "text": "&Window...",
+  "path": "/Forms/GWMainForm/ActionList/OptionWindow/Caption"
+ },
+ {
+  "id": "2078",
+  "text": "Sets window and waveform related options",
+  "path": "/Forms/GWMainForm/ActionList/OptionWindow/Hint"
+ },
+ {
+  "id": "2079",
+  "text": "WinOp",
+  "path": "/Forms/GWMainForm/ActionList/OptionWindow/ToolCaption"
+ }
+]

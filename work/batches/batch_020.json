@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1520",
+  "text": "Limiter",
+  "path": "/Forms/Multiband/Band/Mode/Items.Strings/2"
+ },
+ {
+  "id": "1521",
+  "text": "Gate",
+  "path": "/Forms/Multiband/Band/Mode/Items.Strings/3"
+ },
+ {
+  "id": "1522",
+  "text": "Hold and skip back",
+  "path": "/Forms/PedalFrame/Option/Items.Strings/2"
+ },
+ {
+  "id": "1523",
+  "text": " &Presets ",
+  "path": "/Forms/PresetFrame/PresetGroup/Caption"
+ },
+ {
+  "id": "1524",
+  "text": "Add a new preset or update an existing preset",
+  "path": "/Forms/PresetFrame/PresetGroup/AddPreset/Hint"
+ },
+ {
+  "id": "1525",
+  "text": "Remove the current preset",
+  "path": "/Forms/PresetFrame/PresetGroup/RemovePreset/Hint"
+ },
+ {
+  "id": "1526",
+  "text": "Remove Preset",
+  "path": "/Forms/PresetFrame/PresetGroup/RemovePreset/Caption"
+ },
+ {
+  "id": "1527",
+  "text": "Preview",
+  "path": "/Forms/PreviewFrame/PreviewPlay/Caption"
+ },
+ {
+  "id": "1528",
+  "text": "Previews current settings",
+  "path": "/Forms/PreviewFrame/PreviewActionList/PreviewAction/Hint"
+ },
+ {
+  "id": "1529",
+  "text": "Pauses preview",
+  "path": "/Forms/PreviewFrame/PreviewActionList/PauseAction/Hint"
+ },
+ {
+  "id": "1530",
+  "text": "Attributes:",
+  "path": "/Forms/RawFormatFrame/AttributesLabel/Caption"
+ },
+ {
+  "id": "1531",
+  "text": "Sets the recording device",
+  "path": "/Forms/RecorderFrame/Device/Hint"
+ },
+ {
+  "id": "1532",
+  "text": "Sets the channel where recorded audio is saved",
+  "path": "/Forms/RecorderFrame/OutChannel/Hint"
+ },
+ {
+  "id": "1533",
+  "text": "Removes this recording device",
+  "path": "/Forms/RecorderFrame/RemoveButton/Hint"
+ },
+ {
+  "id": "1534",
+  "text": "RemoveButton",
+  "path": "/Forms/RecorderFrame/RemoveButton/Caption"
+ },
+ {
+  "id": "1535",
+  "text": "Check the Windows Privacy setting and that the device is on and ready",
+  "path": "/Forms/RecorderFrame/Message/Hint"
+ },
+ {
+  "id": "1536",
+  "text": "Error",
+  "path": "/Forms/RecorderFrame/Message/Caption"
+ },
+ {
+  "id": "1537",
+  "text": "Sets the window where the recorded audio is saved",
+  "path": "/Forms/RecorderFrame/OutSound/Hint"
+ },
+ {
+  "id": "1538",
+  "text": "Drag-and-drop: Drags the selection range",
+  "path": "/Forms/SoundFrame/Content/Waveform/MoveSelection/Hint"
+ },
+ {
+  "id": "1539",
+  "text": "Drag-and-drop: Drags the selection contents",
+  "path": "/Forms/SoundFrame/Content/Waveform/MoveSelectionContents/Hint"
+ },
+ {
+  "id": "1540",
+  "text": "Set &Start Marker",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveSetStartMarker/Caption"
+ },
+ {
+  "id": "1541",
+  "text": "Moves the start { marker to the right-click mouse position",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveSetStartMarker/Hint"
+ },
+ {
+  "id": "1542",
+  "text": "Set &Finish Marker",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveSetFinishMarker/Caption"
+ },
+ {
+  "id": "1543",
+  "text": "Moves the finish } marker to the right-click mouse position",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveSetFinishMarker/Hint"
+ },
+ {
+  "id": "1544",
+  "text": "Set Playback Marker",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveSetPlaybackMarker/Caption"
+ },
+ {
+  "id": "1545",
+  "text": "Moves the playback marker to the right-click mouse position",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveSetPlaybackMarker/Hint"
+ },
+ {
+  "id": "1546",
+  "text": "Play From &Here",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWavePlayFromHereItem/Caption"
+ },
+ {
+  "id": "1547",
+  "text": "Starts playback from the right-click mouse position",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWavePlayFromHereItem/Hint"
+ },
+ {
+  "id": "1548",
+  "text": "Edit",
+  "path": "/Forms/SoundFrame/MenuWave/MenuWaveEdit/Caption"
+ },
+ {
+  "id": "1549",
+  "text": "&Select",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeSelect/Caption"
+ },
+ {
+  "id": "1550",
+  "text": "Selects the range",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeSelect/Hint"
+ },
+ {
+  "id": "1551",
+  "text": "&Zoom",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeZoom/Caption"
+ },
+ {
+  "id": "1552",
+  "text": "Zooms in on the range",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeZoom/Hint"
+ },
+ {
+  "id": "1553",
+  "text": "&Play",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangePlay/Caption"
+ },
+ {
+  "id": "1554",
+  "text": "Plays the range",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangePlay/Hint"
+ },
+ {
+  "id": "1555",
+  "text": "&Copy",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeCopy/Caption"
+ },
+ {
+  "id": "1556",
+  "text": "Copies the range",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeCopy/Hint"
+ },
+ {
+  "id": "1557",
+  "text": "Cu&t",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeCut/Caption"
+ },
+ {
+  "id": "1558",
+  "text": "Cuts the range and puts it on the clipboard",
+  "path": "/Forms/SoundFrame/MenuWaveRange/MenuWaveRangeCut/Hint"
+ },
+ {
+  "id": "1559",
+  "text": "Play From Cue",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCuePlay/Caption"
+ },
+ {
+  "id": "1560",
+  "text": "Starts playback at cue point",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCuePlay/Hint"
+ },
+ {
+  "id": "1561",
+  "text": "Moves start marker to cue point",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueMoveStart/Hint"
+ },
+ {
+  "id": "1562",
+  "text": "Moves finish marker to cue point",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueMoveFinish/Hint"
+ },
+ {
+  "id": "1563",
+  "text": "Move Cue To Start",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueMoveToStart/Caption"
+ },
+ {
+  "id": "1564",
+  "text": "Moves cue point to start marker",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueMoveToStart/Hint"
+ },
+ {
+  "id": "1565",
+  "text": "Move Cue To Finish",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueMoveToFinish/Caption"
+ },
+ {
+  "id": "1566",
+  "text": "Moves cue point to finish marker",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueMoveToFinish/Hint"
+ },
+ {
+  "id": "1567",
+  "text": "Move Cue To Playback",
+  "path": "/Forms/SoundFrame/MenuCue/MenuMoveCueToPlayback/Caption"
+ },
+ {
+  "id": "1568",
+  "text": "Moves cue point to playback position",
+  "path": "/Forms/SoundFrame/MenuCue/MenuMoveCueToPlayback/Hint"
+ },
+ {
+  "id": "1569",
+  "text": "New Cue...",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueNew/Caption"
+ },
+ {
+  "id": "1570",
+  "text": "Edit Cue...",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueEdit/Caption"
+ },
+ {
+  "id": "1571",
+  "text": "Edits this cue point",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueEdit/Hint"
+ },
+ {
+  "id": "1572",
+  "text": "Delete Cue",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueDelete/Caption"
+ },
+ {
+  "id": "1573",
+  "text": "Deletes this cue point",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueDelete/Hint"
+ },
+ {
+  "id": "1574",
+  "text": "Select Between Cues",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueSelect/Caption"
+ },
+ {
+  "id": "1575",
+  "text": "Selects area between nearest cue points",
+  "path": "/Forms/SoundFrame/MenuCue/MenuCueSelect/Hint"
+ },
+ {
+  "id": "1576",
+  "text": "GoldWave",
+  "path": "/Forms/GWMainForm/Caption"
+ },
+ {
+  "id": "1577",
+  "text": "Modified",
+  "path": "/Forms/GWMainForm/StatusBottom/Panels/0/Text"
+ },
+ {
+  "id": "1578",
+  "text": "Zoom",
+  "path": "/Forms/GWMainForm/StatusBottom/Panels/1/Text"
+ },
+ {
+  "id": "1579",
+  "text": "Format Description",
+  "path": "/Forms/GWMainForm/StatusBottom/Panels/2/Text"
+ },
+ {
+  "id": "1580",
+  "text": "Selection Range",
+  "path": "/Forms/GWMainForm/StatusTop/Panels/2/Text"
+ },
+ {
+  "id": "1581",
+  "text": "Displays a window to enter a license",
+  "path": "/Forms/GWMainForm/EvaluationPanel/EnterLicense/Hint"
+ },
+ {
+  "id": "1582",
+  "text": "Goes to the website",
+  "path": "/Forms/GWMainForm/EvaluationPanel/BuyLicense/Hint"
+ },
+ {
+  "id": "1583",
+  "text": "Sign up for update notices and special discounts",
+  "path": "/Forms/GWMainForm/EvaluationPanel/Subscribe/Hint"
+ },
+ {
+  "id": "1584",
+  "text": "&Subscribe",
+  "path": "/Forms/GWMainForm/EvaluationPanel/Subscribe/Caption"
+ },
+ {
+  "id": "1585",
+  "text": "File related commands",
+  "path": "/Forms/GWMainForm/MainMenu/FileMenu/Hint"
+ },
+ {
+  "id": "1586",
+  "text": "Recent",
+  "path": "/Forms/GWMainForm/MainMenu/FileMenu/FileRecentItem/Caption"
+ },
+ {
+  "id": "1587",
+  "text": "Converted Save",
+  "path": "/Forms/GWMainForm/MainMenu/FileMenu/FileConvertedSaveItem/Caption"
+ },
+ {
+  "id": "1588",
+  "text": "Edit commands",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/Hint"
+ },
+ {
+  "id": "1589",
+  "text": "Paste At",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/PasteAtItem/Caption"
+ },
+ {
+  "id": "1590",
+  "text": "Trim",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/TrimItem/Caption"
+ },
+ {
+  "id": "1591",
+  "text": "C&hannel",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/EditChannelItem/Caption"
+ },
+ {
+  "id": "1592",
+  "text": "Channel selection menu",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/EditChannelItem/Hint"
+ },
+ {
+  "id": "1593",
+  "text": "Cue P&oint",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/EditCuePointItem/Caption"
+ },
+ {
+  "id": "1594",
+  "text": "&Edit Cue Points...",
+  "path": "/Forms/GWMainForm/MainMenu/EditMenu/EditCuePointItem/EditCuePointsItem/Caption"
+ },
+ {
+  "id": "1595",
+  "text": "Effe&ct",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/Caption"
+ },
+ {
+  "id": "1596",
+  "text": "Effect commands",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/Hint"
+ },
+ {
+  "id": "1597",
+  "text": "&Filter",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectFilterMenu/Caption"
+ },
+ {
+  "id": "1598",
+  "text": "Filter effects",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectFilterMenu/Hint"
+ },
+ {
+  "id": "1599",
+  "text": "Plug-in",
+  "path": "/Forms/GWMainForm/MainMenu/EffectMenu/EffectPluginMenu/Caption"
+ }
+]

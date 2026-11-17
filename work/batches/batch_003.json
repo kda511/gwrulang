@@ -1,0 +1,402 @@
+[
+ {
+  "id": "160",
+  "text": "Stereo: left and right only",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/2"
+ },
+ {
+  "id": "161",
+  "text": "Mono: mix down",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/3"
+ },
+ {
+  "id": "162",
+  "text": "Mono: left only",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/4"
+ },
+ {
+  "id": "163",
+  "text": "Mono: right only",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordMono/Items.Strings/5"
+ },
+ {
+  "id": "164",
+  "text": "Use device attributes",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordAttributes/Text"
+ },
+ {
+  "id": "165",
+  "text": "Use new file attributes",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DeviceRecordGroup/DeviceRecordAttributes/Items.Strings/1"
+ },
+ {
+  "id": "166",
+  "text": " Playback ",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/Caption"
+ },
+ {
+  "id": "167",
+  "text": "Alternative initialization",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/DevicePlayAlternative/Caption"
+ },
+ {
+  "id": "168",
+  "text": "Latency (s):",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/DevicePlayLatency/Caption"
+ },
+ {
+  "id": "169",
+  "text": "Muting:",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/DevicePlayChannelsLabel/Caption"
+ },
+ {
+  "id": "170",
+  "text": "Mute unselected",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/DevicePlayChannels/Text"
+ },
+ {
+  "id": "171",
+  "text": "Play unselected",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/DevicePlayChannels/Items.Strings/1"
+ },
+ {
+  "id": "172",
+  "text": "Play solo as stereo",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/DeviceSheet/DevicePlaybackGroup/DevicePlayChannels/Items.Strings/2"
+ },
+ {
+  "id": "173",
+  "text": "System",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/Test/Caption"
+ },
+ {
+  "id": "174",
+  "text": "Use DirectSound API",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/Test/SystemDirectSound/Caption"
+ },
+ {
+  "id": "175",
+  "text": "Use Core Audio/WASAPI",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/Test/SystemWASAPI/Caption"
+ },
+ {
+  "id": "176",
+  "text": "Configure...",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/Test/SystemConfigure/Caption"
+ },
+ {
+  "id": "177",
+  "text": "Information",
+  "path": "/Forms/ControlPropertiesForm/ControlSheet/Test/SystemInformation/Caption"
+ },
+ {
+  "id": "178",
+  "text": "Sets visual properties",
+  "path": "/Forms/ControlPropertiesForm/ActionManager/PropertiesAction/Hint"
+ },
+ {
+  "id": "179",
+  "text": "Auto Gain",
+  "path": "/Forms/AutoGainForm/Caption"
+ },
+ {
+  "id": "180",
+  "text": "Channel",
+  "path": "/Forms/AutoGainForm/List/Columns/0/Caption"
+ },
+ {
+  "id": "181",
+  "text": "Preview Gain %",
+  "path": "/Forms/AutoGainForm/List/Columns/1/Caption"
+ },
+ {
+  "id": "182",
+  "text": "Preview Gain dB",
+  "path": "/Forms/AutoGainForm/List/Columns/2/Caption"
+ },
+ {
+  "id": "183",
+  "text": "Silence level (dB):",
+  "path": "/Forms/AutoGainForm/Threshold/Caption"
+ },
+ {
+  "id": "184",
+  "text": "Maximum gain (dB):",
+  "path": "/Forms/AutoGainForm/Maximum/Caption"
+ },
+ {
+  "id": "185",
+  "text": "Attack/release (s):",
+  "path": "/Forms/AutoGainForm/Time/Caption"
+ },
+ {
+  "id": "186",
+  "text": "Update interval (s):",
+  "path": "/Forms/AutoGainForm/Interval/Caption"
+ },
+ {
+  "id": "187",
+  "text": "Target volume (dB):",
+  "path": "/Forms/AutoGainForm/Volume/Caption"
+ },
+ {
+  "id": "188",
+  "text": "Auto Offset Removal",
+  "path": "/Forms/AutoOffset/Caption"
+ },
+ {
+  "id": "189",
+  "text": "Duration",
+  "path": "/Forms/AutoOffset/Duration/Label"
+ },
+ {
+  "id": "190",
+  "text": "Duration for offset calculation (s):",
+  "path": "/Forms/AutoOffset/DurationLabel/Caption"
+ },
+ {
+  "id": "191",
+  "text": "Preview Offset",
+  "path": "/Forms/AutoOffset/List/Columns/1/Caption"
+ },
+ {
+  "id": "192",
+  "text": "Bandpass/stop",
+  "path": "/Forms/BandForm/Caption"
+ },
+ {
+  "id": "193",
+  "text": " Initial frequency range ",
+  "path": "/Forms/BandForm/InitialGroup/Caption"
+ },
+ {
+  "id": "194",
+  "text": "From (Hz):",
+  "path": "/Forms/BandForm/InitialGroup/InitialFrom/Caption"
+ },
+ {
+  "id": "195",
+  "text": "To (Hz):",
+  "path": "/Forms/BandForm/InitialGroup/InitialTo/Caption"
+ },
+ {
+  "id": "196",
+  "text": " Final frequency range ",
+  "path": "/Forms/BandForm/FinalGroup/Caption"
+ },
+ {
+  "id": "197",
+  "text": " Settings ",
+  "path": "/Forms/BandForm/SettingsGroup/Caption"
+ },
+ {
+  "id": "198",
+  "text": "Band&pass",
+  "path": "/Forms/BandForm/SettingsGroup/TypeGroup/Bandpass/Caption"
+ },
+ {
+  "id": "199",
+  "text": "&Bandstop",
+  "path": "/Forms/BandForm/SettingsGroup/TypeGroup/Bandstop/Caption"
+ },
+ {
+  "id": "200",
+  "text": "&Dynamic",
+  "path": "/Forms/BandForm/SettingsGroup/DynamicGroup/Dynamic/Caption"
+ },
+ {
+  "id": "201",
+  "text": "&Static",
+  "path": "/Forms/BandForm/SettingsGroup/DynamicGroup/Static/Caption"
+ },
+ {
+  "id": "202",
+  "text": "Steepness:",
+  "path": "/Forms/BandForm/SettingsGroup/Steepness/Caption"
+ },
+ {
+  "id": "203",
+  "text": "Censor",
+  "path": "/Forms/CensorForm/Caption"
+ },
+ {
+  "id": "204",
+  "text": "Crossfade time (s):",
+  "path": "/Forms/CensorForm/FadeTime/Caption"
+ },
+ {
+  "id": "205",
+  "text": "Source volume (dB):",
+  "path": "/Forms/CensorForm/Source/Caption"
+ },
+ {
+  "id": "206",
+  "text": "Censor volume (dB):",
+  "path": "/Forms/CensorForm/Volume/Caption"
+ },
+ {
+  "id": "207",
+  "text": "Low tone",
+  "path": "/Forms/CensorForm/CensorType/Text"
+ },
+ {
+  "id": "208",
+  "text": "Medium tone",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/1"
+ },
+ {
+  "id": "209",
+  "text": "High tone",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/2"
+ },
+ {
+  "id": "210",
+  "text": "Ding",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/3"
+ },
+ {
+  "id": "211",
+  "text": "Ding dong",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/4"
+ },
+ {
+  "id": "212",
+  "text": "Buzz",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/5"
+ },
+ {
+  "id": "213",
+  "text": "Siren",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/6"
+ },
+ {
+  "id": "214",
+  "text": "Static",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/7"
+ },
+ {
+  "id": "215",
+  "text": "Gibberish",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/8"
+ },
+ {
+  "id": "216",
+  "text": "Clipboard",
+  "path": "/Forms/CensorForm/CensorType/Items.Strings/9"
+ },
+ {
+  "id": "217",
+  "text": "Censor type:",
+  "path": "/Forms/CensorForm/CensorText/Caption"
+ },
+ {
+  "id": "218",
+  "text": "Channel Mix",
+  "path": "/Forms/ChannelMixForm/Caption"
+ },
+ {
+  "id": "219",
+  "text": " Left ",
+  "path": "/Forms/ChannelMixForm/LeftGroup/Caption"
+ },
+ {
+  "id": "220",
+  "text": "Left volume (%):",
+  "path": "/Forms/ChannelMixForm/LeftGroup/LeftLeft/Caption"
+ },
+ {
+  "id": "221",
+  "text": "Right volume (%):",
+  "path": "/Forms/ChannelMixForm/LeftGroup/LeftRight/Caption"
+ },
+ {
+  "id": "222",
+  "text": " Right ",
+  "path": "/Forms/ChannelMixForm/RightGroup/Caption"
+ },
+ {
+  "id": "223",
+  "text": "DopplerEffectForm",
+  "path": "/Forms/DopplerEffectForm/Caption"
+ },
+ {
+  "id": "224",
+  "text": "Dynamics",
+  "path": "/Forms/DynamicsForm/Caption"
+ },
+ {
+  "id": "225",
+  "text": "Echo",
+  "path": "/Forms/EchoForm/Caption"
+ },
+ {
+  "id": "226",
+  "text": "Stereo",
+  "path": "/Forms/EchoForm/Stereo/Caption"
+ },
+ {
+  "id": "227",
+  "text": "Generate tail",
+  "path": "/Forms/EchoForm/MakeTail/Caption"
+ },
+ {
+  "id": "228",
+  "text": "Feedback (dB):",
+  "path": "/Forms/EchoForm/Feedback/Caption"
+ },
+ {
+  "id": "229",
+  "text": "Delay (s):",
+  "path": "/Forms/EchoForm/Delay/Caption"
+ },
+ {
+  "id": "230",
+  "text": "Echoes:",
+  "path": "/Forms/EchoForm/Echoes/Caption"
+ },
+ {
+  "id": "231",
+  "text": "Equalizer",
+  "path": "/Forms/EqualizerForm/Caption"
+ },
+ {
+  "id": "232",
+  "text": "dB",
+  "path": "/Forms/EqualizerForm/dBLabel2/Caption"
+ },
+ {
+  "id": "233",
+  "text": "60Hz band",
+  "path": "/Forms/EqualizerForm/Band1/Label"
+ },
+ {
+  "id": "234",
+  "text": "60Hz",
+  "path": "/Forms/EqualizerForm/Band1Label/Caption"
+ },
+ {
+  "id": "235",
+  "text": "150Hz band",
+  "path": "/Forms/EqualizerForm/Band2/Label"
+ },
+ {
+  "id": "236",
+  "text": "150Hz",
+  "path": "/Forms/EqualizerForm/Band2Label/Caption"
+ },
+ {
+  "id": "237",
+  "text": "400Hz band",
+  "path": "/Forms/EqualizerForm/Band3/Label"
+ },
+ {
+  "id": "238",
+  "text": "400Hz",
+  "path": "/Forms/EqualizerForm/Band3Label/Caption"
+ },
+ {
+  "id": "239",
+  "text": "1kHz band",
+  "path": "/Forms/EqualizerForm/Band4/Label"
+ }
+]

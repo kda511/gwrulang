@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1840",
+  "text": "{ To 0",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToBeginning/ToolCaption"
+ },
+ {
+  "id": "1841",
+  "text": "Move Start To Finish",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToFinish/Caption"
+ },
+ {
+  "id": "1842",
+  "text": "Moves the start { marker to the finish } marker",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToFinish/Hint"
+ },
+ {
+  "id": "1843",
+  "text": "{ To }",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToFinish/ToolCaption"
+ },
+ {
+  "id": "1844",
+  "text": "Move Finish To End",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishToEnd/Caption"
+ },
+ {
+  "id": "1845",
+  "text": "Moves the finish } marker to the end of the file",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishToEnd/Hint"
+ },
+ {
+  "id": "1846",
+  "text": "} To .",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishToEnd/ToolCaption"
+ },
+ {
+  "id": "1847",
+  "text": "Move Finish To Start",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishToStart/Caption"
+ },
+ {
+  "id": "1848",
+  "text": "Moves the finish } marker to the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishToStart/Hint"
+ },
+ {
+  "id": "1849",
+  "text": "} To {",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveFinishToStart/ToolCaption"
+ },
+ {
+  "id": "1850",
+  "text": "Store Selection Range",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionSaveRange/Caption"
+ },
+ {
+  "id": "1851",
+  "text": "Saves the current selection range",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionSaveRange/Hint"
+ },
+ {
+  "id": "1852",
+  "text": "Recall Selection Range",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionRecallRange/Caption"
+ },
+ {
+  "id": "1853",
+  "text": "Sets the selection to the previously stored range",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionRecallRange/Hint"
+ },
+ {
+  "id": "1854",
+  "text": "Snap To &Zero-Crossing",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionSnap/Caption"
+ },
+ {
+  "id": "1855",
+  "text": "Keeps selection start { and finish } markers near zero-crossing waveform points, reducing pops between edits",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionSnap/Hint"
+ },
+ {
+  "id": "1856",
+  "text": "Add &Cue Point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDrop/Caption"
+ },
+ {
+  "id": "1857",
+  "text": "Adds a cue point at current playback or recording time",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDrop/Hint"
+ },
+ {
+  "id": "1858",
+  "text": "Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDrop/ToolCaption"
+ },
+ {
+  "id": "1859",
+  "text": "Add &Cue At Start",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropStart/Caption"
+ },
+ {
+  "id": "1860",
+  "text": "Adds a cue point at the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropStart/Hint"
+ },
+ {
+  "id": "1861",
+  "text": "Cue {",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropStart/ToolCaption"
+ },
+ {
+  "id": "1862",
+  "text": "Add &Cue At Finish",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropFinish/Caption"
+ },
+ {
+  "id": "1863",
+  "text": "Adds a cue point at the finish } marker",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropFinish/Hint"
+ },
+ {
+  "id": "1864",
+  "text": "Cue }",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropFinish/ToolCaption"
+ },
+ {
+  "id": "1865",
+  "text": "Add &And Edit Cue Point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropEdit/Caption"
+ },
+ {
+  "id": "1866",
+  "text": "Adds a cue point at current playback or recording time and displays an edit window",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropEdit/Hint"
+ },
+ {
+  "id": "1867",
+  "text": "Cue...",
+  "path": "/Forms/GWMainForm/ActionList/EditCueDropEdit/ToolCaption"
+ },
+ {
+  "id": "1868",
+  "text": "Move Start To &Next Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNext/Caption"
+ },
+ {
+  "id": "1869",
+  "text": "Moves the start { marker to the next cue point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNext/Hint"
+ },
+ {
+  "id": "1870",
+  "text": "Next{",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNext/ToolCaption"
+ },
+ {
+  "id": "1871",
+  "text": "Move Start To &Previous Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPrevious/Caption"
+ },
+ {
+  "id": "1872",
+  "text": "Moves the start { marker to the previous cue point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPrevious/Hint"
+ },
+ {
+  "id": "1873",
+  "text": "Prev{",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPrevious/ToolCaption"
+ },
+ {
+  "id": "1874",
+  "text": "Move &Finish To Next Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNextFinish/Caption"
+ },
+ {
+  "id": "1875",
+  "text": "Moves the finish } marker to the next cue point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNextFinish/Hint"
+ },
+ {
+  "id": "1876",
+  "text": "Next}",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNextFinish/ToolCaption"
+ },
+ {
+  "id": "1877",
+  "text": "Move Finish To Pre&vious Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPreviousFinish/Caption"
+ },
+ {
+  "id": "1878",
+  "text": "Moves the finish } marker to the previous cue point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPreviousFinish/Hint"
+ },
+ {
+  "id": "1879",
+  "text": "Prev}",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPreviousFinish/ToolCaption"
+ },
+ {
+  "id": "1880",
+  "text": "Move Play To &Next Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNextPlay/Caption"
+ },
+ {
+  "id": "1881",
+  "text": "Moves the playback marker to the next cue point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNextPlay/Hint"
+ },
+ {
+  "id": "1882",
+  "text": "Next>",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpNextPlay/ToolCaption"
+ },
+ {
+  "id": "1883",
+  "text": "Move Play To Pre&vious Cue",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPreviousPlay/Caption"
+ },
+ {
+  "id": "1884",
+  "text": "Moves the playback marker to the previous cue point",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPreviousPlay/Hint"
+ },
+ {
+  "id": "1885",
+  "text": "Prev>",
+  "path": "/Forms/GWMainForm/ActionList/EditCueJumpPreviousPlay/ToolCaption"
+ },
+ {
+  "id": "1886",
+  "text": "Splits a file into smaller sections using cue points",
+  "path": "/Forms/GWMainForm/ActionList/EditCueSplitFile/Hint"
+ },
+ {
+  "id": "1887",
+  "text": "Split",
+  "path": "/Forms/GWMainForm/ActionList/EditCueSplitFile/ToolCaption"
+ },
+ {
+  "id": "1888",
+  "text": "Views the entire file",
+  "path": "/Forms/GWMainForm/ActionList/ViewAll/Hint"
+ },
+ {
+  "id": "1889",
+  "text": "&Selection",
+  "path": "/Forms/GWMainForm/ActionList/ViewSelection/Caption"
+ },
+ {
+  "id": "1890",
+  "text": "Views only the selection",
+  "path": "/Forms/GWMainForm/ActionList/ViewSelection/Hint"
+ },
+ {
+  "id": "1891",
+  "text": "Sel",
+  "path": "/Forms/GWMainForm/ActionList/ViewSelection/ToolCaption"
+ },
+ {
+  "id": "1892",
+  "text": "Vie&w Selection",
+  "path": "/Forms/GWMainForm/ActionList/ViewViewSelection/Caption"
+ },
+ {
+  "id": "1893",
+  "text": "View Selection|Zooms in to show only the selection",
+  "path": "/Forms/GWMainForm/ActionList/ViewViewSelection/Hint"
+ },
+ {
+  "id": "1894",
+  "text": "Specif&y...",
+  "path": "/Forms/GWMainForm/ActionList/ViewSpecify/Caption"
+ },
+ {
+  "id": "1895",
+  "text": "Specifies a zoom level or time range to view",
+  "path": "/Forms/GWMainForm/ActionList/ViewSpecify/Hint"
+ },
+ {
+  "id": "1896",
+  "text": "Spec",
+  "path": "/Forms/GWMainForm/ActionList/ViewSpecify/ToolCaption"
+ },
+ {
+  "id": "1897",
+  "text": "Views to the previous range",
+  "path": "/Forms/GWMainForm/ActionList/ViewPrevious/Hint"
+ },
+ {
+  "id": "1898",
+  "text": "P&reset",
+  "path": "/Forms/GWMainForm/ActionList/ViewPreset/Caption"
+ },
+ {
+  "id": "1899",
+  "text": "Views a preset zoom level or range",
+  "path": "/Forms/GWMainForm/ActionList/ViewPreset/Hint"
+ },
+ {
+  "id": "1900",
+  "text": "Follow Playback",
+  "path": "/Forms/GWMainForm/ActionList/ViewAutoScroll/Caption"
+ },
+ {
+  "id": "1901",
+  "text": "Scrolls the waveform during playback or recording and enables keyboard navigation",
+  "path": "/Forms/GWMainForm/ActionList/ViewAutoScroll/Hint"
+ },
+ {
+  "id": "1902",
+  "text": "Zoom &In",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomIn/Caption"
+ },
+ {
+  "id": "1903",
+  "text": "View more detail but less time",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomIn/Hint"
+ },
+ {
+  "id": "1904",
+  "text": "In",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomIn/ToolCaption"
+ },
+ {
+  "id": "1905",
+  "text": "Zoom &Out",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomOut/Caption"
+ },
+ {
+  "id": "1906",
+  "text": "View more time but less detail",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomOut/Hint"
+ },
+ {
+  "id": "1907",
+  "text": "Out",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoomOut/ToolCaption"
+ },
+ {
+  "id": "1908",
+  "text": "Zoom 1&0:1",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoom10To1/Caption"
+ },
+ {
+  "id": "1909",
+  "text": "Zooms to a level where individual samples are visible and editable",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoom10To1/Hint"
+ },
+ {
+  "id": "1910",
+  "text": "Zoom &1:1",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoom1To1/Caption"
+ },
+ {
+  "id": "1911",
+  "text": "Zooms the actual waveform",
+  "path": "/Forms/GWMainForm/ActionList/ViewZoom1To1/Hint"
+ },
+ {
+  "id": "1912",
+  "text": "1 S&econd",
+  "path": "/Forms/GWMainForm/ActionList/View1Second/Caption"
+ },
+ {
+  "id": "1913",
+  "text": "Views one second of time",
+  "path": "/Forms/GWMainForm/ActionList/View1Second/Hint"
+ },
+ {
+  "id": "1914",
+  "text": "1s",
+  "path": "/Forms/GWMainForm/ActionList/View1Second/ToolCaption"
+ },
+ {
+  "id": "1915",
+  "text": "10 Se&conds",
+  "path": "/Forms/GWMainForm/ActionList/View10Seconds/Caption"
+ },
+ {
+  "id": "1916",
+  "text": "Views 10 seconds of time",
+  "path": "/Forms/GWMainForm/ActionList/View10Seconds/Hint"
+ },
+ {
+  "id": "1917",
+  "text": "10s",
+  "path": "/Forms/GWMainForm/ActionList/View10Seconds/ToolCaption"
+ },
+ {
+  "id": "1918",
+  "text": "1 &Minute",
+  "path": "/Forms/GWMainForm/ActionList/View1Minute/Caption"
+ },
+ {
+  "id": "1919",
+  "text": "Views 1 minute of time",
+  "path": "/Forms/GWMainForm/ActionList/View1Minute/Hint"
+ }
+]

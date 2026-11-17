@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1760",
+  "text": "Overwrites the sound with the clipboard audio beginning at start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditOverwrite/Hint"
+ },
+ {
+  "id": "1761",
+  "text": "Over",
+  "path": "/Forms/GWMainForm/ActionList/EditOverwrite/ToolCaption"
+ },
+ {
+  "id": "1762",
+  "text": "Inserts the clipboard audio at the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditPaste/Hint"
+ },
+ {
+  "id": "1763",
+  "text": "Paste &New",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteNew/Caption"
+ },
+ {
+  "id": "1764",
+  "text": "Creates a new file containing the clipboard audio",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteNew/Hint"
+ },
+ {
+  "id": "1765",
+  "text": "&Beginning",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtBeginning/Caption"
+ },
+ {
+  "id": "1766",
+  "text": "Inserts the clipboard audio at the beginning of the file",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtBeginning/Hint"
+ },
+ {
+  "id": "1767",
+  "text": "Begin",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtBeginning/ToolCaption"
+ },
+ {
+  "id": "1768",
+  "text": "&End",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtEnd/Caption"
+ },
+ {
+  "id": "1769",
+  "text": "Appends the clipboard audio to the end of the file",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtEnd/Hint"
+ },
+ {
+  "id": "1770",
+  "text": "End",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtEnd/ToolCaption"
+ },
+ {
+  "id": "1771",
+  "text": "&Finish Marker",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtFinish/Caption"
+ },
+ {
+  "id": "1772",
+  "text": "Inserts the clipboard audio at the finish } marker position",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteAtFinish/Hint"
+ },
+ {
+  "id": "1773",
+  "text": "Paste From B",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteFromB/Caption"
+ },
+ {
+  "id": "1774",
+  "text": "Inserts clipboard 'B' audio at the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteFromB/Hint"
+ },
+ {
+  "id": "1775",
+  "text": "PasteB",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteFromB/ToolCaption"
+ },
+ {
+  "id": "1776",
+  "text": "Paste From A",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteFromA/Caption"
+ },
+ {
+  "id": "1777",
+  "text": "Inserts clipboard 'A' audio at the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteFromA/Hint"
+ },
+ {
+  "id": "1778",
+  "text": "PasteA",
+  "path": "/Forms/GWMainForm/ActionList/EditPasteFromA/ToolCaption"
+ },
+ {
+  "id": "1779",
+  "text": "&Replace",
+  "path": "/Forms/GWMainForm/ActionList/EditReplace/Caption"
+ },
+ {
+  "id": "1780",
+  "text": "Replaces the selection with the clipboard audio",
+  "path": "/Forms/GWMainForm/ActionList/EditReplace/Hint"
+ },
+ {
+  "id": "1781",
+  "text": "Repl",
+  "path": "/Forms/GWMainForm/ActionList/EditReplace/ToolCaption"
+ },
+ {
+  "id": "1782",
+  "text": "Deletes everything before the start { marker",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimBeginning/Hint"
+ },
+ {
+  "id": "1783",
+  "text": "{Trim",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimBeginning/ToolCaption"
+ },
+ {
+  "id": "1784",
+  "text": "Deletes everything after the finish } marker",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimEnd/Hint"
+ },
+ {
+  "id": "1785",
+  "text": "Trim}",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimEnd/ToolCaption"
+ },
+ {
+  "id": "1786",
+  "text": "Bo&th",
+  "path": "/Forms/GWMainForm/ActionList/EditTrim/Caption"
+ },
+ {
+  "id": "1787",
+  "text": "Deletes the unselected ends keeping only the selection",
+  "path": "/Forms/GWMainForm/ActionList/EditTrim/Hint"
+ },
+ {
+  "id": "1788",
+  "text": "&Silence...",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimSilence/Caption"
+ },
+ {
+  "id": "1789",
+  "text": "Trims leading and trailing silences within the selection",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimSilence/Hint"
+ },
+ {
+  "id": "1790",
+  "text": "TrimS",
+  "path": "/Forms/GWMainForm/ActionList/EditTrimSilence/ToolCaption"
+ },
+ {
+  "id": "1791",
+  "text": "&Blend At Marker...",
+  "path": "/Forms/GWMainForm/ActionList/EditBlend/Caption"
+ },
+ {
+  "id": "1792",
+  "text": "Blends the audio to the left and right of the selection markers to smooth an edit",
+  "path": "/Forms/GWMainForm/ActionList/EditBlend/Hint"
+ },
+ {
+  "id": "1793",
+  "text": "Blend",
+  "path": "/Forms/GWMainForm/ActionList/EditBlend/ToolCaption"
+ },
+ {
+  "id": "1794",
+  "text": "&Blend At Start",
+  "path": "/Forms/GWMainForm/ActionList/EditBlendStart/Caption"
+ },
+ {
+  "id": "1795",
+  "text": "Blends the audio to the left and right of the start marker to smooth an edit",
+  "path": "/Forms/GWMainForm/ActionList/EditBlendStart/Hint"
+ },
+ {
+  "id": "1796",
+  "text": "Find...",
+  "path": "/Forms/GWMainForm/ActionList/EditFind/Caption"
+ },
+ {
+  "id": "1797",
+  "text": "Searches the sound",
+  "path": "/Forms/GWMainForm/ActionList/EditFind/Hint"
+ },
+ {
+  "id": "1798",
+  "text": "Find Next...",
+  "path": "/Forms/GWMainForm/ActionList/EditFindNext/Caption"
+ },
+ {
+  "id": "1799",
+  "text": "Searches the sound for the next match",
+  "path": "/Forms/GWMainForm/ActionList/EditFindNext/Hint"
+ },
+ {
+  "id": "1800",
+  "text": "Select &All",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectAll/Caption"
+ },
+ {
+  "id": "1801",
+  "text": "Selects the entire file",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectAll/Hint"
+ },
+ {
+  "id": "1802",
+  "text": "Sel All",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectAll/ToolCaption"
+ },
+ {
+  "id": "1803",
+  "text": "Select &View",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectView/Caption"
+ },
+ {
+  "id": "1804",
+  "text": "Selects all the audio currently shown in the window",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectView/Hint"
+ },
+ {
+  "id": "1805",
+  "text": "Sel Vw",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectView/ToolCaption"
+ },
+ {
+  "id": "1806",
+  "text": "&Select Channels...",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSelect/Caption"
+ },
+ {
+  "id": "1807",
+  "text": "Displays the channel selector window",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSelect/Hint"
+ },
+ {
+  "id": "1808",
+  "text": "Chan",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSelect/ToolCaption"
+ },
+ {
+  "id": "1809",
+  "text": "&All",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelAll/Caption"
+ },
+ {
+  "id": "1810",
+  "text": "Selects all channels",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelAll/Hint"
+ },
+ {
+  "id": "1811",
+  "text": "&Left",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelLeft/Caption"
+ },
+ {
+  "id": "1812",
+  "text": "Left|Selects front left channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelLeft/Hint"
+ },
+ {
+  "id": "1813",
+  "text": "&Right",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelRight/Caption"
+ },
+ {
+  "id": "1814",
+  "text": "Right|Selects front right channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelRight/Hint"
+ },
+ {
+  "id": "1815",
+  "text": "&Center",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelCenter/Caption"
+ },
+ {
+  "id": "1816",
+  "text": "Center|Selects front center channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelCenter/Hint"
+ },
+ {
+  "id": "1817",
+  "text": "L&FE",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelLFE/Caption"
+ },
+ {
+  "id": "1818",
+  "text": "LFE|Selects low frequency effects channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelLFE/Hint"
+ },
+ {
+  "id": "1819",
+  "text": "&Back Left",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelBackLeft/Caption"
+ },
+ {
+  "id": "1820",
+  "text": "Back Left|Selects back left channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelBackLeft/Hint"
+ },
+ {
+  "id": "1821",
+  "text": "&Back Right",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelBackRight/Caption"
+ },
+ {
+  "id": "1822",
+  "text": "Back Right|Selects back right channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelBackRight/Hint"
+ },
+ {
+  "id": "1823",
+  "text": "&Side Left",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSideLeft/Caption"
+ },
+ {
+  "id": "1824",
+  "text": "Side Left|Selects side left channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSideLeft/Hint"
+ },
+ {
+  "id": "1825",
+  "text": "&Side Right",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSideRight/Caption"
+ },
+ {
+  "id": "1826",
+  "text": "Side Right|Selects side right channel",
+  "path": "/Forms/GWMainForm/ActionList/EditChannelSideRight/Hint"
+ },
+ {
+  "id": "1827",
+  "text": "&Set...",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionSet/Caption"
+ },
+ {
+  "id": "1828",
+  "text": "Sets the selection numerically",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionSet/Hint"
+ },
+ {
+  "id": "1829",
+  "text": "&Previous",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionPrevious/Caption"
+ },
+ {
+  "id": "1830",
+  "text": "Sets the selection to the previous range",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionPrevious/Hint"
+ },
+ {
+  "id": "1831",
+  "text": "Prev",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionPrevious/ToolCaption"
+ },
+ {
+  "id": "1832",
+  "text": "&Move Start To Elapsed",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionDropStart/Caption"
+ },
+ {
+  "id": "1833",
+  "text": "Moves the start { marker to the current playback or recording time",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionDropStart/Hint"
+ },
+ {
+  "id": "1834",
+  "text": "Move {",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionDropStart/ToolCaption"
+ },
+ {
+  "id": "1835",
+  "text": "Move &Finish To Elapsed",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionDropFinish/Caption"
+ },
+ {
+  "id": "1836",
+  "text": "Moves the finish } marker to the current playback or recording time",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionDropFinish/Hint"
+ },
+ {
+  "id": "1837",
+  "text": "Move }",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionDropFinish/ToolCaption"
+ },
+ {
+  "id": "1838",
+  "text": "Move Start To Beginning",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToBeginning/Caption"
+ },
+ {
+  "id": "1839",
+  "text": "Moves the start { marker to the beginning of the file",
+  "path": "/Forms/GWMainForm/ActionList/EditSelectionMoveStartToBeginning/Hint"
+ }
+]
